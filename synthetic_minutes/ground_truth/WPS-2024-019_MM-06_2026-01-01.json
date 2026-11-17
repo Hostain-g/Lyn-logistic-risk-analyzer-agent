@@ -1,0 +1,50 @@
+{
+  "file": "WPS-2024-019_MM-06_2026-01-01.pdf",
+  "project_no": "WPS-2024-019",
+  "project_name": "Lakeview Wastewater Pump Station Upgrade \u2014 Phase 2",
+  "meeting_no": 6,
+  "date": "2026-01-01",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 19.0,
+    "baseline_pct": 19,
+    "days_behind": 0,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Cost escalation on remaining quantities",
+      "category": "Cost",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Contractor PM",
+      "evidence": "Supplier notified an expected price increase of about 14% for deliveries after the end of the month."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-02",
+      "description": "Provide detailed unit price breakdown for the escalation.",
+      "owner": "A. Haddad (Apex)",
+      "due": "2026-01-08",
+      "carried": false,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-03",
+      "description": "Update the project risk log.",
+      "owner": "L. Patel (Halden)",
+      "due": "2026-01-13",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

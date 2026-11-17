@@ -1,0 +1,72 @@
+{
+  "file": "BRG-2026-088_MM-14_2026-04-02.pdf",
+  "project_no": "BRG-2026-088",
+  "project_name": "Lakeview Bridge Rehabilitation \u2014 Phase 2",
+  "meeting_no": 14,
+  "date": "2026-04-02",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 39.0,
+    "baseline_pct": 45,
+    "days_behind": 11,
+    "cumulative_change_pct": 0.92
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Adverse weather delays",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Repeated rain events are eroding the schedule float; weekend work is being considered."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor PM",
+      "evidence": "Labour shortfall persists; subcontractor has not committed additional workers."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Utility conflict",
+      "title_as_written": "Utility conflict",
+      "category": "Technical",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "A buried utility was exposed near Pier 1, Span 2 that conflicts with the design alignment."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-12",
+      "status": "OPEN"
+    },
+    {
+      "id": "AI-13",
+      "status": "OPEN"
+    },
+    {
+      "id": "AI-14",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

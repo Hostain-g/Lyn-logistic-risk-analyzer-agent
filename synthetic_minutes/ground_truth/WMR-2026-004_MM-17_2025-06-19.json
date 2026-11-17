@@ -1,0 +1,147 @@
+{
+  "file": "WMR-2026-004_MM-17_2025-06-19.pdf",
+  "project_no": "WMR-2026-004",
+  "project_name": "Riverside Water Main Replacement \u2014 Phase 2",
+  "meeting_no": 17,
+  "date": "2025-06-19",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 50.0,
+    "baseline_pct": 55,
+    "days_behind": 10,
+    "cumulative_change_pct": 0.46
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Equipment breakdown",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 2,
+      "score": 8,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Second breakdown on the same unit; production at Station 3+075 is reduced."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Design clarification backlog",
+      "category": "Schedule",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Several RFIs have exceeded the five-day response target."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Differing site conditions",
+      "category": "Technical",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Unsuitable material extends beyond the initial extent; additional removal and replacement required."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "A nonconformance report was issued for out-of-tolerance work at Station 2+460."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Design change",
+      "title_as_written": "Revised design requirements",
+      "category": "Cost",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "The consultant issued a preliminary revision affecting quantities near Station 3+620."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-14",
+      "description": "Provide revised traffic management plan.",
+      "owner": "L. Dubois (Northbridge)",
+      "due": "2025-07-03",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-21",
+      "description": "Mobilize replacement equipment.",
+      "owner": "H. Khan (Keystone)",
+      "due": "2025-06-22",
+      "carried": false,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-22",
+      "description": "Submit change order for the differing site condition.",
+      "owner": "H. Khan (Keystone)",
+      "due": "2025-06-26",
+      "carried": false,
+      "risk_id": "R-04"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-14",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-15",
+      "status": "OPEN"
+    },
+    {
+      "id": "AI-16",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-17",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-18",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-19",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-20",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "CO-01",
+      "amount": 79400,
+      "days": 4,
+      "status": "Pending Submission",
+      "risk_id": "R-04"
+    }
+  ],
+  "injected_inconsistencies": []
+}

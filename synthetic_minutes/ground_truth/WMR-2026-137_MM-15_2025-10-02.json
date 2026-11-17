@@ -1,0 +1,46 @@
+{
+  "file": "WMR-2026-137_MM-15_2025-10-02.pdf",
+  "project_no": "WMR-2026-137",
+  "project_name": "Northgate Water Main Replacement \u2014 Phase 3",
+  "meeting_no": 15,
+  "date": "2025-10-02",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 46.0,
+    "baseline_pct": 48,
+    "days_behind": 5,
+    "cumulative_change_pct": 1.32
+  },
+  "risks": [
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Material delivery delay",
+      "title_as_written": "Material delivery delay",
+      "category": "Supply Chain",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Second consecutive late shipment from Northern Aggregates Ltd.; work at Station 2+360 has been partially resequenced."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-17",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-18",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-19",
+      "status": "OPEN"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

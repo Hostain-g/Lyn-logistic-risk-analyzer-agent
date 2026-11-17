@@ -1,0 +1,24 @@
+{
+  "file": "BRG-2024-053_MM-08_2025-10-02.pdf",
+  "project_no": "BRG-2024-053",
+  "project_name": "Lakeview Bridge Rehabilitation \u2014 Phase 2",
+  "meeting_no": 8,
+  "date": "2025-10-02",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 26.0,
+    "baseline_pct": 26,
+    "days_behind": 0,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-05",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

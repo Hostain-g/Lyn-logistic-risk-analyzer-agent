@@ -1,0 +1,44 @@
+{
+  "file": "RSW-2026-047_MM-15_2025-05-15.pdf",
+  "project_no": "RSW-2026-047",
+  "project_name": "Central Storm Sewer Upgrade \u2014 Phase 2",
+  "meeting_no": 15,
+  "date": "2025-05-15",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 47.0,
+    "baseline_pct": 48,
+    "days_behind": 3,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Equipment breakdown",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 2,
+      "score": 8,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Second breakdown on the same unit; production at Station 0+610 is reduced."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-14",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "days_behind",
+      "stated": 7,
+      "correct": 3
+    }
+  ]
+}

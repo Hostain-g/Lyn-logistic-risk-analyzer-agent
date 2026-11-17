@@ -1,0 +1,59 @@
+{
+  "file": "BRG-2024-053_MM-17_2025-12-04.pdf",
+  "project_no": "BRG-2024-053",
+  "project_name": "Lakeview Bridge Rehabilitation \u2014 Phase 2",
+  "meeting_no": 17,
+  "date": "2025-12-04",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 53.0,
+    "baseline_pct": 55,
+    "days_behind": 5,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Core testing confirms low strength in the affected section; remedial options are being evaluated."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-09",
+      "description": "Provide revised concrete mix design for the affected section.",
+      "owner": "G. Haddad (Ironbridge)",
+      "due": "2025-12-11",
+      "carried": true,
+      "risk_id": "R-01"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-09",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-12",
+      "status": "OPEN"
+    },
+    {
+      "id": "AI-13",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-14",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

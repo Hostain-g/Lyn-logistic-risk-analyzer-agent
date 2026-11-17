@@ -1,0 +1,56 @@
+{
+  "file": "BRG-2026-088_MM-30_2026-07-23.pdf",
+  "project_no": "BRG-2026-088",
+  "project_name": "Lakeview Bridge Rehabilitation \u2014 Phase 2",
+  "meeting_no": 30,
+  "date": "2026-07-23",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 97.0,
+    "baseline_pct": 97,
+    "days_behind": 0,
+    "cumulative_change_pct": 2.09
+  },
+  "risks": [],
+  "action_items": [
+    {
+      "id": "AI-35",
+      "description": "Provide inspection records of remediated areas.",
+      "owner": "E. Khan (Keystone)",
+      "due": "2026-07-30",
+      "carried": true,
+      "risk_id": "R-07"
+    },
+    {
+      "id": "AI-36",
+      "description": "Submit outstanding shop drawings for review.",
+      "owner": "M. Adeyemi (Keystone)",
+      "due": "2026-07-28",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-35",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-36",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-37",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "material_qty",
+      "material": "Structural Concrete 40 MPa",
+      "stated": 101,
+      "correct": 81
+    }
+  ]
+}

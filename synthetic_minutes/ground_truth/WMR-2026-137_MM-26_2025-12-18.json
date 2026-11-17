@@ -1,0 +1,47 @@
+{
+  "file": "WMR-2026-137_MM-26_2025-12-18.pdf",
+  "project_no": "WMR-2026-137",
+  "project_name": "Northgate Water Main Replacement \u2014 Phase 3",
+  "meeting_no": 26,
+  "date": "2025-12-18",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 83.0,
+    "baseline_pct": 84,
+    "days_behind": 1,
+    "cumulative_change_pct": 1.69
+  },
+  "risks": [
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Utility conflict",
+      "title_as_written": "Utility conflict",
+      "category": "Technical",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Resident Engineer",
+      "evidence": "Utility relocation complete and work at Station 1+490 resumed. Risk closed."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-27",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "P. Campbell (Apex)",
+      "due": "2026-01-01",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-26",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

@@ -1,0 +1,139 @@
+{
+  "file": "BRG-2024-053_MM-23_2026-01-15.pdf",
+  "project_no": "BRG-2024-053",
+  "project_name": "Lakeview Bridge Rehabilitation \u2014 Phase 2",
+  "meeting_no": 23,
+  "date": "2026-01-15",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 68.0,
+    "baseline_pct": 74,
+    "days_behind": 12,
+    "cumulative_change_pct": 0.72
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Environmental compliance issue",
+      "category": "Environmental",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Additional controls installed; follow-up sampling is within limits."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Labour shortfall persists; subcontractor has not committed additional workers."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Supplier unit price increase",
+      "category": "Cost",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Contractor PM",
+      "evidence": "Ironwood Steel Supply advised of a 10% price adjustment due to raw material and energy costs."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Permit approval delay",
+      "title_as_written": "Regulatory approval pending",
+      "category": "Regulatory",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "The environmental authority has not yet issued the amended permit required for the next phase."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Adverse weather delays",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Repeated rain events are eroding the schedule float; weekend work is being considered."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-24",
+      "description": "Submit outstanding permit documents.",
+      "owner": "T. Murphy (City)",
+      "due": "2026-02-05",
+      "carried": true,
+      "risk_id": "R-05"
+    },
+    {
+      "id": "AI-25",
+      "description": "Submit updated schedule reflecting weather delays.",
+      "owner": "G. Haddad (Ironbridge)",
+      "due": "2026-01-18",
+      "carried": true,
+      "risk_id": "R-06"
+    },
+    {
+      "id": "AI-26",
+      "description": "Submit disposal manifests.",
+      "owner": "T. Murphy (City)",
+      "due": "2026-01-20",
+      "carried": false,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-27",
+      "description": "Propose a recovery plan including weekend work options.",
+      "owner": "G. Haddad (Ironbridge)",
+      "due": "2026-02-03",
+      "carried": true,
+      "risk_id": "R-06"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-21",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-24",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-25",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-01",
+      "amount": 22300,
+      "days": 8,
+      "status": "Under Review",
+      "risk_id": "R-02"
+    }
+  ],
+  "injected_inconsistencies": []
+}

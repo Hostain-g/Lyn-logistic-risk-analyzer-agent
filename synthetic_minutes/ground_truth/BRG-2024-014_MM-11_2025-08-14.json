@@ -1,0 +1,55 @@
+{
+  "file": "BRG-2024-014_MM-11_2025-08-14.pdf",
+  "project_no": "BRG-2024-014",
+  "project_name": "Harbour Bridge Rehabilitation \u2014 Phase 1",
+  "meeting_no": 11,
+  "date": "2025-08-14",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 34.0,
+    "baseline_pct": 35,
+    "days_behind": 4,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Payment certification dispute",
+      "category": "Contractual",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Contractor PM",
+      "evidence": "Owner and contractor agreed on a settlement approach."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Rework at Pier 5, Span 4 is required; the area is closed to further work."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-08",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-10",
+      "status": "OPEN"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

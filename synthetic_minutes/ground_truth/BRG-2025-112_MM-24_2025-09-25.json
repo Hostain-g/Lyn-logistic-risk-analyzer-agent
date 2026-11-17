@@ -1,0 +1,90 @@
+{
+  "file": "BRG-2025-112_MM-24_2025-09-25.pdf",
+  "project_no": "BRG-2025-112",
+  "project_name": "Northgate Bridge Rehabilitation \u2014 Phase 3",
+  "meeting_no": 24,
+  "date": "2025-09-25",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 76.0,
+    "baseline_pct": 77,
+    "days_behind": 4,
+    "cumulative_change_pct": 1.14
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Delayed RFI responses",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "RFI backlog has reached 3 items, several on the critical path."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Environmental compliance issue",
+      "category": "Environmental",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "A sediment discharge was observed at the downstream outlet."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-26",
+      "description": "Update the project risk log.",
+      "owner": "E. Walker (Tri-County)",
+      "due": "2025-09-30",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-27",
+      "description": "Inspect and repair sediment controls.",
+      "owner": "L. Murphy (City)",
+      "due": "2025-10-05",
+      "carried": false,
+      "risk_id": "R-05"
+    },
+    {
+      "id": "AI-28",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "P. Rossi (Tri-County)",
+      "due": "2025-10-02",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-24",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-25",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-26",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "days_behind",
+      "stated": 6,
+      "correct": 4
+    }
+  ]
+}

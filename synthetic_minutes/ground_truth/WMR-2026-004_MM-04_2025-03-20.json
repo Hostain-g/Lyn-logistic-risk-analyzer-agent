@@ -1,0 +1,45 @@
+{
+  "file": "WMR-2026-004_MM-04_2025-03-20.pdf",
+  "project_no": "WMR-2026-004",
+  "project_name": "Riverside Water Main Replacement \u2014 Phase 2",
+  "meeting_no": 4,
+  "date": "2025-03-20",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 11.0,
+    "baseline_pct": 13,
+    "days_behind": 4,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Material delivery delay",
+      "title_as_written": "Material delivery delay",
+      "category": "Supply Chain",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Contractor PM",
+      "evidence": "Summit Cement Co. advised of a possible 7-9 working day delay on the next shipment due to plant maintenance."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-02",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "material_qty",
+      "material": "Ductile Iron Pipe (300 mm)",
+      "stated": 3367,
+      "correct": 2849
+    }
+  ]
+}

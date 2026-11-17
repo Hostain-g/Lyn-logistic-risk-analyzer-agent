@@ -1,0 +1,73 @@
+{
+  "file": "WMR-2026-004_MM-14_2025-05-29.pdf",
+  "project_no": "WMR-2026-004",
+  "project_name": "Riverside Water Main Replacement \u2014 Phase 2",
+  "meeting_no": 14,
+  "date": "2025-05-29",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 44.0,
+    "baseline_pct": 45,
+    "days_behind": 2,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Equipment breakdown",
+      "category": "Resource",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 1,
+      "score": 3,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "A concrete pump failure interrupted a pour this week."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-09",
+      "description": "Provide revised traffic management plan.",
+      "owner": "H. Khan (Keystone)",
+      "due": "2025-06-05",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-12",
+      "description": "Confirm repair timeline for the equipment.",
+      "owner": "H. Khan (Keystone)",
+      "due": "2025-06-08",
+      "carried": false,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-13",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "A. Adeyemi (Keystone)",
+      "due": "2025-06-05",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-09",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-11",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "days_behind",
+      "stated": 4,
+      "correct": 2
+    }
+  ]
+}

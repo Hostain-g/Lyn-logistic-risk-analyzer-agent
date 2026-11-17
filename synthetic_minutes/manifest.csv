@@ -1,0 +1,451 @@
+file,project_no,project_name,meeting_no,date,scanned,n_risks,n_inconsistencies
+BRG-2024-102_MM-01_2025-01-30.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,1,2025-01-30,True,0,0
+BRG-2024-102_MM-02_2025-02-06.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,2,2025-02-06,True,0,0
+BRG-2024-102_MM-03_2025-02-13.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,3,2025-02-13,True,0,1
+BRG-2024-102_MM-04_2025-02-20.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,4,2025-02-20,True,0,0
+BRG-2024-102_MM-05_2025-02-27.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,5,2025-02-27,True,0,0
+BRG-2024-102_MM-06_2025-03-06.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,6,2025-03-06,True,1,0
+BRG-2024-102_MM-07_2025-03-13.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,7,2025-03-13,True,1,0
+BRG-2024-102_MM-08_2025-03-20.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,8,2025-03-20,False,1,0
+BRG-2024-102_MM-09_2025-03-27.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,9,2025-03-27,False,1,0
+BRG-2024-102_MM-10_2025-04-03.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,10,2025-04-03,False,1,1
+BRG-2024-102_MM-11_2025-04-10.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,11,2025-04-10,True,1,1
+BRG-2024-102_MM-12_2025-04-17.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,12,2025-04-17,False,1,1
+BRG-2024-102_MM-13_2025-04-24.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,13,2025-04-24,True,1,1
+BRG-2024-102_MM-14_2025-05-01.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,14,2025-05-01,True,0,0
+BRG-2024-102_MM-15_2025-05-08.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,15,2025-05-08,False,0,1
+BRG-2024-102_MM-16_2025-05-15.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,16,2025-05-15,True,0,0
+BRG-2024-102_MM-17_2025-05-22.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,17,2025-05-22,False,0,0
+BRG-2024-102_MM-18_2025-05-29.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,18,2025-05-29,True,0,0
+BRG-2024-102_MM-19_2025-06-05.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,19,2025-06-05,False,1,0
+BRG-2024-102_MM-20_2025-06-12.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,20,2025-06-12,True,2,1
+BRG-2024-102_MM-21_2025-06-19.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,21,2025-06-19,False,2,1
+BRG-2024-102_MM-22_2025-06-26.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,22,2025-06-26,False,2,0
+BRG-2024-102_MM-23_2025-07-03.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,23,2025-07-03,False,4,0
+BRG-2024-102_MM-24_2025-07-10.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,24,2025-07-10,False,4,0
+BRG-2024-102_MM-25_2025-07-17.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,25,2025-07-17,False,4,0
+BRG-2024-102_MM-26_2025-07-24.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,26,2025-07-24,True,4,0
+BRG-2024-102_MM-27_2025-07-31.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,27,2025-07-31,False,4,0
+BRG-2024-102_MM-28_2025-08-07.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,28,2025-08-07,False,3,1
+BRG-2024-102_MM-29_2025-08-14.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,29,2025-08-14,False,2,0
+BRG-2024-102_MM-30_2025-08-21.pdf,BRG-2024-102,Northgate Bridge Rehabilitation — Phase 3,30,2025-08-21,False,2,0
+WMR-2026-137_MM-01_2025-06-26.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,1,2025-06-26,False,0,0
+WMR-2026-137_MM-02_2025-07-03.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,2,2025-07-03,True,1,0
+WMR-2026-137_MM-03_2025-07-10.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,3,2025-07-10,False,2,0
+WMR-2026-137_MM-04_2025-07-17.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,4,2025-07-17,False,2,1
+WMR-2026-137_MM-05_2025-07-24.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,5,2025-07-24,False,3,0
+WMR-2026-137_MM-06_2025-07-31.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,6,2025-07-31,True,3,0
+WMR-2026-137_MM-07_2025-08-07.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,7,2025-08-07,False,3,0
+WMR-2026-137_MM-08_2025-08-14.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,8,2025-08-14,False,3,0
+WMR-2026-137_MM-09_2025-08-21.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,9,2025-08-21,False,2,0
+WMR-2026-137_MM-10_2025-08-28.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,10,2025-08-28,False,1,0
+WMR-2026-137_MM-11_2025-09-04.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,11,2025-09-04,True,1,0
+WMR-2026-137_MM-12_2025-09-11.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,12,2025-09-11,True,0,0
+WMR-2026-137_MM-13_2025-09-18.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,13,2025-09-18,False,1,0
+WMR-2026-137_MM-14_2025-09-25.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,14,2025-09-25,False,1,0
+WMR-2026-137_MM-15_2025-10-02.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,15,2025-10-02,False,1,0
+WMR-2026-137_MM-16_2025-10-09.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,16,2025-10-09,False,1,1
+WMR-2026-137_MM-17_2025-10-16.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,17,2025-10-16,False,1,0
+WMR-2026-137_MM-18_2025-10-23.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,18,2025-10-23,True,1,1
+WMR-2026-137_MM-19_2025-10-30.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,19,2025-10-30,True,1,0
+WMR-2026-137_MM-20_2025-11-06.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,20,2025-11-06,False,2,0
+WMR-2026-137_MM-21_2025-11-13.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,21,2025-11-13,False,2,0
+WMR-2026-137_MM-22_2025-11-20.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,22,2025-11-20,False,1,0
+WMR-2026-137_MM-23_2025-11-27.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,23,2025-11-27,False,1,0
+WMR-2026-137_MM-24_2025-12-04.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,24,2025-12-04,False,1,0
+WMR-2026-137_MM-25_2025-12-11.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,25,2025-12-11,False,1,0
+WMR-2026-137_MM-26_2025-12-18.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,26,2025-12-18,True,1,0
+WMR-2026-137_MM-27_2025-12-25.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,27,2025-12-25,True,0,0
+WMR-2026-137_MM-28_2026-01-01.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,28,2026-01-01,False,0,0
+WMR-2026-137_MM-29_2026-01-08.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,29,2026-01-08,False,0,0
+WMR-2026-137_MM-30_2026-01-15.pdf,WMR-2026-137,Northgate Water Main Replacement — Phase 3,30,2026-01-15,False,0,0
+RSW-2025-132_MM-01_2025-01-23.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,1,2025-01-23,False,0,0
+RSW-2025-132_MM-02_2025-01-30.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,2,2025-01-30,True,0,0
+RSW-2025-132_MM-03_2025-02-06.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,3,2025-02-06,True,0,0
+RSW-2025-132_MM-04_2025-02-13.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,4,2025-02-13,False,1,0
+RSW-2025-132_MM-05_2025-02-20.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,5,2025-02-20,False,2,0
+RSW-2025-132_MM-06_2025-02-27.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,6,2025-02-27,False,3,0
+RSW-2025-132_MM-07_2025-03-06.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,7,2025-03-06,False,3,0
+RSW-2025-132_MM-08_2025-03-13.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,8,2025-03-13,False,3,0
+RSW-2025-132_MM-09_2025-03-20.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,9,2025-03-20,False,3,0
+RSW-2025-132_MM-10_2025-03-27.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,10,2025-03-27,False,3,0
+RSW-2025-132_MM-11_2025-04-03.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,11,2025-04-03,True,3,0
+RSW-2025-132_MM-12_2025-04-10.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,12,2025-04-10,False,1,0
+RSW-2025-132_MM-13_2025-04-17.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,13,2025-04-17,False,0,0
+RSW-2025-132_MM-14_2025-04-24.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,14,2025-04-24,False,0,0
+RSW-2025-132_MM-15_2025-05-01.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,15,2025-05-01,False,1,0
+RSW-2025-132_MM-16_2025-05-08.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,16,2025-05-08,False,1,1
+RSW-2025-132_MM-17_2025-05-15.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,17,2025-05-15,False,1,0
+RSW-2025-132_MM-18_2025-05-22.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,18,2025-05-22,False,2,0
+RSW-2025-132_MM-19_2025-05-29.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,19,2025-05-29,False,2,0
+RSW-2025-132_MM-20_2025-06-05.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,20,2025-06-05,False,2,0
+RSW-2025-132_MM-21_2025-06-12.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,21,2025-06-12,True,2,0
+RSW-2025-132_MM-22_2025-06-19.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,22,2025-06-19,False,2,1
+RSW-2025-132_MM-23_2025-06-26.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,23,2025-06-26,False,1,1
+RSW-2025-132_MM-24_2025-07-03.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,24,2025-07-03,False,0,0
+RSW-2025-132_MM-25_2025-07-10.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,25,2025-07-10,True,0,1
+RSW-2025-132_MM-26_2025-07-17.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,26,2025-07-17,False,0,0
+RSW-2025-132_MM-27_2025-07-24.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,27,2025-07-24,False,0,0
+RSW-2025-132_MM-28_2025-07-31.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,28,2025-07-31,True,0,0
+RSW-2025-132_MM-29_2025-08-07.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,29,2025-08-07,True,0,0
+RSW-2025-132_MM-30_2025-08-14.pdf,RSW-2025-132,Northgate Storm Sewer Upgrade — Phase 1,30,2025-08-14,True,0,0
+BRG-2026-088_MM-01_2026-01-01.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,1,2026-01-01,False,1,0
+BRG-2026-088_MM-02_2026-01-08.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,2,2026-01-08,False,1,0
+BRG-2026-088_MM-03_2026-01-15.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,3,2026-01-15,True,1,0
+BRG-2026-088_MM-04_2026-01-22.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,4,2026-01-22,False,1,0
+BRG-2026-088_MM-05_2026-01-29.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,5,2026-01-29,True,1,0
+BRG-2026-088_MM-06_2026-02-05.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,6,2026-02-05,False,1,0
+BRG-2026-088_MM-07_2026-02-12.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,7,2026-02-12,False,1,0
+BRG-2026-088_MM-08_2026-02-19.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,8,2026-02-19,False,1,0
+BRG-2026-088_MM-09_2026-02-26.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,9,2026-02-26,False,0,0
+BRG-2026-088_MM-10_2026-03-05.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,10,2026-03-05,False,2,0
+BRG-2026-088_MM-11_2026-03-12.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,11,2026-03-12,False,2,0
+BRG-2026-088_MM-12_2026-03-19.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,12,2026-03-19,False,2,0
+BRG-2026-088_MM-13_2026-03-26.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,13,2026-03-26,False,3,0
+BRG-2026-088_MM-14_2026-04-02.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,14,2026-04-02,False,3,0
+BRG-2026-088_MM-15_2026-04-09.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,15,2026-04-09,False,3,0
+BRG-2026-088_MM-16_2026-04-16.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,16,2026-04-16,True,4,0
+BRG-2026-088_MM-17_2026-04-23.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,17,2026-04-23,False,3,1
+BRG-2026-088_MM-18_2026-04-30.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,18,2026-04-30,False,3,0
+BRG-2026-088_MM-19_2026-05-07.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,19,2026-05-07,False,1,0
+BRG-2026-088_MM-20_2026-05-14.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,20,2026-05-14,True,1,0
+BRG-2026-088_MM-21_2026-05-21.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,21,2026-05-21,True,2,0
+BRG-2026-088_MM-22_2026-05-28.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,22,2026-05-28,False,2,1
+BRG-2026-088_MM-23_2026-06-04.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,23,2026-06-04,True,3,1
+BRG-2026-088_MM-24_2026-06-11.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,24,2026-06-11,False,3,1
+BRG-2026-088_MM-25_2026-06-18.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,25,2026-06-18,False,2,1
+BRG-2026-088_MM-26_2026-06-25.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,26,2026-06-25,True,2,0
+BRG-2026-088_MM-27_2026-07-02.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,27,2026-07-02,True,1,0
+BRG-2026-088_MM-28_2026-07-09.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,28,2026-07-09,True,1,0
+BRG-2026-088_MM-29_2026-07-16.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,29,2026-07-16,False,1,0
+BRG-2026-088_MM-30_2026-07-23.pdf,BRG-2026-088,Lakeview Bridge Rehabilitation — Phase 2,30,2026-07-23,False,0,1
+BRG-2024-053_MM-01_2025-08-14.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,1,2025-08-14,False,0,0
+BRG-2024-053_MM-02_2025-08-21.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,2,2025-08-21,True,0,0
+BRG-2024-053_MM-03_2025-08-28.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,3,2025-08-28,False,0,1
+BRG-2024-053_MM-04_2025-09-04.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,4,2025-09-04,False,0,0
+BRG-2024-053_MM-05_2025-09-11.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,5,2025-09-11,False,0,0
+BRG-2024-053_MM-06_2025-09-18.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,6,2025-09-18,False,0,0
+BRG-2024-053_MM-07_2025-09-25.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,7,2025-09-25,False,0,0
+BRG-2024-053_MM-08_2025-10-02.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,8,2025-10-02,False,0,0
+BRG-2024-053_MM-09_2025-10-09.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,9,2025-10-09,False,0,0
+BRG-2024-053_MM-10_2025-10-16.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,10,2025-10-16,False,0,0
+BRG-2024-053_MM-11_2025-10-23.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,11,2025-10-23,True,0,0
+BRG-2024-053_MM-12_2025-10-30.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,12,2025-10-30,False,0,1
+BRG-2024-053_MM-13_2025-11-06.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,13,2025-11-06,False,1,0
+BRG-2024-053_MM-14_2025-11-13.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,14,2025-11-13,True,1,0
+BRG-2024-053_MM-15_2025-11-20.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,15,2025-11-20,False,1,1
+BRG-2024-053_MM-16_2025-11-27.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,16,2025-11-27,True,1,1
+BRG-2024-053_MM-17_2025-12-04.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,17,2025-12-04,False,1,0
+BRG-2024-053_MM-18_2025-12-11.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,18,2025-12-11,False,2,0
+BRG-2024-053_MM-19_2025-12-18.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,19,2025-12-18,False,3,0
+BRG-2024-053_MM-20_2025-12-25.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,20,2025-12-25,False,3,0
+BRG-2024-053_MM-21_2026-01-01.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,21,2026-01-01,True,4,0
+BRG-2024-053_MM-22_2026-01-08.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,22,2026-01-08,False,6,0
+BRG-2024-053_MM-23_2026-01-15.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,23,2026-01-15,False,5,0
+BRG-2024-053_MM-24_2026-01-22.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,24,2026-01-22,False,5,0
+BRG-2024-053_MM-25_2026-01-29.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,25,2026-01-29,False,5,0
+BRG-2024-053_MM-26_2026-02-05.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,26,2026-02-05,False,5,0
+BRG-2024-053_MM-27_2026-02-12.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,27,2026-02-12,False,4,0
+BRG-2024-053_MM-28_2026-02-19.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,28,2026-02-19,False,2,0
+BRG-2024-053_MM-29_2026-02-26.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,29,2026-02-26,True,1,0
+BRG-2024-053_MM-30_2026-03-05.pdf,BRG-2024-053,Lakeview Bridge Rehabilitation — Phase 2,30,2026-03-05,True,1,0
+BRG-2025-112_MM-01_2025-04-17.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,1,2025-04-17,True,0,0
+BRG-2025-112_MM-02_2025-04-24.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,2,2025-04-24,True,0,0
+BRG-2025-112_MM-03_2025-05-01.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,3,2025-05-01,False,0,0
+BRG-2025-112_MM-04_2025-05-08.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,4,2025-05-08,False,0,0
+BRG-2025-112_MM-05_2025-05-15.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,5,2025-05-15,True,0,0
+BRG-2025-112_MM-06_2025-05-22.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,6,2025-05-22,False,0,0
+BRG-2025-112_MM-07_2025-05-29.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,7,2025-05-29,False,0,0
+BRG-2025-112_MM-08_2025-06-05.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,8,2025-06-05,False,0,0
+BRG-2025-112_MM-09_2025-06-12.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,9,2025-06-12,False,0,0
+BRG-2025-112_MM-10_2025-06-19.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,10,2025-06-19,False,0,0
+BRG-2025-112_MM-11_2025-06-26.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,11,2025-06-26,True,1,0
+BRG-2025-112_MM-12_2025-07-03.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,12,2025-07-03,True,1,0
+BRG-2025-112_MM-13_2025-07-10.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,13,2025-07-10,True,1,0
+BRG-2025-112_MM-14_2025-07-17.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,14,2025-07-17,True,1,0
+BRG-2025-112_MM-15_2025-07-24.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,15,2025-07-24,True,3,0
+BRG-2025-112_MM-16_2025-07-31.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,16,2025-07-31,True,3,0
+BRG-2025-112_MM-17_2025-08-07.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,17,2025-08-07,True,4,0
+BRG-2025-112_MM-18_2025-08-14.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,18,2025-08-14,False,4,1
+BRG-2025-112_MM-19_2025-08-21.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,19,2025-08-21,False,3,0
+BRG-2025-112_MM-20_2025-08-28.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,20,2025-08-28,True,2,1
+BRG-2025-112_MM-21_2025-09-04.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,21,2025-09-04,False,2,0
+BRG-2025-112_MM-22_2025-09-11.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,22,2025-09-11,True,2,0
+BRG-2025-112_MM-23_2025-09-18.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,23,2025-09-18,False,2,0
+BRG-2025-112_MM-24_2025-09-25.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,24,2025-09-25,False,2,1
+BRG-2025-112_MM-25_2025-10-02.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,25,2025-10-02,False,2,0
+BRG-2025-112_MM-26_2025-10-09.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,26,2025-10-09,False,2,0
+BRG-2025-112_MM-27_2025-10-16.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,27,2025-10-16,False,2,0
+BRG-2025-112_MM-28_2025-10-23.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,28,2025-10-23,False,2,0
+BRG-2025-112_MM-29_2025-10-30.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,29,2025-10-30,True,2,0
+BRG-2025-112_MM-30_2025-11-06.pdf,BRG-2025-112,Northgate Bridge Rehabilitation — Phase 3,30,2025-11-06,False,2,0
+RSW-2024-071_MM-01_2025-10-30.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,1,2025-10-30,False,0,0
+RSW-2024-071_MM-02_2025-11-06.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,2,2025-11-06,False,0,0
+RSW-2024-071_MM-03_2025-11-13.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,3,2025-11-13,False,1,0
+RSW-2024-071_MM-04_2025-11-20.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,4,2025-11-20,False,1,0
+RSW-2024-071_MM-05_2025-11-27.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,5,2025-11-27,True,1,0
+RSW-2024-071_MM-06_2025-12-04.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,6,2025-12-04,False,1,0
+RSW-2024-071_MM-07_2025-12-11.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,7,2025-12-11,True,1,0
+RSW-2024-071_MM-08_2025-12-18.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,8,2025-12-18,False,1,0
+RSW-2024-071_MM-09_2025-12-25.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,9,2025-12-25,False,1,0
+RSW-2024-071_MM-10_2026-01-01.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,10,2026-01-01,False,2,0
+RSW-2024-071_MM-11_2026-01-08.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,11,2026-01-08,False,3,0
+RSW-2024-071_MM-12_2026-01-15.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,12,2026-01-15,False,2,0
+RSW-2024-071_MM-13_2026-01-22.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,13,2026-01-22,True,3,0
+RSW-2024-071_MM-14_2026-01-29.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,14,2026-01-29,False,3,0
+RSW-2024-071_MM-15_2026-02-05.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,15,2026-02-05,True,3,0
+RSW-2024-071_MM-16_2026-02-12.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,16,2026-02-12,True,2,0
+RSW-2024-071_MM-17_2026-02-19.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,17,2026-02-19,False,2,1
+RSW-2024-071_MM-18_2026-02-26.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,18,2026-02-26,True,2,1
+RSW-2024-071_MM-19_2026-03-05.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,19,2026-03-05,False,1,0
+RSW-2024-071_MM-20_2026-03-12.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,20,2026-03-12,True,1,0
+RSW-2024-071_MM-21_2026-03-19.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,21,2026-03-19,False,1,0
+RSW-2024-071_MM-22_2026-03-26.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,22,2026-03-26,True,1,0
+RSW-2024-071_MM-23_2026-04-02.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,23,2026-04-02,True,1,1
+RSW-2024-071_MM-24_2026-04-09.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,24,2026-04-09,False,2,0
+RSW-2024-071_MM-25_2026-04-16.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,25,2026-04-16,True,2,0
+RSW-2024-071_MM-26_2026-04-23.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,26,2026-04-23,True,2,0
+RSW-2024-071_MM-27_2026-04-30.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,27,2026-04-30,True,2,0
+RSW-2024-071_MM-28_2026-05-07.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,28,2026-05-07,True,2,1
+RSW-2024-071_MM-29_2026-05-14.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,29,2026-05-14,True,2,0
+RSW-2024-071_MM-30_2026-05-21.pdf,RSW-2024-071,Harbour Storm Sewer Upgrade — Phase 3,30,2026-05-21,True,2,0
+RSW-2026-047_MM-01_2025-02-06.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,1,2025-02-06,False,0,0
+RSW-2026-047_MM-02_2025-02-13.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,2,2025-02-13,True,0,0
+RSW-2026-047_MM-03_2025-02-20.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,3,2025-02-20,True,1,1
+RSW-2026-047_MM-04_2025-02-27.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,4,2025-02-27,False,1,0
+RSW-2026-047_MM-05_2025-03-06.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,5,2025-03-06,True,1,0
+RSW-2026-047_MM-06_2025-03-13.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,6,2025-03-13,True,1,0
+RSW-2026-047_MM-07_2025-03-20.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,7,2025-03-20,False,2,0
+RSW-2026-047_MM-08_2025-03-27.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,8,2025-03-27,False,2,0
+RSW-2026-047_MM-09_2025-04-03.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,9,2025-04-03,True,1,0
+RSW-2026-047_MM-10_2025-04-10.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,10,2025-04-10,True,1,0
+RSW-2026-047_MM-11_2025-04-17.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,11,2025-04-17,False,1,0
+RSW-2026-047_MM-12_2025-04-24.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,12,2025-04-24,False,1,0
+RSW-2026-047_MM-13_2025-05-01.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,13,2025-05-01,False,2,0
+RSW-2026-047_MM-14_2025-05-08.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,14,2025-05-08,True,1,1
+RSW-2026-047_MM-15_2025-05-15.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,15,2025-05-15,False,1,1
+RSW-2026-047_MM-16_2025-05-22.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,16,2025-05-22,False,1,1
+RSW-2026-047_MM-17_2025-05-29.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,17,2025-05-29,False,1,0
+RSW-2026-047_MM-18_2025-06-05.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,18,2025-06-05,False,1,0
+RSW-2026-047_MM-19_2025-06-12.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,19,2025-06-12,False,0,0
+RSW-2026-047_MM-20_2025-06-19.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,20,2025-06-19,False,1,0
+RSW-2026-047_MM-21_2025-06-26.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,21,2025-06-26,False,1,0
+RSW-2026-047_MM-22_2025-07-03.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,22,2025-07-03,True,2,0
+RSW-2026-047_MM-23_2025-07-10.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,23,2025-07-10,False,2,1
+RSW-2026-047_MM-24_2025-07-17.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,24,2025-07-17,False,2,1
+RSW-2026-047_MM-25_2025-07-24.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,25,2025-07-24,False,2,1
+RSW-2026-047_MM-26_2025-07-31.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,26,2025-07-31,False,2,0
+RSW-2026-047_MM-27_2025-08-07.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,27,2025-08-07,False,1,0
+RSW-2026-047_MM-28_2025-08-14.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,28,2025-08-14,False,1,1
+RSW-2026-047_MM-29_2025-08-21.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,29,2025-08-21,False,1,1
+RSW-2026-047_MM-30_2025-08-28.pdf,RSW-2026-047,Central Storm Sewer Upgrade — Phase 2,30,2025-08-28,False,1,1
+WPS-2024-019_MM-01_2025-11-27.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,1,2025-11-27,False,0,0
+WPS-2024-019_MM-02_2025-12-04.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,2,2025-12-04,False,0,0
+WPS-2024-019_MM-03_2025-12-11.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,3,2025-12-11,False,0,0
+WPS-2024-019_MM-04_2025-12-18.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,4,2025-12-18,False,0,0
+WPS-2024-019_MM-05_2025-12-25.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,5,2025-12-25,True,0,1
+WPS-2024-019_MM-06_2026-01-01.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,6,2026-01-01,True,1,0
+WPS-2024-019_MM-07_2026-01-08.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,7,2026-01-08,False,2,0
+WPS-2024-019_MM-08_2026-01-15.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,8,2026-01-15,True,2,0
+WPS-2024-019_MM-09_2026-01-22.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,9,2026-01-22,False,2,0
+WPS-2024-019_MM-10_2026-01-29.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,10,2026-01-29,False,2,1
+WPS-2024-019_MM-11_2026-02-05.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,11,2026-02-05,False,2,0
+WPS-2024-019_MM-12_2026-02-12.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,12,2026-02-12,False,2,0
+WPS-2024-019_MM-13_2026-02-19.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,13,2026-02-19,False,2,0
+WPS-2024-019_MM-14_2026-02-26.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,14,2026-02-26,False,2,0
+WPS-2024-019_MM-15_2026-03-05.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,15,2026-03-05,False,2,0
+WPS-2024-019_MM-16_2026-03-12.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,16,2026-03-12,False,1,1
+WPS-2024-019_MM-17_2026-03-19.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,17,2026-03-19,False,0,0
+WPS-2024-019_MM-18_2026-03-26.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,18,2026-03-26,False,0,0
+WPS-2024-019_MM-19_2026-04-02.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,19,2026-04-02,True,0,0
+WPS-2024-019_MM-20_2026-04-09.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,20,2026-04-09,False,0,0
+WPS-2024-019_MM-21_2026-04-16.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,21,2026-04-16,False,0,0
+WPS-2024-019_MM-22_2026-04-23.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,22,2026-04-23,False,2,0
+WPS-2024-019_MM-23_2026-04-30.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,23,2026-04-30,True,2,0
+WPS-2024-019_MM-24_2026-05-07.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,24,2026-05-07,False,2,0
+WPS-2024-019_MM-25_2026-05-14.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,25,2026-05-14,False,2,0
+WPS-2024-019_MM-26_2026-05-21.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,26,2026-05-21,True,2,1
+WPS-2024-019_MM-27_2026-05-28.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,27,2026-05-28,False,2,0
+WPS-2024-019_MM-28_2026-06-04.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,28,2026-06-04,False,2,0
+WPS-2024-019_MM-29_2026-06-11.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,29,2026-06-11,True,2,1
+WPS-2024-019_MM-30_2026-06-18.pdf,WPS-2024-019,Lakeview Wastewater Pump Station Upgrade — Phase 2,30,2026-06-18,False,2,0
+CCC-2025-078_MM-01_2025-01-02.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,1,2025-01-02,False,0,0
+CCC-2025-078_MM-02_2025-01-09.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,2,2025-01-09,False,0,0
+CCC-2025-078_MM-03_2025-01-16.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,3,2025-01-16,True,0,0
+CCC-2025-078_MM-04_2025-01-23.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,4,2025-01-23,False,0,0
+CCC-2025-078_MM-05_2025-01-30.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,5,2025-01-30,False,0,0
+CCC-2025-078_MM-06_2025-02-06.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,6,2025-02-06,True,2,1
+CCC-2025-078_MM-07_2025-02-13.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,7,2025-02-13,False,2,0
+CCC-2025-078_MM-08_2025-02-20.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,8,2025-02-20,False,3,0
+CCC-2025-078_MM-09_2025-02-27.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,9,2025-02-27,False,3,0
+CCC-2025-078_MM-10_2025-03-06.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,10,2025-03-06,True,3,0
+CCC-2025-078_MM-11_2025-03-13.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,11,2025-03-13,False,2,0
+CCC-2025-078_MM-12_2025-03-20.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,12,2025-03-20,False,2,0
+CCC-2025-078_MM-13_2025-03-27.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,13,2025-03-27,False,0,1
+CCC-2025-078_MM-14_2025-04-03.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,14,2025-04-03,False,0,0
+CCC-2025-078_MM-15_2025-04-10.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,15,2025-04-10,False,1,0
+CCC-2025-078_MM-16_2025-04-17.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,16,2025-04-17,False,1,0
+CCC-2025-078_MM-17_2025-04-24.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,17,2025-04-24,True,2,0
+CCC-2025-078_MM-18_2025-05-01.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,18,2025-05-01,False,2,0
+CCC-2025-078_MM-19_2025-05-08.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,19,2025-05-08,False,2,1
+CCC-2025-078_MM-20_2025-05-15.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,20,2025-05-15,False,3,0
+CCC-2025-078_MM-21_2025-05-22.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,21,2025-05-22,False,3,0
+CCC-2025-078_MM-22_2025-05-29.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,22,2025-05-29,False,3,0
+CCC-2025-078_MM-23_2025-06-05.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,23,2025-06-05,False,2,0
+CCC-2025-078_MM-24_2025-06-12.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,24,2025-06-12,False,2,0
+CCC-2025-078_MM-25_2025-06-19.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,25,2025-06-19,False,2,0
+CCC-2025-078_MM-26_2025-06-26.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,26,2025-06-26,False,2,1
+CCC-2025-078_MM-27_2025-07-03.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,27,2025-07-03,False,2,0
+CCC-2025-078_MM-28_2025-07-10.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,28,2025-07-10,False,2,0
+CCC-2025-078_MM-29_2025-07-17.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,29,2025-07-17,False,2,0
+CCC-2025-078_MM-30_2025-07-24.pdf,CCC-2025-078,Lakeview Community Centre Construction — Phase 2,30,2025-07-24,False,2,0
+WPS-2026-100_MM-01_2025-05-29.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,1,2025-05-29,False,1,1
+WPS-2026-100_MM-02_2025-06-05.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,2,2025-06-05,False,1,1
+WPS-2026-100_MM-03_2025-06-12.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,3,2025-06-12,False,1,0
+WPS-2026-100_MM-04_2025-06-19.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,4,2025-06-19,False,1,1
+WPS-2026-100_MM-05_2025-06-26.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,5,2025-06-26,False,0,0
+WPS-2026-100_MM-06_2025-07-03.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,6,2025-07-03,True,0,0
+WPS-2026-100_MM-07_2025-07-10.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,7,2025-07-10,False,0,0
+WPS-2026-100_MM-08_2025-07-17.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,8,2025-07-17,False,0,0
+WPS-2026-100_MM-09_2025-07-24.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,9,2025-07-24,False,0,0
+WPS-2026-100_MM-10_2025-07-31.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,10,2025-07-31,False,1,0
+WPS-2026-100_MM-11_2025-08-07.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,11,2025-08-07,False,1,0
+WPS-2026-100_MM-12_2025-08-14.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,12,2025-08-14,False,1,0
+WPS-2026-100_MM-13_2025-08-21.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,13,2025-08-21,True,1,0
+WPS-2026-100_MM-14_2025-08-28.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,14,2025-08-28,False,1,0
+WPS-2026-100_MM-15_2025-09-04.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,15,2025-09-04,False,1,0
+WPS-2026-100_MM-16_2025-09-11.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,16,2025-09-11,False,2,0
+WPS-2026-100_MM-17_2025-09-18.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,17,2025-09-18,True,3,0
+WPS-2026-100_MM-18_2025-09-25.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,18,2025-09-25,False,2,0
+WPS-2026-100_MM-19_2025-10-02.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,19,2025-10-02,False,2,0
+WPS-2026-100_MM-20_2025-10-09.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,20,2025-10-09,True,3,0
+WPS-2026-100_MM-21_2025-10-16.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,21,2025-10-16,True,3,1
+WPS-2026-100_MM-22_2025-10-23.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,22,2025-10-23,False,3,0
+WPS-2026-100_MM-23_2025-10-30.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,23,2025-10-30,True,4,1
+WPS-2026-100_MM-24_2025-11-06.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,24,2025-11-06,True,4,0
+WPS-2026-100_MM-25_2025-11-13.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,25,2025-11-13,False,2,0
+WPS-2026-100_MM-26_2025-11-20.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,26,2025-11-20,True,1,0
+WPS-2026-100_MM-27_2025-11-27.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,27,2025-11-27,False,1,0
+WPS-2026-100_MM-28_2025-12-04.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,28,2025-12-04,False,1,0
+WPS-2026-100_MM-29_2025-12-11.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,29,2025-12-11,False,1,0
+WPS-2026-100_MM-30_2025-12-18.pdf,WPS-2026-100,Northgate Wastewater Pump Station Upgrade — Phase 1,30,2025-12-18,False,1,0
+WPS-2025-139_MM-01_2025-01-30.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,1,2025-01-30,False,0,0
+WPS-2025-139_MM-02_2025-02-06.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,2,2025-02-06,False,0,0
+WPS-2025-139_MM-03_2025-02-13.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,3,2025-02-13,False,0,0
+WPS-2025-139_MM-04_2025-02-20.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,4,2025-02-20,False,0,0
+WPS-2025-139_MM-05_2025-02-27.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,5,2025-02-27,False,0,0
+WPS-2025-139_MM-06_2025-03-06.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,6,2025-03-06,True,0,0
+WPS-2025-139_MM-07_2025-03-13.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,7,2025-03-13,False,0,0
+WPS-2025-139_MM-08_2025-03-20.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,8,2025-03-20,False,0,0
+WPS-2025-139_MM-09_2025-03-27.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,9,2025-03-27,False,1,0
+WPS-2025-139_MM-10_2025-04-03.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,10,2025-04-03,True,1,0
+WPS-2025-139_MM-11_2025-04-10.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,11,2025-04-10,False,1,0
+WPS-2025-139_MM-12_2025-04-17.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,12,2025-04-17,False,2,0
+WPS-2025-139_MM-13_2025-04-24.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,13,2025-04-24,False,2,0
+WPS-2025-139_MM-14_2025-05-01.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,14,2025-05-01,False,3,0
+WPS-2025-139_MM-15_2025-05-08.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,15,2025-05-08,True,4,0
+WPS-2025-139_MM-16_2025-05-15.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,16,2025-05-15,False,4,0
+WPS-2025-139_MM-17_2025-05-22.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,17,2025-05-22,True,4,0
+WPS-2025-139_MM-18_2025-05-29.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,18,2025-05-29,True,3,0
+WPS-2025-139_MM-19_2025-06-05.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,19,2025-06-05,False,3,0
+WPS-2025-139_MM-20_2025-06-12.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,20,2025-06-12,True,3,0
+WPS-2025-139_MM-21_2025-06-19.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,21,2025-06-19,True,3,0
+WPS-2025-139_MM-22_2025-06-26.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,22,2025-06-26,True,2,0
+WPS-2025-139_MM-23_2025-07-03.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,23,2025-07-03,True,2,0
+WPS-2025-139_MM-24_2025-07-10.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,24,2025-07-10,False,4,0
+WPS-2025-139_MM-25_2025-07-17.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,25,2025-07-17,True,4,0
+WPS-2025-139_MM-26_2025-07-24.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,26,2025-07-24,True,4,0
+WPS-2025-139_MM-27_2025-07-31.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,27,2025-07-31,False,4,0
+WPS-2025-139_MM-28_2025-08-07.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,28,2025-08-07,False,4,0
+WPS-2025-139_MM-29_2025-08-14.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,29,2025-08-14,True,4,0
+WPS-2025-139_MM-30_2025-08-21.pdf,WPS-2025-139,Mill Creek Wastewater Pump Station Upgrade — Phase 2,30,2025-08-21,True,4,1
+WMR-2024-095_MM-01_2026-02-05.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,1,2026-02-05,True,0,0
+WMR-2024-095_MM-02_2026-02-12.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,2,2026-02-12,False,0,0
+WMR-2024-095_MM-03_2026-02-19.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,3,2026-02-19,False,1,0
+WMR-2024-095_MM-04_2026-02-26.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,4,2026-02-26,False,1,0
+WMR-2024-095_MM-05_2026-03-05.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,5,2026-03-05,False,1,0
+WMR-2024-095_MM-06_2026-03-12.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,6,2026-03-12,False,1,0
+WMR-2024-095_MM-07_2026-03-19.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,7,2026-03-19,False,1,0
+WMR-2024-095_MM-08_2026-03-26.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,8,2026-03-26,False,1,0
+WMR-2024-095_MM-09_2026-04-02.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,9,2026-04-02,False,2,1
+WMR-2024-095_MM-10_2026-04-09.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,10,2026-04-09,True,2,0
+WMR-2024-095_MM-11_2026-04-16.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,11,2026-04-16,False,3,0
+WMR-2024-095_MM-12_2026-04-23.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,12,2026-04-23,False,3,0
+WMR-2024-095_MM-13_2026-04-30.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,13,2026-04-30,False,3,0
+WMR-2024-095_MM-14_2026-05-07.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,14,2026-05-07,False,3,0
+WMR-2024-095_MM-15_2026-05-14.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,15,2026-05-14,False,1,0
+WMR-2024-095_MM-16_2026-05-21.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,16,2026-05-21,True,2,0
+WMR-2024-095_MM-17_2026-05-28.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,17,2026-05-28,False,2,0
+WMR-2024-095_MM-18_2026-06-04.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,18,2026-06-04,False,2,1
+WMR-2024-095_MM-19_2026-06-11.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,19,2026-06-11,False,2,0
+WMR-2024-095_MM-20_2026-06-18.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,20,2026-06-18,False,2,0
+WMR-2024-095_MM-21_2026-06-25.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,21,2026-06-25,True,2,0
+WMR-2024-095_MM-22_2026-07-02.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,22,2026-07-02,False,2,0
+WMR-2024-095_MM-23_2026-07-09.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,23,2026-07-09,False,2,0
+WMR-2024-095_MM-24_2026-07-16.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,24,2026-07-16,True,2,0
+WMR-2024-095_MM-25_2026-07-23.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,25,2026-07-23,False,1,0
+WMR-2024-095_MM-26_2026-07-30.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,26,2026-07-30,True,1,0
+WMR-2024-095_MM-27_2026-08-06.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,27,2026-08-06,False,1,0
+WMR-2024-095_MM-28_2026-08-13.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,28,2026-08-13,False,1,0
+WMR-2024-095_MM-29_2026-08-20.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,29,2026-08-20,True,1,0
+WMR-2024-095_MM-30_2026-08-27.pdf,WMR-2024-095,Mill Creek Water Main Replacement — Phase 1,30,2026-08-27,False,1,1
+BRG-2024-014_MM-01_2025-06-05.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,1,2025-06-05,False,0,0
+BRG-2024-014_MM-02_2025-06-12.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,2,2025-06-12,False,0,0
+BRG-2024-014_MM-03_2025-06-19.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,3,2025-06-19,False,0,0
+BRG-2024-014_MM-04_2025-06-26.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,4,2025-06-26,False,1,0
+BRG-2024-014_MM-05_2025-07-03.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,5,2025-07-03,True,1,0
+BRG-2024-014_MM-06_2025-07-10.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,6,2025-07-10,False,1,0
+BRG-2024-014_MM-07_2025-07-17.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,7,2025-07-17,False,2,0
+BRG-2024-014_MM-08_2025-07-24.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,8,2025-07-24,False,2,0
+BRG-2024-014_MM-09_2025-07-31.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,9,2025-07-31,True,2,0
+BRG-2024-014_MM-10_2025-08-07.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,10,2025-08-07,False,2,0
+BRG-2024-014_MM-11_2025-08-14.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,11,2025-08-14,True,2,0
+BRG-2024-014_MM-12_2025-08-21.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,12,2025-08-21,False,2,0
+BRG-2024-014_MM-13_2025-08-28.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,13,2025-08-28,True,2,0
+BRG-2024-014_MM-14_2025-09-04.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,14,2025-09-04,True,1,0
+BRG-2024-014_MM-15_2025-09-11.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,15,2025-09-11,False,1,0
+BRG-2024-014_MM-16_2025-09-18.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,16,2025-09-18,False,1,0
+BRG-2024-014_MM-17_2025-09-25.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,17,2025-09-25,True,1,0
+BRG-2024-014_MM-18_2025-10-02.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,18,2025-10-02,False,1,0
+BRG-2024-014_MM-19_2025-10-09.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,19,2025-10-09,False,1,0
+BRG-2024-014_MM-20_2025-10-16.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,20,2025-10-16,False,1,0
+BRG-2024-014_MM-21_2025-10-23.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,21,2025-10-23,False,2,0
+BRG-2024-014_MM-22_2025-10-30.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,22,2025-10-30,False,2,0
+BRG-2024-014_MM-23_2025-11-06.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,23,2025-11-06,False,1,1
+BRG-2024-014_MM-24_2025-11-13.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,24,2025-11-13,False,1,0
+BRG-2024-014_MM-25_2025-11-20.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,25,2025-11-20,True,1,0
+BRG-2024-014_MM-26_2025-11-27.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,26,2025-11-27,False,1,1
+BRG-2024-014_MM-27_2025-12-04.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,27,2025-12-04,False,1,0
+BRG-2024-014_MM-28_2025-12-11.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,28,2025-12-11,True,1,0
+BRG-2024-014_MM-29_2025-12-18.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,29,2025-12-18,True,1,0
+BRG-2024-014_MM-30_2025-12-25.pdf,BRG-2024-014,Harbour Bridge Rehabilitation — Phase 1,30,2025-12-25,False,1,0
+WMR-2026-004_MM-01_2025-02-27.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,1,2025-02-27,False,0,0
+WMR-2026-004_MM-02_2025-03-06.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,2,2025-03-06,True,1,0
+WMR-2026-004_MM-03_2025-03-13.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,3,2025-03-13,False,1,0
+WMR-2026-004_MM-04_2025-03-20.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,4,2025-03-20,False,1,1
+WMR-2026-004_MM-05_2025-03-27.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,5,2025-03-27,False,1,0
+WMR-2026-004_MM-06_2025-04-03.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,6,2025-04-03,False,1,0
+WMR-2026-004_MM-07_2025-04-10.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,7,2025-04-10,False,1,0
+WMR-2026-004_MM-08_2025-04-17.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,8,2025-04-17,False,1,0
+WMR-2026-004_MM-09_2025-04-24.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,9,2025-04-24,False,1,0
+WMR-2026-004_MM-10_2025-05-01.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,10,2025-05-01,True,1,0
+WMR-2026-004_MM-11_2025-05-08.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,11,2025-05-08,False,1,0
+WMR-2026-004_MM-12_2025-05-15.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,12,2025-05-15,False,0,0
+WMR-2026-004_MM-13_2025-05-22.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,13,2025-05-22,True,0,0
+WMR-2026-004_MM-14_2025-05-29.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,14,2025-05-29,False,1,1
+WMR-2026-004_MM-15_2025-06-05.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,15,2025-06-05,False,1,1
+WMR-2026-004_MM-16_2025-06-12.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,16,2025-06-12,False,5,0
+WMR-2026-004_MM-17_2025-06-19.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,17,2025-06-19,False,5,0
+WMR-2026-004_MM-18_2025-06-26.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,18,2025-06-26,True,6,0
+WMR-2026-004_MM-19_2025-07-03.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,19,2025-07-03,True,6,1
+WMR-2026-004_MM-20_2025-07-10.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,20,2025-07-10,False,6,0
+WMR-2026-004_MM-21_2025-07-17.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,21,2025-07-17,False,6,0
+WMR-2026-004_MM-22_2025-07-24.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,22,2025-07-24,False,5,0
+WMR-2026-004_MM-23_2025-07-31.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,23,2025-07-31,False,4,1
+WMR-2026-004_MM-24_2025-08-07.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,24,2025-08-07,True,4,1
+WMR-2026-004_MM-25_2025-08-14.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,25,2025-08-14,True,3,0
+WMR-2026-004_MM-26_2025-08-21.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,26,2025-08-21,False,3,0
+WMR-2026-004_MM-27_2025-08-28.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,27,2025-08-28,False,3,0
+WMR-2026-004_MM-28_2025-09-04.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,28,2025-09-04,True,2,0
+WMR-2026-004_MM-29_2025-09-11.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,29,2025-09-11,False,2,0
+WMR-2026-004_MM-30_2025-09-18.pdf,WMR-2026-004,Riverside Water Main Replacement — Phase 2,30,2025-09-18,False,2,0

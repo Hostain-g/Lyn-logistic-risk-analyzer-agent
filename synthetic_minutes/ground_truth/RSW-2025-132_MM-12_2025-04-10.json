@@ -1,0 +1,38 @@
+{
+  "file": "RSW-2025-132_MM-12_2025-04-10.pdf",
+  "project_no": "RSW-2025-132",
+  "project_name": "Northgate Storm Sewer Upgrade \u2014 Phase 1",
+  "meeting_no": 12,
+  "date": "2025-04-10",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 37.0,
+    "baseline_pct": 39,
+    "days_behind": 3,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Permit approval delay",
+      "title_as_written": "Permit approval delay",
+      "category": "Regulatory",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Owner PM",
+      "evidence": "Permit issued and work proceeding. Risk closed."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-14",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

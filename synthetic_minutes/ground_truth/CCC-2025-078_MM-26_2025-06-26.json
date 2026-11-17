@@ -1,0 +1,66 @@
+{
+  "file": "CCC-2025-078_MM-26_2025-06-26.pdf",
+  "project_no": "CCC-2025-078",
+  "project_name": "Lakeview Community Centre Construction \u2014 Phase 2",
+  "meeting_no": 26,
+  "date": "2025-06-26",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 79.0,
+    "baseline_pct": 84,
+    "days_behind": 8,
+    "cumulative_change_pct": 0.33
+  },
+  "risks": [
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor PM",
+      "evidence": "Labour shortfall persists; subcontractor has not committed additional workers."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Site safety concern",
+      "title_as_written": "Site safety concern",
+      "category": "Safety",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 5,
+      "score": 20,
+      "rag": "Red",
+      "owner_role": "Resident Engineer",
+      "evidence": "A second incident in two weeks prompted a safety stand-down and an inspector visit."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-30",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-32",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-33",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "material_qty",
+      "material": "Structural Steel",
+      "stated": 109,
+      "correct": 88
+    }
+  ]
+}

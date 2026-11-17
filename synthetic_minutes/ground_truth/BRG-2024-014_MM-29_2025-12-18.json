@@ -1,0 +1,47 @@
+{
+  "file": "BRG-2024-014_MM-29_2025-12-18.pdf",
+  "project_no": "BRG-2024-014",
+  "project_name": "Harbour Bridge Rehabilitation \u2014 Phase 1",
+  "meeting_no": 29,
+  "date": "2025-12-18",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 92.0,
+    "baseline_pct": 94,
+    "days_behind": 3,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Adverse weather delays",
+      "category": "Schedule",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Dewatering measures are in place and crews are working extended hours to recover time."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-24",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "O. Murphy (Northbridge)",
+      "due": "2026-01-01",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-23",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

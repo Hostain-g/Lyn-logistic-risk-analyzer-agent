@@ -1,0 +1,89 @@
+{
+  "file": "BRG-2026-088_MM-13_2026-03-26.pdf",
+  "project_no": "BRG-2026-088",
+  "project_name": "Lakeview Bridge Rehabilitation \u2014 Phase 2",
+  "meeting_no": 13,
+  "date": "2026-03-26",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 36.0,
+    "baseline_pct": 42,
+    "days_behind": 11,
+    "cumulative_change_pct": 0.92
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Weather-related lost days",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Saturated ground conditions have now cost 2 working days and are limiting access at Pier 6, Span 3."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Trade labour constraints",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor PM",
+      "evidence": "Crew productivity is about 15% below plan and is affecting output at Pier 4, Span 3."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Utility conflict",
+      "title_as_written": "Buried utility interference",
+      "category": "Technical",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Locate results show an unmarked utility crossing at Pier 1, Span 2; design team to assess."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-12",
+      "description": "Provide dewatering plan for Pier 6, Span 3.",
+      "owner": "E. Khan (Keystone)",
+      "due": "2026-04-05",
+      "carried": false,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-13",
+      "description": "Issue RFI response for the utility conflict at Pier 1, Span 2.",
+      "owner": "N. Patel (Northbridge)",
+      "due": "2026-04-05",
+      "carried": false,
+      "risk_id": "R-04"
+    },
+    {
+      "id": "AI-14",
+      "description": "Obtain utility owner location confirmation for Pier 1, Span 2.",
+      "owner": "N. Patel (Northbridge)",
+      "due": "2026-04-02",
+      "carried": false,
+      "risk_id": "R-04"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-10",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

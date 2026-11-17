@@ -1,0 +1,46 @@
+{
+  "file": "WPS-2026-100_MM-25_2025-11-13.pdf",
+  "project_no": "WPS-2026-100",
+  "project_name": "Northgate Wastewater Pump Station Upgrade \u2014 Phase 1",
+  "meeting_no": 25,
+  "date": "2025-11-13",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 79.0,
+    "baseline_pct": 81,
+    "days_behind": 2,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Equipment breakdown",
+      "category": "Resource",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Equipment fully operational with standby available. Risk closed."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Design change",
+      "title_as_written": "Scope change from geotechnical recommendation",
+      "category": "Cost",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "A design revision is anticipated at Wet well, Elevation 5 following the latest field review."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

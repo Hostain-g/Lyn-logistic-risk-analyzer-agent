@@ -1,0 +1,86 @@
+{
+  "file": "RSW-2024-071_MM-18_2026-02-26.pdf",
+  "project_no": "RSW-2024-071",
+  "project_name": "Harbour Storm Sewer Upgrade \u2014 Phase 3",
+  "meeting_no": 18,
+  "date": "2026-02-26",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 55.0,
+    "baseline_pct": 58,
+    "days_behind": 5,
+    "cumulative_change_pct": 0.97
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Holdback and certification disagreement",
+      "category": "Contractual",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "The dispute remains unresolved and the contractor has signalled slowed mobilization."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Subcontractor performance concern",
+      "title_as_written": "Subcontractor performance concern",
+      "category": "Contractual",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Owner PM",
+      "evidence": "Replacement subcontractor fully mobilized. Risk closed."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-17",
+      "description": "Provide a replacement subcontractor plan.",
+      "owner": "A. Tran (City)",
+      "due": "2026-03-05",
+      "carried": true,
+      "risk_id": "R-04"
+    },
+    {
+      "id": "AI-21",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "A. Sato (Clearwater)",
+      "due": "2026-03-03",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-17",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-21",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-01",
+      "amount": 74500,
+      "days": 9,
+      "status": "Approved",
+      "risk_id": "R-04"
+    }
+  ],
+  "injected_inconsistencies": [
+    {
+      "kind": "cumulative_pct",
+      "stated": 2.4,
+      "correct": 1.0
+    }
+  ]
+}

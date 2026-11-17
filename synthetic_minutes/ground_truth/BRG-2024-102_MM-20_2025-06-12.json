@@ -1,0 +1,74 @@
+{
+  "file": "BRG-2024-102_MM-20_2025-06-12.pdf",
+  "project_no": "BRG-2024-102",
+  "project_name": "Northgate Bridge Rehabilitation \u2014 Phase 3",
+  "meeting_no": 20,
+  "date": "2025-06-12",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 63.0,
+    "baseline_pct": 65,
+    "days_behind": 3,
+    "cumulative_change_pct": 1.46
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Two 28-day cylinder results were below the specified strength; investigation started."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Design change",
+      "title_as_written": "Design change",
+      "category": "Cost",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "A design revision is anticipated at Pier 3, Span 3 following the latest field review."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-13",
+      "description": "Provide preliminary pricing for the anticipated design change.",
+      "owner": "A. Campbell (Northbridge)",
+      "due": "2025-06-22",
+      "carried": false,
+      "risk_id": "R-03"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-10",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-11",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-12",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "days_behind",
+      "stated": 7,
+      "correct": 3
+    }
+  ]
+}

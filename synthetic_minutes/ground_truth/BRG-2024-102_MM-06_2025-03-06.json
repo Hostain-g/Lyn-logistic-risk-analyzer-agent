@@ -1,0 +1,55 @@
+{
+  "file": "BRG-2024-102_MM-06_2025-03-06.pdf",
+  "project_no": "BRG-2024-102",
+  "project_name": "Northgate Bridge Rehabilitation \u2014 Phase 3",
+  "meeting_no": 6,
+  "date": "2025-03-06",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 19.0,
+    "baseline_pct": 19,
+    "days_behind": 2,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Differing site conditions",
+      "category": "Technical",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Unexpected soft material was encountered near Pier 5, Span 5; geotechnical consultant notified."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-03",
+      "description": "Update the project risk log.",
+      "owner": "M. Dubois (Keystone)",
+      "due": "2025-03-11",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-04",
+      "description": "Provide test pit records for Pier 5, Span 5.",
+      "owner": "K. Okonkwo (Keystone)",
+      "due": "2025-03-11",
+      "carried": false,
+      "risk_id": "R-01"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-03",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

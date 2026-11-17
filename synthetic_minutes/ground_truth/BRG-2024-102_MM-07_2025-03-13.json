@@ -1,0 +1,42 @@
+{
+  "file": "BRG-2024-102_MM-07_2025-03-13.pdf",
+  "project_no": "BRG-2024-102",
+  "project_name": "Northgate Bridge Rehabilitation \u2014 Phase 3",
+  "meeting_no": 7,
+  "date": "2025-03-13",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 22.0,
+    "baseline_pct": 23,
+    "days_behind": 2,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Differing site conditions",
+      "category": "Technical",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Unexpected soft material was encountered near Pier 5, Span 5; geotechnical consultant notified."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-03",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-04",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

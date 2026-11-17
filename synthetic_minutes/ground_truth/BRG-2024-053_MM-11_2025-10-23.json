@@ -1,0 +1,33 @@
+{
+  "file": "BRG-2024-053_MM-11_2025-10-23.pdf",
+  "project_no": "BRG-2024-053",
+  "project_name": "Lakeview Bridge Rehabilitation \u2014 Phase 2",
+  "meeting_no": 11,
+  "date": "2025-10-23",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 36.0,
+    "baseline_pct": 35,
+    "days_behind": 0,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [],
+  "action_items": [
+    {
+      "id": "AI-08",
+      "description": "Update the project risk log.",
+      "owner": "H. Kowalski (Ironbridge)",
+      "due": "2025-11-09",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-07",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

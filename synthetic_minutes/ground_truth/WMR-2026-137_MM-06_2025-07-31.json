@@ -1,0 +1,105 @@
+{
+  "file": "WMR-2026-137_MM-06_2025-07-31.pdf",
+  "project_no": "WMR-2026-137",
+  "project_name": "Northgate Water Main Replacement \u2014 Phase 3",
+  "meeting_no": 6,
+  "date": "2025-07-31",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 15.0,
+    "baseline_pct": 19,
+    "days_behind": 8,
+    "cumulative_change_pct": 1.32
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Differing site conditions",
+      "category": "Technical",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Geotechnical review recommends deeper excavation at Station 1+815; estimated impact $130,200 and 5 working days."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Holdback and certification disagreement",
+      "category": "Contractual",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "Contractor issued a notice regarding delayed payment."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Site safety concern",
+      "title_as_written": "Site safety concern",
+      "category": "Safety",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 5,
+      "score": 20,
+      "rag": "Red",
+      "owner_role": "Resident Engineer",
+      "evidence": "Regulator issued an order requiring improved shoring at Station 2+150."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-07",
+      "description": "Submit change order for the differing site condition.",
+      "owner": "P. Campbell (Apex)",
+      "due": "2025-08-07",
+      "carried": true,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-09",
+      "description": "Hold a safety stand-down for all crews.",
+      "owner": "K. Singh (Halden)",
+      "due": "2025-08-12",
+      "carried": true,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-10",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "P. Patel (Apex)",
+      "due": "2025-08-14",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-02",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-07",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-08",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "CO-01",
+      "amount": 130200,
+      "days": 7,
+      "status": "Under Review",
+      "risk_id": "R-01"
+    }
+  ],
+  "injected_inconsistencies": []
+}

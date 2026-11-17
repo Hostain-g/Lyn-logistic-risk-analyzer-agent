@@ -1,0 +1,80 @@
+{
+  "file": "WPS-2026-100_MM-16_2025-09-11.pdf",
+  "project_no": "WPS-2026-100",
+  "project_name": "Northgate Wastewater Pump Station Upgrade \u2014 Phase 1",
+  "meeting_no": 16,
+  "date": "2025-09-11",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 50.0,
+    "baseline_pct": 52,
+    "days_behind": 4,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Outstanding RFIs",
+      "category": "Schedule",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "A dedicated reviewer was assigned and the backlog is reducing."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Plant failure",
+      "category": "Resource",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 1,
+      "score": 3,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "The primary excavator has been out of service for two days."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-13",
+      "description": "Engineer to provide a response plan for the critical RFIs.",
+      "owner": "T. Rossi (Northbridge)",
+      "due": "2025-09-18",
+      "carried": true,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-15",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "T. Chen (Ridgeline)",
+      "due": "2025-09-16",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-16",
+      "description": "Confirm repair timeline for the equipment.",
+      "owner": "T. Chen (Ridgeline)",
+      "due": "2025-09-30",
+      "carried": true,
+      "risk_id": "R-03"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-13",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-15",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

@@ -1,0 +1,125 @@
+{
+  "file": "BRG-2025-112_MM-15_2025-07-24.pdf",
+  "project_no": "BRG-2025-112",
+  "project_name": "Northgate Bridge Rehabilitation \u2014 Phase 3",
+  "meeting_no": 15,
+  "date": "2025-07-24",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 47.0,
+    "baseline_pct": 48,
+    "days_behind": 3,
+    "cumulative_change_pct": 1.14
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Material price escalation",
+      "category": "Cost",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Owner is reviewing the supplier letter and original bid unit rates; negotiated reduction under discussion."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "A nonconformance report was issued for out-of-tolerance work at Pier 3, Span 1."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Design clarification backlog",
+      "category": "Schedule",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Several RFIs have exceeded the five-day response target."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-08",
+      "description": "Review cumulative change order exposure against original contract value.",
+      "owner": "E. Walker (Tri-County)",
+      "due": "2025-08-03",
+      "carried": true,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-10",
+      "description": "Confirm final negotiated unit price in writing.",
+      "owner": "E. Walker (Tri-County)",
+      "due": "2025-07-31",
+      "carried": false,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-11",
+      "description": "Submit root cause analysis for the nonconformance.",
+      "owner": "M. Singh (Halden)",
+      "due": "2025-08-03",
+      "carried": false,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-12",
+      "description": "Provide a priority list of outstanding RFIs.",
+      "owner": "L. Murphy (City)",
+      "due": "2025-07-27",
+      "carried": false,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-13",
+      "description": "Issue responses to overdue RFIs.",
+      "owner": "L. Murphy (City)",
+      "due": "2025-08-07",
+      "carried": true,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-14",
+      "description": "Provide revised traffic management plan.",
+      "owner": "M. Singh (Halden)",
+      "due": "2025-07-31",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-07",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-08",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-01",
+      "amount": 38900,
+      "days": 0,
+      "status": "Under Review",
+      "risk_id": "R-01"
+    }
+  ],
+  "injected_inconsistencies": []
+}

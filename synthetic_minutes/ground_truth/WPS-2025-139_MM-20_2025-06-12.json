@@ -1,0 +1,89 @@
+{
+  "file": "WPS-2025-139_MM-20_2025-06-12.pdf",
+  "project_no": "WPS-2025-139",
+  "project_name": "Mill Creek Wastewater Pump Station Upgrade \u2014 Phase 2",
+  "meeting_no": 20,
+  "date": "2025-06-12",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 59.0,
+    "baseline_pct": 65,
+    "days_behind": 11,
+    "cumulative_change_pct": 2.19
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Design change",
+      "title_as_written": "Design change",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "Design change at Wet well, Elevation 2 is confirmed; contractor to price the added scope (about $64,300)."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Unforeseen subsurface conditions",
+      "category": "Technical",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Revised foundation detail issued; contractor proceeding with removal and replacement."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Permit approval delay",
+      "title_as_written": "Authority review delay",
+      "category": "Regulatory",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Owner PM",
+      "evidence": "Authority requested additional information, extending the review by an estimated 3 working days."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-19",
+      "description": "Provide revised traffic management plan.",
+      "owner": "H. Ibrahim (Blue)",
+      "due": "2025-06-17",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-20",
+      "description": "Provide inspection records of remediated areas.",
+      "owner": "H. Ibrahim (Blue)",
+      "due": "2025-07-03",
+      "carried": true,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-21",
+      "description": "Update the project risk log.",
+      "owner": "D. Sato (Halden)",
+      "due": "2025-06-26",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-19",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

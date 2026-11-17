@@ -1,0 +1,24 @@
+{
+  "file": "WPS-2024-019_MM-18_2026-03-26.pdf",
+  "project_no": "WPS-2024-019",
+  "project_name": "Lakeview Wastewater Pump Station Upgrade \u2014 Phase 2",
+  "meeting_no": 18,
+  "date": "2026-03-26",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 58.0,
+    "baseline_pct": 58,
+    "days_behind": 0,
+    "cumulative_change_pct": 1.74
+  },
+  "risks": [],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-16",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

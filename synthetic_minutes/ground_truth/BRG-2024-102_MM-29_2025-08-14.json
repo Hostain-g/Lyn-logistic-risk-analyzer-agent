@@ -1,0 +1,71 @@
+{
+  "file": "BRG-2024-102_MM-29_2025-08-14.pdf",
+  "project_no": "BRG-2024-102",
+  "project_name": "Northgate Bridge Rehabilitation \u2014 Phase 3",
+  "meeting_no": 29,
+  "date": "2025-08-14",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 92.0,
+    "baseline_pct": 94,
+    "days_behind": 4,
+    "cumulative_change_pct": 5.9
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Rework at Pier 1, Span 5 is required; the area is closed to further work."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Supplier unit price increase",
+      "category": "Cost",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor PM",
+      "evidence": "Price hold agreed with supplier for part of the remaining quantity; residual exposure reduced."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-27",
+      "description": "Confirm final negotiated unit price in writing.",
+      "owner": "M. Dubois (Keystone)",
+      "due": "2025-08-21",
+      "carried": false,
+      "risk_id": "R-05"
+    },
+    {
+      "id": "AI-28",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "K. Okonkwo (Keystone)",
+      "due": "2025-08-21",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [],
+  "change_orders": [
+    {
+      "id": "PCO-03",
+      "amount": 84800,
+      "days": 0,
+      "status": "Under Review",
+      "risk_id": "R-05"
+    }
+  ],
+  "injected_inconsistencies": []
+}

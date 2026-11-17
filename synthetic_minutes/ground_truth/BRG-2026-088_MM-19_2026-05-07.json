@@ -1,0 +1,63 @@
+{
+  "file": "BRG-2026-088_MM-19_2026-05-07.pdf",
+  "project_no": "BRG-2026-088",
+  "project_name": "Lakeview Bridge Rehabilitation \u2014 Phase 2",
+  "meeting_no": 19,
+  "date": "2026-05-07",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 58.0,
+    "baseline_pct": 61,
+    "days_behind": 6,
+    "cumulative_change_pct": 1.13
+  },
+  "risks": [
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Property access restriction",
+      "title_as_written": "Adjacent owner complaint",
+      "category": "Stakeholder",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 2,
+      "score": 8,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "Access remains restricted; work near Pier 1, Span 3 has been rescheduled."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-23",
+      "description": "Submit outstanding shop drawings for review.",
+      "owner": "E. Khan (Keystone)",
+      "due": "2026-05-21",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-24",
+      "description": "Update the project risk log.",
+      "owner": "M. Adeyemi (Keystone)",
+      "due": "2026-05-31",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-23",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-02",
+      "amount": 31900,
+      "days": 5,
+      "status": "Approved",
+      "risk_id": "R-04"
+    }
+  ],
+  "injected_inconsistencies": []
+}

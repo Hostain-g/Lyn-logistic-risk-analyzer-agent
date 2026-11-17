@@ -1,0 +1,76 @@
+{
+  "file": "RSW-2025-132_MM-20_2025-06-05.pdf",
+  "project_no": "RSW-2025-132",
+  "project_name": "Northgate Storm Sewer Upgrade \u2014 Phase 1",
+  "meeting_no": 20,
+  "date": "2025-06-05",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 61.0,
+    "baseline_pct": 65,
+    "days_behind": 7,
+    "cumulative_change_pct": 0.55
+  },
+  "risks": [
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Retest results are improving; final acceptance pending."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Sediment discharge concern",
+      "category": "Environmental",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Resident Engineer",
+      "evidence": "Regulator notified of the discharge; additional controls required at Station 2+305."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-20",
+      "description": "Provide retest results to the engineer.",
+      "owner": "G. Singh (Keystone)",
+      "due": "2025-06-08",
+      "carried": true,
+      "risk_id": "R-04"
+    },
+    {
+      "id": "AI-22",
+      "description": "Submit soil management plan.",
+      "owner": "L. Patel (Meridian)",
+      "due": "2025-06-10",
+      "carried": false,
+      "risk_id": "R-05"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-20",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-02",
+      "amount": 38900,
+      "days": 4,
+      "status": "Pending Submission",
+      "risk_id": "R-05"
+    }
+  ],
+  "injected_inconsistencies": []
+}

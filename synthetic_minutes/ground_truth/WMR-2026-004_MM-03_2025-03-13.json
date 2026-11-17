@@ -1,0 +1,42 @@
+{
+  "file": "WMR-2026-004_MM-03_2025-03-13.pdf",
+  "project_no": "WMR-2026-004",
+  "project_name": "Riverside Water Main Replacement \u2014 Phase 2",
+  "meeting_no": 3,
+  "date": "2025-03-13",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 8.0,
+    "baseline_pct": 10,
+    "days_behind": 4,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Material delivery delay",
+      "title_as_written": "Material delivery delay",
+      "category": "Supply Chain",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Contractor PM",
+      "evidence": "Supplier has indicated upcoming deliveries may slip by up to 9 working days; written confirmation pending."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-01",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-02",
+      "status": "OPEN"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

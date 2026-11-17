@@ -1,0 +1,28 @@
+{
+  "file": "WMR-2026-137_MM-28_2026-01-01.pdf",
+  "project_no": "WMR-2026-137",
+  "project_name": "Northgate Water Main Replacement \u2014 Phase 3",
+  "meeting_no": 28,
+  "date": "2026-01-01",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 91.0,
+    "baseline_pct": 90,
+    "days_behind": 0,
+    "cumulative_change_pct": 1.69
+  },
+  "risks": [],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-27",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-28",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

@@ -1,0 +1,51 @@
+{
+  "file": "RSW-2024-071_MM-29_2026-05-14.pdf",
+  "project_no": "RSW-2024-071",
+  "project_name": "Harbour Storm Sewer Upgrade \u2014 Phase 3",
+  "meeting_no": 29,
+  "date": "2026-05-14",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 89.0,
+    "baseline_pct": 94,
+    "days_behind": 9,
+    "cumulative_change_pct": 0.97
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Payment certification dispute",
+      "category": "Contractual",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "Contractor issued a notice regarding delayed payment."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Adverse weather delays",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Saturated ground conditions have now cost 4 working days and are limiting access at Station 1+485."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-29",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

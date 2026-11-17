@@ -1,0 +1,38 @@
+{
+  "file": "WPS-2026-100_MM-29_2025-12-11.pdf",
+  "project_no": "WPS-2026-100",
+  "project_name": "Northgate Wastewater Pump Station Upgrade \u2014 Phase 1",
+  "meeting_no": 29,
+  "date": "2025-12-11",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 92.0,
+    "baseline_pct": 94,
+    "days_behind": 3,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Design change",
+      "title_as_written": "Scope change from geotechnical recommendation",
+      "category": "Cost",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Change order under review; work proceeding at risk on the unaffected areas."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-28",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

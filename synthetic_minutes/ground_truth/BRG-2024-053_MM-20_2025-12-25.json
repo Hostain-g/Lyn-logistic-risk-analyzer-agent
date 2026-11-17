@@ -1,0 +1,84 @@
+{
+  "file": "BRG-2024-053_MM-20_2025-12-25.pdf",
+  "project_no": "BRG-2024-053",
+  "project_name": "Lakeview Bridge Rehabilitation \u2014 Phase 2",
+  "meeting_no": 20,
+  "date": "2025-12-25",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 58.0,
+    "baseline_pct": 65,
+    "days_behind": 13,
+    "cumulative_change_pct": 0.72
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Retest results are improving; final acceptance pending."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Owner PM",
+      "evidence": "Lab results confirm contamination above the disposal threshold; special handling is required (estimated $22,300)."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Trade labour constraints",
+      "category": "Resource",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Two experienced operators left the project; replacements are being sourced."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-16",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-17",
+      "status": "OPEN"
+    },
+    {
+      "id": "AI-18",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-19",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-01",
+      "amount": 22300,
+      "days": 8,
+      "status": "Under Review",
+      "risk_id": "R-02"
+    }
+  ],
+  "injected_inconsistencies": []
+}

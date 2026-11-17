@@ -1,0 +1,125 @@
+{
+  "file": "WPS-2025-139_MM-15_2025-05-08.pdf",
+  "project_no": "WPS-2025-139",
+  "project_name": "Mill Creek Wastewater Pump Station Upgrade \u2014 Phase 2",
+  "meeting_no": 15,
+  "date": "2025-05-08",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 41.0,
+    "baseline_pct": 48,
+    "days_behind": 14,
+    "cumulative_change_pct": 0.64
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Design change",
+      "title_as_written": "Design change",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "Design change at Wet well, Elevation 2 is confirmed; contractor to price the added scope (about $64,300)."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Resident Engineer",
+      "evidence": "Regulator notified of the discharge; additional controls required at Wet well, Elevation 5."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Differing site conditions",
+      "category": "Technical",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Groundwater levels at Wet well, Elevation 2 are higher than shown in the geotechnical report."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Permit approval delay",
+      "title_as_written": "Authority review delay",
+      "category": "Regulatory",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "Approval of the revised traffic plan is outstanding with the road authority."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-09",
+      "description": "Submit soil management plan.",
+      "owner": "D. Sato (Halden)",
+      "due": "2025-05-15",
+      "carried": true,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-12",
+      "description": "Submit outstanding shop drawings for review.",
+      "owner": "D. Sato (Halden)",
+      "due": "2025-05-22",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-13",
+      "description": "Submit outstanding permit documents.",
+      "owner": "R. Khan (City)",
+      "due": "2025-05-15",
+      "carried": false,
+      "risk_id": "R-04"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-09",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-11",
+      "status": "OPEN"
+    },
+    {
+      "id": "AI-12",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "CO-01",
+      "amount": 64300,
+      "days": 3,
+      "status": "Under Review",
+      "risk_id": "R-01"
+    },
+    {
+      "id": "PCO-02",
+      "amount": 38400,
+      "days": 7,
+      "status": "Rejected",
+      "risk_id": "R-02"
+    }
+  ],
+  "injected_inconsistencies": []
+}

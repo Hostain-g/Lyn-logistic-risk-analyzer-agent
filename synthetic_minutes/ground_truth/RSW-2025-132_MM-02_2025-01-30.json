@@ -1,0 +1,24 @@
+{
+  "file": "RSW-2025-132_MM-02_2025-01-30.pdf",
+  "project_no": "RSW-2025-132",
+  "project_name": "Northgate Storm Sewer Upgrade \u2014 Phase 1",
+  "meeting_no": 2,
+  "date": "2025-01-30",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 7.0,
+    "baseline_pct": 6,
+    "days_behind": 0,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-01",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

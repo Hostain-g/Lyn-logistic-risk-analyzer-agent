@@ -1,0 +1,78 @@
+{
+  "file": "WMR-2024-095_MM-18_2026-06-04.pdf",
+  "project_no": "WMR-2024-095",
+  "project_name": "Mill Creek Water Main Replacement \u2014 Phase 1",
+  "meeting_no": 18,
+  "date": "2026-06-04",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 58.0,
+    "baseline_pct": 58,
+    "days_behind": 1,
+    "cumulative_change_pct": 0.28
+  },
+  "risks": [
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Cost escalation on remaining quantities",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Contractor formally requested a change order for the 8% escalation; exposure estimated at $90,700."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Holdback and certification disagreement",
+      "category": "Contractual",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "The dispute remains unresolved and the contractor has signalled slowed mobilization."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-23",
+      "description": "Update the project risk log.",
+      "owner": "N. Lefebvre (Northbridge)",
+      "due": "2026-06-11",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-24",
+      "description": "Update the project risk log.",
+      "owner": "N. Lefebvre (Northbridge)",
+      "due": "2026-06-11",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-22",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-23",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "cumulative_pct",
+      "stated": 1.2,
+      "correct": 0.3
+    }
+  ]
+}

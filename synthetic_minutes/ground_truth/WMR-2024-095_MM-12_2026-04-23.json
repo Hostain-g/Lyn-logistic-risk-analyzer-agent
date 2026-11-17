@@ -1,0 +1,89 @@
+{
+  "file": "WMR-2024-095_MM-12_2026-04-23.pdf",
+  "project_no": "WMR-2024-095",
+  "project_name": "Mill Creek Water Main Replacement \u2014 Phase 1",
+  "meeting_no": 12,
+  "date": "2026-04-23",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 36.0,
+    "baseline_pct": 39,
+    "days_behind": 6,
+    "cumulative_change_pct": 0.28
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Material delivery delay",
+      "title_as_written": "Material delivery delay",
+      "category": "Supply Chain",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Alternate supplier qualified and first load delivered; stockpile is being rebuilt."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Site safety concern",
+      "title_as_written": "Site safety concern",
+      "category": "Safety",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 4,
+      "score": 8,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Daily safety audits are in place and trending positively."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Material price escalation",
+      "category": "Cost",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Supplier notified an expected price increase of about 8% for deliveries after the end of the month."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-16",
+      "description": "Provide weekly stockpile report until recovery is confirmed.",
+      "owner": "L. Nguyen (Tri-County)",
+      "due": "2026-04-30",
+      "carried": false,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-17",
+      "description": "Provide weekly safety audit results.",
+      "owner": "N. Lefebvre (Northbridge)",
+      "due": "2026-05-03",
+      "carried": false,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-18",
+      "description": "Submit outstanding shop drawings for review.",
+      "owner": "P. Singh (Tri-County)",
+      "due": "2026-05-05",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-15",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

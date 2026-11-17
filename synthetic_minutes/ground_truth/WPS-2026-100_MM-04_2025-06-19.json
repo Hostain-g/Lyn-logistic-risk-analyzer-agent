@@ -1,0 +1,66 @@
+{
+  "file": "WPS-2026-100_MM-04_2025-06-19.pdf",
+  "project_no": "WPS-2026-100",
+  "project_name": "Northgate Wastewater Pump Station Upgrade \u2014 Phase 1",
+  "meeting_no": 4,
+  "date": "2025-06-19",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 12.0,
+    "baseline_pct": 13,
+    "days_behind": 2,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Material delivery delay",
+      "title_as_written": "Supplier delivery slippage",
+      "category": "Supply Chain",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Contractor PM",
+      "evidence": "Deliveries have been on schedule for two consecutive weeks. Risk closed."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-04",
+      "description": "Provide weekly stockpile report until recovery is confirmed.",
+      "owner": "T. Murphy (Ridgeline)",
+      "due": "2025-06-22",
+      "carried": true,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-06",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "T. Rossi (Northbridge)",
+      "due": "2025-07-08",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-04",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-05",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "material_qty",
+      "material": "Structural Concrete 35 MPa",
+      "stated": 994,
+      "correct": 838
+    }
+  ]
+}

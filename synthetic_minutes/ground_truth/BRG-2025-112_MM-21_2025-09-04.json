@@ -1,0 +1,80 @@
+{
+  "file": "BRG-2025-112_MM-21_2025-09-04.pdf",
+  "project_no": "BRG-2025-112",
+  "project_name": "Northgate Bridge Rehabilitation \u2014 Phase 3",
+  "meeting_no": 21,
+  "date": "2025-09-04",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 62.0,
+    "baseline_pct": 68,
+    "days_behind": 12,
+    "cumulative_change_pct": 2.9
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Delayed RFI responses",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "Delayed RFI responses are now holding up work at Pier 1, Span 2."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Subcontractor performance concern",
+      "title_as_written": "Subcontractor financial instability",
+      "category": "Contractual",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 5,
+      "score": 20,
+      "rag": "Red",
+      "owner_role": "Owner PM",
+      "evidence": "Subcontractor has demobilized; the contractor is assessing replacement options."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-22",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "E. Walker (Tri-County)",
+      "due": "2025-09-07",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-23",
+      "description": "Update the project risk log.",
+      "owner": "P. Rossi (Tri-County)",
+      "due": "2025-09-11",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-21",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-22",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-02",
+      "amount": 59600,
+      "days": 9,
+      "status": "Under Review",
+      "risk_id": "R-04"
+    }
+  ],
+  "injected_inconsistencies": []
+}

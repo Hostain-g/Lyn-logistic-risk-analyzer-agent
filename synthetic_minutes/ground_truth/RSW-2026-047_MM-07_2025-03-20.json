@@ -1,0 +1,80 @@
+{
+  "file": "RSW-2026-047_MM-07_2025-03-20.pdf",
+  "project_no": "RSW-2026-047",
+  "project_name": "Central Storm Sewer Upgrade \u2014 Phase 2",
+  "meeting_no": 7,
+  "date": "2025-03-20",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 18.0,
+    "baseline_pct": 23,
+    "days_behind": 9,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Permit approval delay",
+      "title_as_written": "Regulatory approval pending",
+      "category": "Regulatory",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Additional information submitted; the authority has committed to a decision within one week."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Subcontractor performance concern",
+      "title_as_written": "Subcontractor financial instability",
+      "category": "Contractual",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 4,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor PM",
+      "evidence": "Owner raised concerns about the subcontractor's slow mobilization and unpaid supplier notices."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-08",
+      "description": "Confirm permit conditions are incorporated into the work plan.",
+      "owner": "P. Adeyemi (City)",
+      "due": "2025-03-30",
+      "carried": false,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-09",
+      "description": "Submit statutory declaration on subcontractor payments.",
+      "owner": "P. Singh (Blue)",
+      "due": "2025-03-25",
+      "carried": false,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-10",
+      "description": "Provide confirmation of subcontractor payment status.",
+      "owner": "P. Singh (Blue)",
+      "due": "2025-04-03",
+      "carried": true,
+      "risk_id": "R-02"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-05",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-06",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

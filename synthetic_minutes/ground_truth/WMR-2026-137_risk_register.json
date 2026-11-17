@@ -1,0 +1,237 @@
+{
+  "project_no": "WMR-2026-137",
+  "project_name": "Northgate Water Main Replacement \u2014 Phase 3",
+  "contract_value": 9850000,
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Differing site conditions",
+      "category": "Technical",
+      "first_meeting": 2,
+      "closed_meeting": 9,
+      "history": [
+        {
+          "meeting": 2,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 3,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 4,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 5,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 6,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 7,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 8,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 9,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Payment certification dispute",
+      "category": "Contractual",
+      "first_meeting": 3,
+      "closed_meeting": 11,
+      "history": [
+        {
+          "meeting": 3,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 4,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 5,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 6,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 7,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 8,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 9,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 10,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 11,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Site safety concern",
+      "category": "Safety",
+      "first_meeting": 5,
+      "closed_meeting": 8,
+      "history": [
+        {
+          "meeting": 5,
+          "stage": "raised",
+          "score": 12
+        },
+        {
+          "meeting": 6,
+          "stage": "escalated",
+          "score": 20
+        },
+        {
+          "meeting": 7,
+          "stage": "mitigating",
+          "score": 8
+        },
+        {
+          "meeting": 8,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Material delivery delay",
+      "category": "Supply Chain",
+      "first_meeting": 13,
+      "closed_meeting": 21,
+      "history": [
+        {
+          "meeting": 13,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 14,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 15,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 16,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 17,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 18,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 19,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 20,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 21,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Utility conflict",
+      "category": "Technical",
+      "first_meeting": 20,
+      "closed_meeting": 26,
+      "history": [
+        {
+          "meeting": 20,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 21,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 22,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 23,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 24,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 25,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 26,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    }
+  ]
+}

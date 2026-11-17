@@ -1,0 +1,63 @@
+{
+  "file": "WMR-2026-004_MM-06_2025-04-03.pdf",
+  "project_no": "WMR-2026-004",
+  "project_name": "Riverside Water Main Replacement \u2014 Phase 2",
+  "meeting_no": 6,
+  "date": "2025-04-03",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 15.0,
+    "baseline_pct": 19,
+    "days_behind": 10,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Material delivery delay",
+      "title_as_written": "Material delivery delay",
+      "category": "Supply Chain",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor PM",
+      "evidence": "Deliveries are now 9 working days late and are constraining crews at Station 3+795."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-04",
+      "description": "Submit recovery schedule showing resequencing around late deliveries.",
+      "owner": "A. Adeyemi (Keystone)",
+      "due": "2025-04-06",
+      "carried": true,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-05",
+      "description": "Provide revised traffic management plan.",
+      "owner": "L. Dubois (Northbridge)",
+      "due": "2025-04-10",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-03",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-04",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-05",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

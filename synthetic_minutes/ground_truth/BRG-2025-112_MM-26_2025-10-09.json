@@ -1,0 +1,72 @@
+{
+  "file": "BRG-2025-112_MM-26_2025-10-09.pdf",
+  "project_no": "BRG-2025-112",
+  "project_name": "Northgate Bridge Rehabilitation \u2014 Phase 3",
+  "meeting_no": 26,
+  "date": "2025-10-09",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 80.0,
+    "baseline_pct": 84,
+    "days_behind": 7,
+    "cumulative_change_pct": 3.13
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Delayed RFI responses",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "RFI backlog has reached 3 items, several on the critical path."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "A disposal facility was secured and hauling has started."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-30",
+      "description": "Submit disposal manifests.",
+      "owner": "L. Murphy (City)",
+      "due": "2025-10-21",
+      "carried": true,
+      "risk_id": "R-05"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-27",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-29",
+      "status": "OPEN"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-03",
+      "amount": 67600,
+      "days": 5,
+      "status": "Under Review",
+      "risk_id": "R-05"
+    }
+  ],
+  "injected_inconsistencies": []
+}

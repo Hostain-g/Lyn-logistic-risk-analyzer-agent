@@ -1,0 +1,42 @@
+{
+  "file": "WMR-2024-095_MM-08_2026-03-26.pdf",
+  "project_no": "WMR-2024-095",
+  "project_name": "Mill Creek Water Main Replacement \u2014 Phase 1",
+  "meeting_no": 8,
+  "date": "2026-03-26",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 24.0,
+    "baseline_pct": 26,
+    "days_behind": 3,
+    "cumulative_change_pct": 0.28
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Material delivery delay",
+      "title_as_written": "Long-lead material shortfall",
+      "category": "Supply Chain",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Summit Cement Co. advised of a possible 3-5 working day delay on the next shipment due to plant maintenance."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-08",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-09",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

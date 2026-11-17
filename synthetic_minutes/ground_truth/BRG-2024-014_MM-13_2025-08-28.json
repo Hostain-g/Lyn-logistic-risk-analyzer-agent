@@ -1,0 +1,55 @@
+{
+  "file": "BRG-2024-014_MM-13_2025-08-28.pdf",
+  "project_no": "BRG-2024-014",
+  "project_name": "Harbour Bridge Rehabilitation \u2014 Phase 1",
+  "meeting_no": 13,
+  "date": "2025-08-28",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 41.0,
+    "baseline_pct": 42,
+    "days_behind": 3,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Payment certification dispute",
+      "category": "Contractual",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Contractor PM",
+      "evidence": "Revised certificate issued and the contractor confirmed agreement. Risk closed."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Remedial plan accepted by the engineer; rework is under way."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-11",
+      "description": "Provide retest results to the engineer.",
+      "owner": "O. Murphy (Northbridge)",
+      "due": "2025-08-31",
+      "carried": false,
+      "risk_id": "R-02"
+    }
+  ],
+  "previous_actions": [],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

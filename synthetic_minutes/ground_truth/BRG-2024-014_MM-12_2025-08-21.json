@@ -1,0 +1,51 @@
+{
+  "file": "BRG-2024-014_MM-12_2025-08-21.pdf",
+  "project_no": "BRG-2024-014",
+  "project_name": "Harbour Bridge Rehabilitation \u2014 Phase 1",
+  "meeting_no": 12,
+  "date": "2025-08-21",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 36.0,
+    "baseline_pct": 39,
+    "days_behind": 4,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Payment certification dispute",
+      "category": "Contractual",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Contractor PM",
+      "evidence": "Quantities were jointly verified on site; a revised certificate is being prepared."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Quality nonconformance",
+      "category": "Quality",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Core testing confirms low strength in the affected section; remedial options are being evaluated."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-10",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

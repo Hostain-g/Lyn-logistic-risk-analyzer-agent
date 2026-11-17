@@ -1,0 +1,46 @@
+{
+  "file": "WMR-2026-004_MM-29_2025-09-11.pdf",
+  "project_no": "WMR-2026-004",
+  "project_name": "Riverside Water Main Replacement \u2014 Phase 2",
+  "meeting_no": 29,
+  "date": "2025-09-11",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 89.0,
+    "baseline_pct": 94,
+    "days_behind": 8,
+    "cumulative_change_pct": 0.35
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Equipment breakdown",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 2,
+      "score": 8,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Second breakdown on the same unit; production at Station 3+075 is reduced."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Differing site conditions",
+      "category": "Technical",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Geotechnical review recommends deeper excavation at Station 2+090; estimated impact $79,400 and 2 working days."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

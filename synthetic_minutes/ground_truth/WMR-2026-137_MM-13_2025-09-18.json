@@ -1,0 +1,51 @@
+{
+  "file": "WMR-2026-137_MM-13_2025-09-18.pdf",
+  "project_no": "WMR-2026-137",
+  "project_name": "Northgate Water Main Replacement \u2014 Phase 3",
+  "meeting_no": 13,
+  "date": "2025-09-18",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 41.0,
+    "baseline_pct": 42,
+    "days_behind": 2,
+    "cumulative_change_pct": 1.32
+  },
+  "risks": [
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Material delivery delay",
+      "title_as_written": "Material delivery delay",
+      "category": "Supply Chain",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Supplier has indicated upcoming deliveries may slip by up to 5 working days; written confirmation pending."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-17",
+      "description": "Provide written delivery forecast for the next four weeks.",
+      "owner": "P. Campbell (Apex)",
+      "due": "2025-10-02",
+      "carried": true,
+      "risk_id": "R-04"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-15",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-16",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

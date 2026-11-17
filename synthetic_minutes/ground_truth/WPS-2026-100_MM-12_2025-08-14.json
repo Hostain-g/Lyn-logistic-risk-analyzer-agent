@@ -1,0 +1,51 @@
+{
+  "file": "WPS-2026-100_MM-12_2025-08-14.pdf",
+  "project_no": "WPS-2026-100",
+  "project_name": "Northgate Wastewater Pump Station Upgrade \u2014 Phase 1",
+  "meeting_no": 12,
+  "date": "2025-08-14",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 38.0,
+    "baseline_pct": 39,
+    "days_behind": 3,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Design clarification backlog",
+      "category": "Schedule",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Several RFIs have exceeded the five-day response target."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-12",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "T. Rossi (Northbridge)",
+      "due": "2025-08-21",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-10",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-12",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

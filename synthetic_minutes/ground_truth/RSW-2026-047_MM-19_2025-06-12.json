@@ -1,0 +1,24 @@
+{
+  "file": "RSW-2026-047_MM-19_2025-06-12.pdf",
+  "project_no": "RSW-2026-047",
+  "project_name": "Central Storm Sewer Upgrade \u2014 Phase 2",
+  "meeting_no": 19,
+  "date": "2025-06-12",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 62.0,
+    "baseline_pct": 61,
+    "days_behind": 0,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-17",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

@@ -1,0 +1,88 @@
+{
+  "file": "WMR-2026-137_MM-09_2025-08-21.pdf",
+  "project_no": "WMR-2026-137",
+  "project_name": "Northgate Water Main Replacement \u2014 Phase 3",
+  "meeting_no": 9,
+  "date": "2025-08-21",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 28.0,
+    "baseline_pct": 29,
+    "days_behind": 2,
+    "cumulative_change_pct": 1.32
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Differing site conditions",
+      "category": "Technical",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Subgrade remediation complete and accepted. Risk closed."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Holdback and certification disagreement",
+      "category": "Contractual",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Quantities were jointly verified on site; a revised certificate is being prepared."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-12",
+      "description": "Provide weekly safety audit results.",
+      "owner": "K. Singh (Halden)",
+      "due": "2025-09-11",
+      "carried": true,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-15",
+      "description": "Submit outstanding shop drawings for review.",
+      "owner": "K. Singh (Halden)",
+      "due": "2025-09-18",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-11",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-12",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-13",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-14",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "CO-01",
+      "amount": 130200,
+      "days": 7,
+      "status": "Approved",
+      "risk_id": "R-01"
+    }
+  ],
+  "injected_inconsistencies": []
+}

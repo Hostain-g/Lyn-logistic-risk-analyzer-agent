@@ -1,0 +1,68 @@
+{
+  "file": "WMR-2024-095_MM-17_2026-05-28.pdf",
+  "project_no": "WMR-2024-095",
+  "project_name": "Mill Creek Water Main Replacement \u2014 Phase 1",
+  "meeting_no": 17,
+  "date": "2026-05-28",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 55.0,
+    "baseline_pct": 55,
+    "days_behind": 0,
+    "cumulative_change_pct": 0.28
+  },
+  "risks": [
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Material price escalation",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Potential cost exposure of approximately $90,700 if the 8% escalation is accepted on remaining quantities."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Holdback and certification disagreement",
+      "category": "Contractual",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "Contractor issued a notice regarding delayed payment."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-22",
+      "description": "Owner to respond in writing to the contractor's notice.",
+      "owner": "V. Murphy (City)",
+      "due": "2026-06-04",
+      "carried": false,
+      "risk_id": "R-05"
+    },
+    {
+      "id": "AI-23",
+      "description": "Update the project risk log.",
+      "owner": "N. Lefebvre (Northbridge)",
+      "due": "2026-06-11",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-21",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

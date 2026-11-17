@@ -1,0 +1,28 @@
+{
+  "file": "RSW-2025-132_MM-26_2025-07-17.pdf",
+  "project_no": "RSW-2025-132",
+  "project_name": "Northgate Storm Sewer Upgrade \u2014 Phase 1",
+  "meeting_no": 26,
+  "date": "2025-07-17",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 84.0,
+    "baseline_pct": 84,
+    "days_behind": 0,
+    "cumulative_change_pct": 0.55
+  },
+  "risks": [],
+  "action_items": [
+    {
+      "id": "AI-24",
+      "description": "Provide revised traffic management plan.",
+      "owner": "L. Patel (Meridian)",
+      "due": "2025-07-24",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

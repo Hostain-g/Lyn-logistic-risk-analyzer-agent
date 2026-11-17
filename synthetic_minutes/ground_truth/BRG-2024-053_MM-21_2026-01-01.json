@@ -1,0 +1,118 @@
+{
+  "file": "BRG-2024-053_MM-21_2026-01-01.pdf",
+  "project_no": "BRG-2024-053",
+  "project_name": "Lakeview Bridge Rehabilitation \u2014 Phase 2",
+  "meeting_no": 21,
+  "date": "2026-01-01",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 61.0,
+    "baseline_pct": 68,
+    "days_behind": 14,
+    "cumulative_change_pct": 0.72
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Quality nonconformance",
+      "category": "Quality",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Retest results are improving; final acceptance pending."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Owner PM",
+      "evidence": "Regulator notified of the discharge; additional controls required at Pier 2, Span 2."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Crew productivity is about 8% below plan and is affecting output at Pier 6, Span 2."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Material price escalation",
+      "category": "Cost",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Contractor PM",
+      "evidence": "Ironwood Steel Supply advised of a 10% price adjustment due to raw material and energy costs."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-20",
+      "description": "Submit labour recovery plan.",
+      "owner": "G. Haddad (Ironbridge)",
+      "due": "2026-01-04",
+      "carried": false,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-21",
+      "description": "Confirm availability of additional subcontract crews.",
+      "owner": "G. Haddad (Ironbridge)",
+      "due": "2026-01-13",
+      "carried": true,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-22",
+      "description": "Provide supplier letter and original bid unit rates for the price escalation.",
+      "owner": "H. Kowalski (Ironbridge)",
+      "due": "2026-01-08",
+      "carried": false,
+      "risk_id": "R-04"
+    },
+    {
+      "id": "AI-23",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "A. Lefebvre (Meridian)",
+      "due": "2026-01-08",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-17",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-01",
+      "amount": 22300,
+      "days": 8,
+      "status": "Under Review",
+      "risk_id": "R-02"
+    }
+  ],
+  "injected_inconsistencies": []
+}

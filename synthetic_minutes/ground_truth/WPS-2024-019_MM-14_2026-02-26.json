@@ -1,0 +1,59 @@
+{
+  "file": "WPS-2024-019_MM-14_2026-02-26.pdf",
+  "project_no": "WPS-2024-019",
+  "project_name": "Lakeview Wastewater Pump Station Upgrade \u2014 Phase 2",
+  "meeting_no": 14,
+  "date": "2026-02-26",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 44.0,
+    "baseline_pct": 45,
+    "days_behind": 3,
+    "cumulative_change_pct": 1.74
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Material price escalation",
+      "category": "Cost",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor PM",
+      "evidence": "Price hold agreed with supplier for part of the remaining quantity; residual exposure reduced."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Equipment breakdown",
+      "category": "Resource",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 1,
+      "score": 2,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Repair completed; the contractor added a standby unit."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-12",
+      "status": "OPEN"
+    },
+    {
+      "id": "AI-13",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-14",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

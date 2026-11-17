@@ -1,0 +1,55 @@
+{
+  "file": "RSW-2024-071_MM-25_2026-04-16.pdf",
+  "project_no": "RSW-2024-071",
+  "project_name": "Harbour Storm Sewer Upgrade \u2014 Phase 3",
+  "meeting_no": 25,
+  "date": "2026-04-16",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 79.0,
+    "baseline_pct": 81,
+    "days_behind": 4,
+    "cumulative_change_pct": 0.97
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Holdback and certification disagreement",
+      "category": "Contractual",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "The dispute remains unresolved and the contractor has signalled slowed mobilization."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Rain and saturated ground conditions",
+      "category": "Schedule",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Heavy rain this week resulted in one lost working day."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-25",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-26",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

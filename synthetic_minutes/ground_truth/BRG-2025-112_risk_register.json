@@ -1,0 +1,267 @@
+{
+  "project_no": "BRG-2025-112",
+  "project_name": "Northgate Bridge Rehabilitation \u2014 Phase 3",
+  "contract_value": 3400000,
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Material price escalation",
+      "category": "Cost",
+      "first_meeting": 11,
+      "closed_meeting": 18,
+      "history": [
+        {
+          "meeting": 11,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 12,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 13,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 14,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 15,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 16,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 17,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 18,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "category": "Quality",
+      "first_meeting": 15,
+      "closed_meeting": 19,
+      "history": [
+        {
+          "meeting": 15,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 16,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 17,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 18,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 19,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Delayed RFI responses",
+      "category": "Schedule",
+      "first_meeting": 15,
+      "closed_meeting": null,
+      "history": [
+        {
+          "meeting": 15,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 16,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 17,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 18,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 19,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 20,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 21,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 22,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 23,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 24,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 25,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 26,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 27,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 28,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 29,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 30,
+          "stage": "escalated",
+          "score": 12
+        }
+      ]
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Subcontractor performance concern",
+      "category": "Contractual",
+      "first_meeting": 17,
+      "closed_meeting": 23,
+      "history": [
+        {
+          "meeting": 17,
+          "stage": "raised",
+          "score": 12
+        },
+        {
+          "meeting": 18,
+          "stage": "raised",
+          "score": 12
+        },
+        {
+          "meeting": 19,
+          "stage": "raised",
+          "score": 12
+        },
+        {
+          "meeting": 20,
+          "stage": "escalated",
+          "score": 20
+        },
+        {
+          "meeting": 21,
+          "stage": "escalated",
+          "score": 20
+        },
+        {
+          "meeting": 22,
+          "stage": "mitigating",
+          "score": 8
+        },
+        {
+          "meeting": 23,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Contaminated soil",
+      "category": "Environmental",
+      "first_meeting": 24,
+      "closed_meeting": 30,
+      "history": [
+        {
+          "meeting": 24,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 25,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 26,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 27,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 28,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 29,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 30,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "file": "RSW-2026-047_MM-06_2025-03-13.pdf",
+  "project_no": "RSW-2026-047",
+  "project_name": "Central Storm Sewer Upgrade \u2014 Phase 2",
+  "meeting_no": 6,
+  "date": "2025-03-13",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 13.0,
+    "baseline_pct": 19,
+    "days_behind": 12,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Permit approval delay",
+      "title_as_written": "Permit approval delay",
+      "category": "Regulatory",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Owner PM",
+      "evidence": "Permit remains outstanding; the next work phase cannot start until it is issued."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-05",
+      "status": "OPEN"
+    },
+    {
+      "id": "AI-06",
+      "status": "OPEN"
+    },
+    {
+      "id": "AI-07",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

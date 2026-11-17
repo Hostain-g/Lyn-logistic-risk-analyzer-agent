@@ -1,0 +1,81 @@
+{
+  "file": "BRG-2024-053_MM-16_2025-11-27.pdf",
+  "project_no": "BRG-2024-053",
+  "project_name": "Lakeview Bridge Rehabilitation \u2014 Phase 2",
+  "meeting_no": 16,
+  "date": "2025-11-27",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 49.0,
+    "baseline_pct": 52,
+    "days_behind": 5,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Core testing confirms low strength in the affected section; remedial options are being evaluated."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-09",
+      "description": "Provide revised concrete mix design for the affected section.",
+      "owner": "G. Haddad (Ironbridge)",
+      "due": "2025-12-11",
+      "carried": true,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-12",
+      "description": "Submit remedial work plan for engineer acceptance.",
+      "owner": "G. Haddad (Ironbridge)",
+      "due": "2025-12-07",
+      "carried": false,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-13",
+      "description": "Arrange independent core testing.",
+      "owner": "G. Haddad (Ironbridge)",
+      "due": "2025-12-02",
+      "carried": false,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-14",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "H. Kowalski (Ironbridge)",
+      "due": "2025-12-02",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-09",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-11",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "days_behind",
+      "stated": 9,
+      "correct": 5
+    }
+  ]
+}

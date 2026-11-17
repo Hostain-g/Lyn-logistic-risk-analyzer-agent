@@ -1,0 +1,38 @@
+{
+  "file": "BRG-2024-014_MM-14_2025-09-04.pdf",
+  "project_no": "BRG-2024-014",
+  "project_name": "Harbour Bridge Rehabilitation \u2014 Phase 1",
+  "meeting_no": 14,
+  "date": "2025-09-04",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 44.0,
+    "baseline_pct": 45,
+    "days_behind": 2,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Resident Engineer",
+      "evidence": "Retest results meet the specification. Risk closed."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-11",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

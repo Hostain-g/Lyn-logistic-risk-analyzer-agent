@@ -1,0 +1,109 @@
+{
+  "file": "WMR-2026-137_MM-05_2025-07-24.pdf",
+  "project_no": "WMR-2026-137",
+  "project_name": "Northgate Water Main Replacement \u2014 Phase 3",
+  "meeting_no": 5,
+  "date": "2025-07-24",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 12.0,
+    "baseline_pct": 16,
+    "days_behind": 8,
+    "cumulative_change_pct": 1.32
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Differing site conditions",
+      "category": "Technical",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Geotechnical review recommends deeper excavation at Station 1+815; estimated impact $130,200 and 5 working days."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Payment certification dispute",
+      "category": "Contractual",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "The dispute remains unresolved and the contractor has signalled slowed mobilization."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Site safety concern",
+      "title_as_written": "Near-miss trend",
+      "category": "Safety",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 4,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "A minor first-aid incident occurred; investigation under way."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-02",
+      "description": "Update the project risk log.",
+      "owner": "P. Campbell (Apex)",
+      "due": "2025-07-27",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-07",
+      "description": "Submit change order for the differing site condition.",
+      "owner": "P. Campbell (Apex)",
+      "due": "2025-08-07",
+      "carried": true,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-08",
+      "description": "Submit incident investigation report.",
+      "owner": "K. Singh (Halden)",
+      "due": "2025-07-31",
+      "carried": false,
+      "risk_id": "R-03"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-02",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-04",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-05",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-06",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "CO-01",
+      "amount": 130200,
+      "days": 7,
+      "status": "Pending Submission",
+      "risk_id": "R-01"
+    }
+  ],
+  "injected_inconsistencies": []
+}

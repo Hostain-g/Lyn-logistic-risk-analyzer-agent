@@ -1,0 +1,113 @@
+{
+  "file": "WMR-2026-004_MM-23_2025-07-31.pdf",
+  "project_no": "WMR-2026-004",
+  "project_name": "Riverside Water Main Replacement \u2014 Phase 2",
+  "meeting_no": 23,
+  "date": "2025-07-31",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 68.0,
+    "baseline_pct": 74,
+    "days_behind": 13,
+    "cumulative_change_pct": 0.35
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Equipment breakdown",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 2,
+      "score": 8,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Second breakdown on the same unit; production at Station 3+075 is reduced."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Delayed RFI responses",
+      "category": "Schedule",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Weekly RFI review call established with the design team."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Differing site conditions",
+      "category": "Technical",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Unsuitable material extends beyond the initial extent; additional removal and replacement required."
+    },
+    {
+      "risk_id": "R-07",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Adverse weather delays",
+      "category": "Schedule",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Contractor has resequenced work to interior and protected areas."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-34",
+      "description": "Report recovered days weekly.",
+      "owner": "H. Khan (Keystone)",
+      "due": "2025-08-05",
+      "carried": true,
+      "risk_id": "R-07"
+    },
+    {
+      "id": "AI-35",
+      "description": "Report open RFI count weekly.",
+      "owner": "L. Dubois (Northbridge)",
+      "due": "2025-08-10",
+      "carried": false,
+      "risk_id": "R-03"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-30",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-34",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "CO-02",
+      "amount": 60500,
+      "days": 2,
+      "status": "Under Review",
+      "risk_id": "R-06"
+    }
+  ],
+  "injected_inconsistencies": [
+    {
+      "kind": "material_qty",
+      "material": "Ductile Iron Pipe (300 mm)",
+      "stated": 1224,
+      "correct": 1033
+    }
+  ]
+}

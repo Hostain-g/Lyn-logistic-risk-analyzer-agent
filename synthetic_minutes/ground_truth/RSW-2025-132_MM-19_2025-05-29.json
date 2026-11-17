@@ -1,0 +1,64 @@
+{
+  "file": "RSW-2025-132_MM-19_2025-05-29.pdf",
+  "project_no": "RSW-2025-132",
+  "project_name": "Northgate Storm Sewer Upgrade \u2014 Phase 1",
+  "meeting_no": 19,
+  "date": "2025-05-29",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 60.0,
+    "baseline_pct": 61,
+    "days_behind": 4,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Retest results are improving; final acceptance pending."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "A sediment discharge was observed at the downstream outlet."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-20",
+      "description": "Provide retest results to the engineer.",
+      "owner": "G. Singh (Keystone)",
+      "due": "2025-06-08",
+      "carried": true,
+      "risk_id": "R-04"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-20",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-21",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

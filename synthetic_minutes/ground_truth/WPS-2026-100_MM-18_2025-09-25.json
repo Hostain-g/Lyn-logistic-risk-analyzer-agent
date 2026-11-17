@@ -1,0 +1,92 @@
+{
+  "file": "WPS-2026-100_MM-18_2025-09-25.pdf",
+  "project_no": "WPS-2026-100",
+  "project_name": "Northgate Wastewater Pump Station Upgrade \u2014 Phase 1",
+  "meeting_no": 18,
+  "date": "2025-09-25",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 55.0,
+    "baseline_pct": 58,
+    "days_behind": 5,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Critical equipment unavailable",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 2,
+      "score": 8,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Second breakdown on the same unit; production at Wet well, Elevation 1 is reduced."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Holdback and certification disagreement",
+      "category": "Contractual",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "The dispute remains unresolved and the contractor has signalled slowed mobilization."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-16",
+      "description": "Confirm repair timeline for the equipment.",
+      "owner": "T. Chen (Ridgeline)",
+      "due": "2025-09-30",
+      "carried": true,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-18",
+      "description": "Update the project risk log.",
+      "owner": "T. Rossi (Northbridge)",
+      "due": "2025-10-02",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-19",
+      "description": "Mobilize replacement equipment.",
+      "owner": "T. Chen (Ridgeline)",
+      "due": "2025-10-02",
+      "carried": false,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-20",
+      "description": "Prepare a dispute resolution proposal.",
+      "owner": "D. Patel (City)",
+      "due": "2025-10-05",
+      "carried": true,
+      "risk_id": "R-04"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-16",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-17",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-18",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

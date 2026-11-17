@@ -1,0 +1,48 @@
+{
+  "file": "BRG-2024-102_MM-13_2025-04-24.pdf",
+  "project_no": "BRG-2024-102",
+  "project_name": "Northgate Bridge Rehabilitation \u2014 Phase 3",
+  "meeting_no": 13,
+  "date": "2025-04-24",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 40.0,
+    "baseline_pct": 42,
+    "days_behind": 3,
+    "cumulative_change_pct": 1.46
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Differing site conditions",
+      "category": "Technical",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Subgrade remediation complete and accepted. Risk closed."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-07",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-08",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "cumulative_pct",
+      "stated": 3.1,
+      "correct": 1.5
+    }
+  ]
+}

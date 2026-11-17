@@ -1,0 +1,42 @@
+{
+  "file": "RSW-2024-071_MM-03_2025-11-13.pdf",
+  "project_no": "RSW-2024-071",
+  "project_name": "Harbour Storm Sewer Upgrade \u2014 Phase 3",
+  "meeting_no": 3,
+  "date": "2025-11-13",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 9.0,
+    "baseline_pct": 10,
+    "days_behind": 2,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Material delivery delay",
+      "title_as_written": "Material delivery delay",
+      "category": "Supply Chain",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Summit Cement Co. advised of a possible 4-6 working day delay on the next shipment due to plant maintenance."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-02",
+      "description": "Confirm revised delivery schedule with Summit Cement Co..",
+      "owner": "D. Okonkwo (Tri-County)",
+      "due": "2025-11-20",
+      "carried": false,
+      "risk_id": "R-01"
+    }
+  ],
+  "previous_actions": [],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

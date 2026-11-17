@@ -1,0 +1,223 @@
+{
+  "project_no": "BRG-2024-014",
+  "project_name": "Harbour Bridge Rehabilitation \u2014 Phase 1",
+  "contract_value": 7600000,
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Payment certification dispute",
+      "category": "Contractual",
+      "first_meeting": 4,
+      "closed_meeting": 13,
+      "history": [
+        {
+          "meeting": 4,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 5,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 6,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 7,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 8,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 9,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 10,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 11,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 12,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 13,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "category": "Quality",
+      "first_meeting": 7,
+      "closed_meeting": 14,
+      "history": [
+        {
+          "meeting": 7,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 8,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 9,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 10,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 11,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 12,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 13,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 14,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Material price escalation",
+      "category": "Cost",
+      "first_meeting": 15,
+      "closed_meeting": 22,
+      "history": [
+        {
+          "meeting": 15,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 16,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 17,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 18,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 19,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 20,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 21,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 22,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Adverse weather delays",
+      "category": "Schedule",
+      "first_meeting": 21,
+      "closed_meeting": null,
+      "history": [
+        {
+          "meeting": 21,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 22,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 23,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 24,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 25,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 26,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 27,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 28,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 29,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 30,
+          "stage": "mitigating",
+          "score": 4
+        }
+      ]
+    }
+  ]
+}

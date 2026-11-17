@@ -1,0 +1,42 @@
+{
+  "file": "WPS-2025-139_MM-10_2025-04-03.pdf",
+  "project_no": "WPS-2025-139",
+  "project_name": "Mill Creek Wastewater Pump Station Upgrade \u2014 Phase 2",
+  "meeting_no": 10,
+  "date": "2025-04-03",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 31.0,
+    "baseline_pct": 32,
+    "days_behind": 2,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Design change",
+      "title_as_written": "Revised design requirements",
+      "category": "Cost",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "A design revision is anticipated at Wet well, Elevation 2 following the latest field review."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-04",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-05",
+      "status": "OPEN"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

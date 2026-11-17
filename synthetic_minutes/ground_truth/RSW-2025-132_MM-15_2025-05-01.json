@@ -1,0 +1,55 @@
+{
+  "file": "RSW-2025-132_MM-15_2025-05-01.pdf",
+  "project_no": "RSW-2025-132",
+  "project_name": "Northgate Storm Sewer Upgrade \u2014 Phase 1",
+  "meeting_no": 15,
+  "date": "2025-05-01",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 48.0,
+    "baseline_pct": 48,
+    "days_behind": 1,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "A nonconformance report was issued for out-of-tolerance work at Station 2+730."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-16",
+      "description": "Provide revised concrete mix design for the affected section.",
+      "owner": "G. Singh (Keystone)",
+      "due": "2025-05-04",
+      "carried": false,
+      "risk_id": "R-04"
+    },
+    {
+      "id": "AI-17",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "L. Patel (Meridian)",
+      "due": "2025-05-18",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-15",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

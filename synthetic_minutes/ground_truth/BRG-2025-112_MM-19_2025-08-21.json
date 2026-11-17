@@ -1,0 +1,93 @@
+{
+  "file": "BRG-2025-112_MM-19_2025-08-21.pdf",
+  "project_no": "BRG-2025-112",
+  "project_name": "Northgate Bridge Rehabilitation \u2014 Phase 3",
+  "meeting_no": 19,
+  "date": "2025-08-21",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 58.0,
+    "baseline_pct": 61,
+    "days_behind": 7,
+    "cumulative_change_pct": 1.14
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Resident Engineer",
+      "evidence": "Retest results meet the specification. Risk closed."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Delayed RFI responses",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "RFI backlog has reached 3 items, several on the critical path."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Subcontractor performance concern",
+      "title_as_written": "Subcontractor default risk",
+      "category": "Contractual",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 4,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "A lien notice was received relating to a subcontractor on the project."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-16",
+      "description": "Submit statutory declaration on subcontractor payments.",
+      "owner": "L. Murphy (City)",
+      "due": "2025-08-26",
+      "carried": true,
+      "risk_id": "R-04"
+    },
+    {
+      "id": "AI-19",
+      "description": "Schedule a design coordination meeting.",
+      "owner": "L. Murphy (City)",
+      "due": "2025-08-28",
+      "carried": true,
+      "risk_id": "R-03"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-16",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-18",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-19",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-20",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

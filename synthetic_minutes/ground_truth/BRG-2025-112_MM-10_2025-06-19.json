@@ -1,0 +1,24 @@
+{
+  "file": "BRG-2025-112_MM-10_2025-06-19.pdf",
+  "project_no": "BRG-2025-112",
+  "project_name": "Northgate Bridge Rehabilitation \u2014 Phase 3",
+  "meeting_no": 10,
+  "date": "2025-06-19",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 32.0,
+    "baseline_pct": 32,
+    "days_behind": 0,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-05",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

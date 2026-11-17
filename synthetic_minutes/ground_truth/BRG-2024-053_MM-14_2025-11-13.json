@@ -1,0 +1,63 @@
+{
+  "file": "BRG-2024-053_MM-14_2025-11-13.pdf",
+  "project_no": "BRG-2024-053",
+  "project_name": "Lakeview Bridge Rehabilitation \u2014 Phase 2",
+  "meeting_no": 14,
+  "date": "2025-11-13",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 44.0,
+    "baseline_pct": 45,
+    "days_behind": 2,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Quality nonconformance",
+      "category": "Quality",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "A nonconformance report was issued for out-of-tolerance work at Pier 2, Span 2."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-09",
+      "description": "Provide revised concrete mix design for the affected section.",
+      "owner": "G. Haddad (Ironbridge)",
+      "due": "2025-12-11",
+      "carried": true,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-11",
+      "description": "Submit outstanding shop drawings for review.",
+      "owner": "A. Lefebvre (Meridian)",
+      "due": "2025-11-23",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-08",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-09",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-10",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

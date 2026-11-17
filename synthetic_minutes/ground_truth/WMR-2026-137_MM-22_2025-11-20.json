@@ -1,0 +1,63 @@
+{
+  "file": "WMR-2026-137_MM-22_2025-11-20.pdf",
+  "project_no": "WMR-2026-137",
+  "project_name": "Northgate Water Main Replacement \u2014 Phase 3",
+  "meeting_no": 22,
+  "date": "2025-11-20",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 70.0,
+    "baseline_pct": 71,
+    "days_behind": 3,
+    "cumulative_change_pct": 1.69
+  },
+  "risks": [
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Utility conflict",
+      "title_as_written": "Utility conflict",
+      "category": "Technical",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Utility owner has not yet confirmed relocation; work at Station 1+490 is on hold pending direction."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-23",
+      "description": "Issue RFI response for the utility conflict at Station 1+490.",
+      "owner": "K. Singh (Halden)",
+      "due": "2025-11-25",
+      "carried": true,
+      "risk_id": "R-05"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-23",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-24",
+      "status": "OPEN"
+    },
+    {
+      "id": "AI-25",
+      "status": "OPEN"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-02",
+      "amount": 36200,
+      "days": 2,
+      "status": "Under Review",
+      "risk_id": "R-05"
+    }
+  ],
+  "injected_inconsistencies": []
+}

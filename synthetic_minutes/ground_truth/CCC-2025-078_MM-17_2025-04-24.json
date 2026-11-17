@@ -1,0 +1,84 @@
+{
+  "file": "CCC-2025-078_MM-17_2025-04-24.pdf",
+  "project_no": "CCC-2025-078",
+  "project_name": "Lakeview Community Centre Construction \u2014 Phase 2",
+  "meeting_no": 17,
+  "date": "2025-04-24",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 53.0,
+    "baseline_pct": 55,
+    "days_behind": 4,
+    "cumulative_change_pct": 0.33
+  },
+  "risks": [
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Differing site conditions",
+      "category": "Technical",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Groundwater levels at Level 1, Grid D2 are higher than shown in the geotechnical report."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Crew availability shortfall",
+      "category": "Resource",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor PM",
+      "evidence": "Contractor reported difficulty staffing the concrete finishing crew."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-17",
+      "description": "Provide test pit records for Level 1, Grid D2.",
+      "owner": "M. Sato (Meridian)",
+      "due": "2025-05-08",
+      "carried": true,
+      "risk_id": "R-04"
+    },
+    {
+      "id": "AI-19",
+      "description": "Provide updated manpower histogram.",
+      "owner": "M. Nguyen (Blue)",
+      "due": "2025-05-25",
+      "carried": true,
+      "risk_id": "R-05"
+    },
+    {
+      "id": "AI-20",
+      "description": "Confirm replacement crew mobilization dates.",
+      "owner": "M. Nguyen (Blue)",
+      "due": "2025-04-29",
+      "carried": false,
+      "risk_id": "R-05"
+    },
+    {
+      "id": "AI-21",
+      "description": "Provide revised traffic management plan.",
+      "owner": "M. Sato (Meridian)",
+      "due": "2025-05-01",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-17",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

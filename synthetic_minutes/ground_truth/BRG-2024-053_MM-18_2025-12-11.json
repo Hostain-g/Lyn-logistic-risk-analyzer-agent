@@ -1,0 +1,72 @@
+{
+  "file": "BRG-2024-053_MM-18_2025-12-11.pdf",
+  "project_no": "BRG-2024-053",
+  "project_name": "Lakeview Bridge Rehabilitation \u2014 Phase 2",
+  "meeting_no": 18,
+  "date": "2025-12-11",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 55.0,
+    "baseline_pct": 58,
+    "days_behind": 5,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Retest results are improving; final acceptance pending."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "Staining and odour were noted in excavated soil near Pier 2, Span 2; samples sent for analysis."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-15",
+      "description": "Provide retest results to the engineer.",
+      "owner": "G. Haddad (Ironbridge)",
+      "due": "2025-12-14",
+      "carried": false,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-16",
+      "description": "Inspect and repair sediment controls.",
+      "owner": "T. Murphy (City)",
+      "due": "2025-12-23",
+      "carried": true,
+      "risk_id": "R-02"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-09",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-12",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

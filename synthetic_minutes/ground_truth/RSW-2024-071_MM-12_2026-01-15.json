@@ -1,0 +1,63 @@
+{
+  "file": "RSW-2024-071_MM-12_2026-01-15.pdf",
+  "project_no": "RSW-2024-071",
+  "project_name": "Harbour Storm Sewer Upgrade \u2014 Phase 3",
+  "meeting_no": 12,
+  "date": "2026-01-15",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 37.0,
+    "baseline_pct": 39,
+    "days_behind": 3,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Quality nonconformance",
+      "category": "Quality",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Two 28-day cylinder results were below the specified strength; investigation started."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Payment certification dispute",
+      "category": "Contractual",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Differences exist between claimed and verified quantities on the pay application."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-08",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-09",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-10",
+      "status": "OPEN"
+    },
+    {
+      "id": "AI-11",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

@@ -1,0 +1,39 @@
+{
+  "file": "WMR-2024-095_MM-30_2026-08-27.pdf",
+  "project_no": "WMR-2024-095",
+  "project_name": "Mill Creek Water Main Replacement \u2014 Phase 1",
+  "meeting_no": 30,
+  "date": "2026-08-27",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 97.0,
+    "baseline_pct": 97,
+    "days_behind": 0,
+    "cumulative_change_pct": 0.28
+  },
+  "risks": [
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Material price escalation",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Contractor formally requested a change order for the 8% escalation; exposure estimated at $90,700."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "cumulative_pct",
+      "stated": 1.2,
+      "correct": 0.3
+    }
+  ]
+}

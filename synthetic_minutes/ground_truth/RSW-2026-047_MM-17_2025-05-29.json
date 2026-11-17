@@ -1,0 +1,51 @@
+{
+  "file": "RSW-2026-047_MM-17_2025-05-29.pdf",
+  "project_no": "RSW-2026-047",
+  "project_name": "Central Storm Sewer Upgrade \u2014 Phase 2",
+  "meeting_no": 17,
+  "date": "2025-05-29",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 54.0,
+    "baseline_pct": 55,
+    "days_behind": 3,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Equipment breakdown",
+      "category": "Resource",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 1,
+      "score": 2,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Rental equipment delivered and production has resumed."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-17",
+      "description": "Submit outstanding shop drawings for review.",
+      "owner": "E. Tran (Blue)",
+      "due": "2025-06-12",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-15",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-16",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

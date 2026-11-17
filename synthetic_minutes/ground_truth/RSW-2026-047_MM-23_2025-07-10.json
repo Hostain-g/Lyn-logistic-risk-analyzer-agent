@@ -1,0 +1,70 @@
+{
+  "file": "RSW-2026-047_MM-23_2025-07-10.pdf",
+  "project_no": "RSW-2026-047",
+  "project_name": "Central Storm Sewer Upgrade \u2014 Phase 2",
+  "meeting_no": 23,
+  "date": "2025-07-10",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 71.0,
+    "baseline_pct": 74,
+    "days_behind": 7,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Design clarification backlog",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "Delayed RFI responses are now holding up work at Station 2+460."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Payment certification dispute",
+      "category": "Contractual",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor PM",
+      "evidence": "Contractor issued a notice regarding delayed payment."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-22",
+      "description": "Prepare a dispute resolution proposal.",
+      "owner": "P. Singh (Blue)",
+      "due": "2025-07-22",
+      "carried": true,
+      "risk_id": "R-05"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-20",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-21",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "days_behind",
+      "stated": 9,
+      "correct": 7
+    }
+  ]
+}

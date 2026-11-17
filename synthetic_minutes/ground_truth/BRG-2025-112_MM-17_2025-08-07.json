@@ -1,0 +1,110 @@
+{
+  "file": "BRG-2025-112_MM-17_2025-08-07.pdf",
+  "project_no": "BRG-2025-112",
+  "project_name": "Northgate Bridge Rehabilitation \u2014 Phase 3",
+  "meeting_no": 17,
+  "date": "2025-08-07",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 51.0,
+    "baseline_pct": 55,
+    "days_behind": 7,
+    "cumulative_change_pct": 1.14
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Material price escalation",
+      "category": "Cost",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Owner is reviewing the supplier letter and original bid unit rates; negotiated reduction under discussion."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Retest results are improving; final acceptance pending."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Design clarification backlog",
+      "category": "Schedule",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "A backlog of design clarifications is building up."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Subcontractor performance concern",
+      "title_as_written": "Subcontractor performance concern",
+      "category": "Contractual",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 4,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "A lien notice was received relating to a subcontractor on the project."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-15",
+      "description": "Provide retest results to the engineer.",
+      "owner": "M. Singh (Halden)",
+      "due": "2025-08-10",
+      "carried": false,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-16",
+      "description": "Submit statutory declaration on subcontractor payments.",
+      "owner": "L. Murphy (City)",
+      "due": "2025-08-26",
+      "carried": true,
+      "risk_id": "R-04"
+    },
+    {
+      "id": "AI-17",
+      "description": "Provide confirmation of subcontractor payment status.",
+      "owner": "L. Murphy (City)",
+      "due": "2025-08-12",
+      "carried": false,
+      "risk_id": "R-04"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-08",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-11",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-13",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

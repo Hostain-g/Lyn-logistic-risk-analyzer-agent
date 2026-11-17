@@ -1,0 +1,38 @@
+{
+  "file": "BRG-2024-014_MM-06_2025-07-10.pdf",
+  "project_no": "BRG-2024-014",
+  "project_name": "Harbour Bridge Rehabilitation \u2014 Phase 1",
+  "meeting_no": 6,
+  "date": "2025-07-10",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 18.0,
+    "baseline_pct": 19,
+    "days_behind": 3,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Disputed progress claim",
+      "category": "Contractual",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor PM",
+      "evidence": "Contractor issued a notice regarding delayed payment."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-04",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

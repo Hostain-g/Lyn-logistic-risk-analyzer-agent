@@ -1,0 +1,106 @@
+{
+  "file": "WPS-2025-139_MM-24_2025-07-10.pdf",
+  "project_no": "WPS-2025-139",
+  "project_name": "Mill Creek Wastewater Pump Station Upgrade \u2014 Phase 2",
+  "meeting_no": 24,
+  "date": "2025-07-10",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 74.0,
+    "baseline_pct": 77,
+    "days_behind": 7,
+    "cumulative_change_pct": 2.19
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Design change",
+      "title_as_written": "Scope change from geotechnical recommendation",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "Design change at Wet well, Elevation 2 is confirmed; contractor to price the added scope (about $64,300)."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Permit approval delay",
+      "title_as_written": "Regulatory approval pending",
+      "category": "Regulatory",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Owner PM",
+      "evidence": "Authority requested additional information, extending the review by an estimated 3 working days."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Equipment breakdown",
+      "category": "Resource",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 1,
+      "score": 3,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "The primary excavator has been out of service for two days."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Payment certification dispute",
+      "category": "Contractual",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "The contractor disputes the certified amount on the last progress claim."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-24",
+      "description": "Confirm repair timeline for the equipment.",
+      "owner": "H. Ibrahim (Blue)",
+      "due": "2025-07-15",
+      "carried": false,
+      "risk_id": "R-05"
+    },
+    {
+      "id": "AI-25",
+      "description": "Joint site verification of disputed quantities.",
+      "owner": "R. Khan (City)",
+      "due": "2025-07-20",
+      "carried": false,
+      "risk_id": "R-06"
+    },
+    {
+      "id": "AI-26",
+      "description": "Provide quantity backup for the disputed claim.",
+      "owner": "R. Khan (City)",
+      "due": "2025-07-20",
+      "carried": false,
+      "risk_id": "R-06"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-22",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-23",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}
