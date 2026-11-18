@@ -1,0 +1,188 @@
+{
+  "project_no": "CCC-2026-142",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 3",
+  "contract_value": 4300000,
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Subcontractor performance concern",
+      "category": "Contractual",
+      "first_meeting": 10,
+      "closed_meeting": 19,
+      "history": [
+        {
+          "meeting": 10,
+          "stage": "raised",
+          "score": 12
+        },
+        {
+          "meeting": 11,
+          "stage": "raised",
+          "score": 12
+        },
+        {
+          "meeting": 12,
+          "stage": "raised",
+          "score": 12
+        },
+        {
+          "meeting": 13,
+          "stage": "escalated",
+          "score": 20
+        },
+        {
+          "meeting": 14,
+          "stage": "escalated",
+          "score": 20
+        },
+        {
+          "meeting": 15,
+          "stage": "mitigating",
+          "score": 8
+        },
+        {
+          "meeting": 16,
+          "stage": "mitigating",
+          "score": 8
+        },
+        {
+          "meeting": 17,
+          "stage": "mitigating",
+          "score": 8
+        },
+        {
+          "meeting": 18,
+          "stage": "mitigating",
+          "score": 8
+        },
+        {
+          "meeting": 19,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "category": "Quality",
+      "first_meeting": 11,
+      "closed_meeting": 18,
+      "history": [
+        {
+          "meeting": 11,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 12,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 13,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 14,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 15,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 16,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 17,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 18,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Property access restriction",
+      "category": "Stakeholder",
+      "first_meeting": 11,
+      "closed_meeting": 16,
+      "history": [
+        {
+          "meeting": 11,
+          "stage": "raised",
+          "score": 3
+        },
+        {
+          "meeting": 12,
+          "stage": "raised",
+          "score": 3
+        },
+        {
+          "meeting": 13,
+          "stage": "raised",
+          "score": 3
+        },
+        {
+          "meeting": 14,
+          "stage": "escalated",
+          "score": 8
+        },
+        {
+          "meeting": 15,
+          "stage": "mitigating",
+          "score": 2
+        },
+        {
+          "meeting": 16,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Skilled labour shortage",
+      "category": "Resource",
+      "first_meeting": 19,
+      "closed_meeting": 23,
+      "history": [
+        {
+          "meeting": 19,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 20,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 21,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 22,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 23,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    }
+  ]
+}

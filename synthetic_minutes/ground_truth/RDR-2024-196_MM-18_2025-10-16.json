@@ -1,0 +1,126 @@
+{
+  "file": "RDR-2024-196_MM-18_2025-10-16.pdf",
+  "project_no": "RDR-2024-196",
+  "project_name": "Northgate Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 18,
+  "date": "2025-10-16",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 62.0,
+    "baseline_pct": 69,
+    "days_behind": 16,
+    "cumulative_change_pct": 0.83
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Unforeseen subsurface conditions",
+      "category": "Technical",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Unsuitable material extends beyond the initial extent; additional removal and replacement required."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Material delivery delay",
+      "title_as_written": "Material delivery delay",
+      "category": "Supply Chain",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Valley Ready-Mix advised of a possible 6-8 working day delay on the next shipment due to plant maintenance."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Two 28-day cylinder results were below the specified strength; investigation started."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Permit approval delay",
+      "title_as_written": "Authority review delay",
+      "category": "Regulatory",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "The environmental authority has not yet issued the amended permit required for the next phase."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-12",
+      "description": "Provide revised concrete mix design for the affected section.",
+      "owner": "E. Okonkwo (Clearwater)",
+      "due": "2025-10-21",
+      "carried": true,
+      "risk_id": "R-05"
+    },
+    {
+      "id": "AI-13",
+      "description": "Follow up with the authority on permit status.",
+      "owner": "E. Okonkwo (Clearwater)",
+      "due": "2025-10-19",
+      "carried": false,
+      "risk_id": "R-06"
+    },
+    {
+      "id": "AI-14",
+      "description": "Submit outstanding permit documents.",
+      "owner": "E. Okonkwo (Clearwater)",
+      "due": "2025-10-19",
+      "carried": false,
+      "risk_id": "R-06"
+    },
+    {
+      "id": "AI-15",
+      "description": "Provide revised traffic management plan.",
+      "owner": "E. Morales (Keystone)",
+      "due": "2025-10-23",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-10",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-11",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-12",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "CO-01",
+      "amount": 104000,
+      "days": 9,
+      "status": "Under Review",
+      "risk_id": "R-03"
+    }
+  ],
+  "injected_inconsistencies": []
+}

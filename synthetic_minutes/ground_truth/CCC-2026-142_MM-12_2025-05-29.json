@@ -1,0 +1,85 @@
+{
+  "file": "CCC-2026-142_MM-12_2025-05-29.pdf",
+  "project_no": "CCC-2026-142",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 3",
+  "meeting_no": 12,
+  "date": "2025-05-29",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 44.0,
+    "baseline_pct": 46,
+    "days_behind": 5,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Subcontractor performance concern",
+      "title_as_written": "Subcontractor performance concern",
+      "category": "Contractual",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 4,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "A lien notice was received relating to a subcontractor on the project."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Two 28-day cylinder results were below the specified strength; investigation started."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Property access restriction",
+      "title_as_written": "Property access restriction",
+      "category": "Stakeholder",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 1,
+      "score": 3,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "An adjacent property owner has restricted access for staging near Level 2, Grid D7."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-06",
+      "description": "Submit root cause analysis for the nonconformance.",
+      "owner": "M. Nguyen (Tri-County)",
+      "due": "2025-06-05",
+      "carried": true,
+      "risk_id": "R-02"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-05",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-06",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-07",
+      "status": "OPEN"
+    },
+    {
+      "id": "AI-08",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

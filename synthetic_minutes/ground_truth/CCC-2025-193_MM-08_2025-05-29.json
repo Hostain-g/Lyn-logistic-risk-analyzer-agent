@@ -1,0 +1,84 @@
+{
+  "file": "CCC-2025-193_MM-08_2025-05-29.pdf",
+  "project_no": "CCC-2025-193",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 2",
+  "meeting_no": 8,
+  "date": "2025-05-29",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 28.0,
+    "baseline_pct": 31,
+    "days_behind": 4,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Trade labour constraints",
+      "category": "Resource",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Contractor PM",
+      "evidence": "Additional crew mobilized from another contractor site; output is improving."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Design change",
+      "title_as_written": "Design change",
+      "category": "Cost",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Pricing reviewed with the owner; a reduced scope option is being considered."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-08",
+      "description": "Report weekly crew counts against plan.",
+      "owner": "K. Tran (Ironbridge)",
+      "due": "2025-06-08",
+      "carried": true,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-09",
+      "description": "Submit outstanding shop drawings for review.",
+      "owner": "V. Nguyen (Northbridge)",
+      "due": "2025-06-05",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-10",
+      "description": "Finalize change order documentation.",
+      "owner": "T. Dubois (City)",
+      "due": "2025-06-10",
+      "carried": true,
+      "risk_id": "R-02"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-04",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-08",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-09",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

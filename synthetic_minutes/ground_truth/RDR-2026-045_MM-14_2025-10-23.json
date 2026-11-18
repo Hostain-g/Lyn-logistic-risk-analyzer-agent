@@ -1,0 +1,92 @@
+{
+  "file": "RDR-2026-045_MM-14_2025-10-23.pdf",
+  "project_no": "RDR-2026-045",
+  "project_name": "Northgate Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 14,
+  "date": "2025-10-23",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 51.0,
+    "baseline_pct": 54,
+    "days_behind": 6,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Material delivery delay",
+      "title_as_written": "Material delivery delay",
+      "category": "Supply Chain",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Alternate supplier qualified and first load delivered; stockpile is being rebuilt."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Delayed RFI responses",
+      "category": "Schedule",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "A backlog of design clarifications is building up."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Plant failure",
+      "category": "Resource",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 1,
+      "score": 3,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "A concrete pump failure interrupted a pour this week."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-13",
+      "description": "Update the project risk log.",
+      "owner": "S. Sato (Tri-County)",
+      "due": "2025-10-26",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-10",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-11",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-12",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-13",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "material_qty",
+      "material": "Hot Mix Asphalt",
+      "stated": 5656,
+      "correct": 4789
+    }
+  ]
+}

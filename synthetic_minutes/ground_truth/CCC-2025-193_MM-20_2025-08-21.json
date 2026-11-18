@@ -1,0 +1,60 @@
+{
+  "file": "CCC-2025-193_MM-20_2025-08-21.pdf",
+  "project_no": "CCC-2025-193",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 2",
+  "meeting_no": 20,
+  "date": "2025-08-21",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 73.0,
+    "baseline_pct": 77,
+    "days_behind": 9,
+    "cumulative_change_pct": 2.27
+  },
+  "risks": [
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Subcontractor performance concern",
+      "title_as_written": "Subcontractor performance concern",
+      "category": "Contractual",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 5,
+      "score": 20,
+      "rag": "Red",
+      "owner_role": "Contractor PM",
+      "evidence": "Subcontractor has demobilized; the contractor is assessing replacement options."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Property access restriction",
+      "title_as_written": "Property access restriction",
+      "category": "Stakeholder",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Owner PM",
+      "evidence": "Access restored and complaints have stopped. Risk closed."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [],
+  "change_orders": [
+    {
+      "id": "PCO-02",
+      "amount": 47800,
+      "days": 7,
+      "status": "Under Review",
+      "risk_id": "R-04"
+    }
+  ],
+  "injected_inconsistencies": [
+    {
+      "kind": "cumulative_pct",
+      "stated": 4.4,
+      "correct": 2.3
+    }
+  ]
+}

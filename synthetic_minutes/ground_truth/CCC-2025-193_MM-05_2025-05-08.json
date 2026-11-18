@@ -1,0 +1,88 @@
+{
+  "file": "CCC-2025-193_MM-05_2025-05-08.pdf",
+  "project_no": "CCC-2025-193",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 2",
+  "meeting_no": 5,
+  "date": "2025-05-08",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 18.0,
+    "baseline_pct": 19,
+    "days_behind": 2,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Crew availability shortfall",
+      "category": "Resource",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor PM",
+      "evidence": "Contractor reported difficulty staffing the concrete finishing crew."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Design change",
+      "title_as_written": "Design change",
+      "category": "Cost",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "The consultant issued a preliminary revision affecting quantities near Level 1, Grid C4."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-03",
+      "description": "Provide updated manpower histogram.",
+      "owner": "K. Tran (Ironbridge)",
+      "due": "2025-05-13",
+      "carried": true,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-04",
+      "description": "Confirm replacement crew mobilization dates.",
+      "owner": "K. Tran (Ironbridge)",
+      "due": "2025-05-27",
+      "carried": true,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-05",
+      "description": "Issue revised drawings for Level 1, Grid C4.",
+      "owner": "T. Dubois (City)",
+      "due": "2025-05-15",
+      "carried": false,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-06",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "K. Tran (Ironbridge)",
+      "due": "2025-05-13",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-03",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-04",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

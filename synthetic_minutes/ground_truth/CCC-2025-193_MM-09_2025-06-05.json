@@ -1,0 +1,76 @@
+{
+  "file": "CCC-2025-193_MM-09_2025-06-05.pdf",
+  "project_no": "CCC-2025-193",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 2",
+  "meeting_no": 9,
+  "date": "2025-06-05",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 33.0,
+    "baseline_pct": 35,
+    "days_behind": 3,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Contractor PM",
+      "evidence": "Crew levels restored to plan. Risk closed."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Design change",
+      "title_as_written": "Scope change from geotechnical recommendation",
+      "category": "Cost",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Pricing reviewed with the owner; a reduced scope option is being considered."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-08",
+      "description": "Report weekly crew counts against plan.",
+      "owner": "K. Tran (Ironbridge)",
+      "due": "2025-06-08",
+      "carried": true,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-10",
+      "description": "Finalize change order documentation.",
+      "owner": "T. Dubois (City)",
+      "due": "2025-06-10",
+      "carried": true,
+      "risk_id": "R-02"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-08",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-09",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-10",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

@@ -1,0 +1,76 @@
+{
+  "file": "CCC-2024-102_MM-09_2025-12-18.pdf",
+  "project_no": "CCC-2024-102",
+  "project_name": "Northgate Community Centre Construction \u2014 Phase 3",
+  "meeting_no": 9,
+  "date": "2025-12-18",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 33.0,
+    "baseline_pct": 35,
+    "days_behind": 4,
+    "cumulative_change_pct": 2.97
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Rain and saturated ground conditions",
+      "category": "Schedule",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Contractor has resequenced work to interior and protected areas."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Design change",
+      "title_as_written": "Design change",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "Revised drawings were issued; additional work is estimated at $62,200 and 1 working days."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Equipment breakdown",
+      "category": "Resource",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 1,
+      "score": 3,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "The primary excavator has been out of service for two days."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-13",
+      "description": "Confirm repair timeline for the equipment.",
+      "owner": "M. Nguyen (Tri-County)",
+      "due": "2025-12-21",
+      "carried": false,
+      "risk_id": "R-04"
+    }
+  ],
+  "previous_actions": [],
+  "change_orders": [
+    {
+      "id": "CO-02",
+      "amount": 62200,
+      "days": 2,
+      "status": "Approved",
+      "risk_id": "R-03"
+    }
+  ],
+  "injected_inconsistencies": []
+}

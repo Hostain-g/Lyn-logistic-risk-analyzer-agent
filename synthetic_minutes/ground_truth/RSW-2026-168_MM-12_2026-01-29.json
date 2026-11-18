@@ -1,0 +1,68 @@
+{
+  "file": "RSW-2026-168_MM-12_2026-01-29.pdf",
+  "project_no": "RSW-2026-168",
+  "project_name": "Riverside Storm Sewer Upgrade \u2014 Phase 3",
+  "meeting_no": 12,
+  "date": "2026-01-29",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 43.0,
+    "baseline_pct": 46,
+    "days_behind": 7,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Remedial plan accepted by the engineer; rework is under way."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Additional controls installed; follow-up sampling is within limits."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-12",
+      "description": "Provide retest results to the engineer.",
+      "owner": "N. Singh (Halden)",
+      "due": "2026-02-12",
+      "carried": true,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-13",
+      "description": "Submit disposal manifests.",
+      "owner": "T. Nguyen (City)",
+      "due": "2026-02-15",
+      "carried": true,
+      "risk_id": "R-04"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-06",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

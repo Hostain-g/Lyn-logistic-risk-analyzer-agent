@@ -1,0 +1,60 @@
+{
+  "file": "CCC-2024-011_MM-22_2025-07-10.pdf",
+  "project_no": "CCC-2024-011",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 2",
+  "meeting_no": 22,
+  "date": "2025-07-10",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 82.0,
+    "baseline_pct": 85,
+    "days_behind": 4,
+    "cumulative_change_pct": 1.68
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Adverse weather delays",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Saturated ground conditions have now cost 1 working days and are limiting access at Level 3, Grid E3."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Utility conflict",
+      "title_as_written": "Utility conflict",
+      "category": "Technical",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Resident Engineer",
+      "evidence": "Utility relocation complete and work at Level 3, Grid E1 resumed. Risk closed."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-24",
+      "description": "Update the project risk log.",
+      "owner": "A. Campbell (Keystone)",
+      "due": "2025-07-20",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-23",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

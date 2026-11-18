@@ -1,0 +1,24 @@
+{
+  "file": "CCC-2024-011_MM-05_2025-03-13.pdf",
+  "project_no": "CCC-2024-011",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 2",
+  "meeting_no": 5,
+  "date": "2025-03-13",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 19.0,
+    "baseline_pct": 19,
+    "days_behind": 0,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-03",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

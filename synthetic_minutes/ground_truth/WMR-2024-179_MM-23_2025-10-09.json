@@ -1,0 +1,33 @@
+{
+  "file": "WMR-2024-179_MM-23_2025-10-09.pdf",
+  "project_no": "WMR-2024-179",
+  "project_name": "Riverside Water Main Replacement \u2014 Phase 3",
+  "meeting_no": 23,
+  "date": "2025-10-09",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 87.0,
+    "baseline_pct": 88,
+    "days_behind": 3,
+    "cumulative_change_pct": 1.27
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Design change",
+      "title_as_written": "Design change",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Design change at Station 1+380 is confirmed; contractor to price the added scope (about $55,200)."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

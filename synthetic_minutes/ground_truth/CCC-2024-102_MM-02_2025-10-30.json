@@ -1,0 +1,64 @@
+{
+  "file": "CCC-2024-102_MM-02_2025-10-30.pdf",
+  "project_no": "CCC-2024-102",
+  "project_name": "Northgate Community Centre Construction \u2014 Phase 3",
+  "meeting_no": 2,
+  "date": "2025-10-30",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 6.0,
+    "baseline_pct": 8,
+    "days_behind": 3,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Weather-related lost days",
+      "category": "Schedule",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Forecast shows extended wet weather; some earthworks may be affected."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Subcontractor performance concern",
+      "title_as_written": "Subcontractor performance concern",
+      "category": "Contractual",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 4,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "A lien notice was received relating to a subcontractor on the project."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-01",
+      "description": "Submit updated schedule reflecting weather delays.",
+      "owner": "M. Nguyen (Tri-County)",
+      "due": "2025-11-04",
+      "carried": true,
+      "risk_id": "R-01"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-01",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-02",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

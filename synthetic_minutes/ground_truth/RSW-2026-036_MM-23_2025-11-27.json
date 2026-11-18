@@ -1,0 +1,87 @@
+{
+  "file": "RSW-2026-036_MM-23_2025-11-27.pdf",
+  "project_no": "RSW-2026-036",
+  "project_name": "Northgate Storm Sewer Upgrade \u2014 Phase 1",
+  "meeting_no": 23,
+  "date": "2025-11-27",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 82.0,
+    "baseline_pct": 88,
+    "days_behind": 13,
+    "cumulative_change_pct": 0.58
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Labour shortfall persists; subcontractor has not committed additional workers."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Unsuitable subgrade material",
+      "category": "Technical",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Unsuitable material extends beyond the initial extent; additional removal and replacement required."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Material price escalation",
+      "category": "Cost",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Price hold agreed with supplier for part of the remaining quantity; residual exposure reduced."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-25",
+      "description": "Confirm final negotiated unit price in writing.",
+      "owner": "A. Lefebvre (Ironbridge)",
+      "due": "2025-11-30",
+      "carried": true,
+      "risk_id": "R-05"
+    },
+    {
+      "id": "AI-26",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "L. Chen (Clearwater)",
+      "due": "2025-12-14",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-25",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "cumulative_pct",
+      "stated": 1.7,
+      "correct": 0.6
+    }
+  ]
+}

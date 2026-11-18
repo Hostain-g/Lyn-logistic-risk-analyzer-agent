@@ -1,0 +1,55 @@
+{
+  "file": "CCC-2026-142_MM-10_2025-05-15.pdf",
+  "project_no": "CCC-2026-142",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 3",
+  "meeting_no": 10,
+  "date": "2025-05-15",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 36.0,
+    "baseline_pct": 38,
+    "days_behind": 4,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Subcontractor performance concern",
+      "title_as_written": "Subcontractor performance concern",
+      "category": "Contractual",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 4,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "Owner raised concerns about the subcontractor's slow mobilization and unpaid supplier notices."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-04",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "M. Nguyen (Tri-County)",
+      "due": "2025-05-18",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-05",
+      "description": "Provide confirmation of subcontractor payment status.",
+      "owner": "J. Morales (City)",
+      "due": "2025-05-25",
+      "carried": false,
+      "risk_id": "R-01"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-04",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

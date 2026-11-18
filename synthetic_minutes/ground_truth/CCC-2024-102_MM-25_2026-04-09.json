@@ -1,0 +1,51 @@
+{
+  "file": "CCC-2024-102_MM-25_2026-04-09.pdf",
+  "project_no": "CCC-2024-102",
+  "project_name": "Northgate Community Centre Construction \u2014 Phase 3",
+  "meeting_no": 25,
+  "date": "2026-04-09",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 92.0,
+    "baseline_pct": 96,
+    "days_behind": 8,
+    "cumulative_change_pct": 3.72
+  },
+  "risks": [
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Resident Engineer",
+      "evidence": "Lab results confirm contamination above the disposal threshold; special handling is required (estimated $31,900)."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Retest results are improving; final acceptance pending."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-26",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

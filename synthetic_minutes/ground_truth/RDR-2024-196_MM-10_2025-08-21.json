@@ -1,0 +1,75 @@
+{
+  "file": "RDR-2024-196_MM-10_2025-08-21.pdf",
+  "project_no": "RDR-2024-196",
+  "project_name": "Northgate Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 10,
+  "date": "2025-08-21",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 37.0,
+    "baseline_pct": 38,
+    "days_behind": 2,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Delayed RFI responses",
+      "category": "Schedule",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Owner PM",
+      "evidence": "RFI backlog cleared. Risk closed."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Environmental compliance issue",
+      "category": "Environmental",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Staining and odour were noted in excavated soil near Station 4+950; samples sent for analysis."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-05",
+      "description": "Provide laboratory results for soil samples from Station 4+950.",
+      "owner": "E. Okonkwo (Clearwater)",
+      "due": "2025-08-24",
+      "carried": false,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-06",
+      "description": "Provide revised traffic management plan.",
+      "owner": "E. Okonkwo (Clearwater)",
+      "due": "2025-08-28",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-04",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "material_qty",
+      "material": "Hot Mix Asphalt",
+      "stated": 7243,
+      "correct": 6134
+    }
+  ]
+}

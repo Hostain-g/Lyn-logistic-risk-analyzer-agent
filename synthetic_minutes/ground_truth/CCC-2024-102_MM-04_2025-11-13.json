@@ -1,0 +1,113 @@
+{
+  "file": "CCC-2024-102_MM-04_2025-11-13.pdf",
+  "project_no": "CCC-2024-102",
+  "project_name": "Northgate Community Centre Construction \u2014 Phase 3",
+  "meeting_no": 4,
+  "date": "2025-11-13",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 11.0,
+    "baseline_pct": 15,
+    "days_behind": 8,
+    "cumulative_change_pct": 1.51
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Adverse weather delays",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Saturated ground conditions have now cost 1 working days and are limiting access at Level 3, Grid B5."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Subcontractor performance concern",
+      "title_as_written": "Subcontractor default risk",
+      "category": "Contractual",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 4,
+      "score": 8,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "Replacement subcontractor identified and mobilizing."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Design change",
+      "title_as_written": "Design change",
+      "category": "Cost",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "A design revision is anticipated at Level 1, Grid C7 following the latest field review."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-03",
+      "description": "Owner to review default provisions in the contract.",
+      "owner": "A. Kowalski (City)",
+      "due": "2025-11-25",
+      "carried": true,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-06",
+      "description": "Propose a recovery plan including weekend work options.",
+      "owner": "M. Nguyen (Tri-County)",
+      "due": "2025-11-16",
+      "carried": false,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-07",
+      "description": "Confirm replacement subcontractor insurance and bonding.",
+      "owner": "A. Kowalski (City)",
+      "due": "2025-11-18",
+      "carried": false,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-08",
+      "description": "Submit outstanding shop drawings for review.",
+      "owner": "P. Walker (Northbridge)",
+      "due": "2025-11-18",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-03",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-04",
+      "status": "OPEN"
+    },
+    {
+      "id": "AI-05",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-01",
+      "amount": 64200,
+      "days": 8,
+      "status": "Under Review",
+      "risk_id": "R-02"
+    }
+  ],
+  "injected_inconsistencies": []
+}

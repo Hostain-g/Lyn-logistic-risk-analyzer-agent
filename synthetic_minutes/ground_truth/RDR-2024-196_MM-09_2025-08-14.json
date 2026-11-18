@@ -1,0 +1,47 @@
+{
+  "file": "RDR-2024-196_MM-09_2025-08-14.pdf",
+  "project_no": "RDR-2024-196",
+  "project_name": "Northgate Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 9,
+  "date": "2025-08-14",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 33.0,
+    "baseline_pct": 35,
+    "days_behind": 2,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Design clarification backlog",
+      "category": "Schedule",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Weekly RFI review call established with the design team."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-04",
+      "description": "Report open RFI count weekly.",
+      "owner": "M. Fraser (City)",
+      "due": "2025-08-17",
+      "carried": true,
+      "risk_id": "R-01"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-04",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

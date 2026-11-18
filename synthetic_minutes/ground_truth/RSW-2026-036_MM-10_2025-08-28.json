@@ -1,0 +1,70 @@
+{
+  "file": "RSW-2026-036_MM-10_2025-08-28.pdf",
+  "project_no": "RSW-2026-036",
+  "project_name": "Northgate Storm Sewer Upgrade \u2014 Phase 1",
+  "meeting_no": 10,
+  "date": "2025-08-28",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 36.0,
+    "baseline_pct": 38,
+    "days_behind": 5,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Crew productivity is about 8% below plan and is affecting output at Station 0+640."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "A sediment discharge was observed at the downstream outlet."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-06",
+      "description": "Inspect and repair sediment controls.",
+      "owner": "L. Chen (Clearwater)",
+      "due": "2025-09-02",
+      "carried": false,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-07",
+      "description": "Provide laboratory results for soil samples from Station 1+300.",
+      "owner": "L. Chen (Clearwater)",
+      "due": "2025-09-07",
+      "carried": true,
+      "risk_id": "R-02"
+    }
+  ],
+  "previous_actions": [],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "material_qty",
+      "material": "Portland Cement (Type GU)",
+      "stated": 1394,
+      "correct": 1177
+    }
+  ]
+}

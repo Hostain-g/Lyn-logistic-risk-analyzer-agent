@@ -1,0 +1,97 @@
+{
+  "file": "CCC-2024-011_MM-12_2025-05-01.pdf",
+  "project_no": "CCC-2024-011",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 2",
+  "meeting_no": 12,
+  "date": "2025-05-01",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 43.0,
+    "baseline_pct": 46,
+    "days_behind": 8,
+    "cumulative_change_pct": 1.68
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Differing site conditions",
+      "category": "Technical",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Revised foundation detail issued; contractor proceeding with removal and replacement."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Rain and saturated ground conditions",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Repeated rain events are eroding the schedule float; weekend work is being considered."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Equipment breakdown",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 2,
+      "score": 8,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Second breakdown on the same unit; production at Level 2, Grid E3 is reduced."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-14",
+      "description": "Provide inspection records of remediated areas.",
+      "owner": "A. Campbell (Keystone)",
+      "due": "2025-05-08",
+      "carried": false,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-15",
+      "description": "Submit outstanding shop drawings for review.",
+      "owner": "O. Walker (Keystone)",
+      "due": "2025-05-06",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-09",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-12",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-13",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "CO-01",
+      "amount": 146300,
+      "days": 6,
+      "status": "Under Review",
+      "risk_id": "R-01"
+    }
+  ],
+  "injected_inconsistencies": []
+}

@@ -1,0 +1,71 @@
+{
+  "file": "RDR-2024-142_MM-09_2025-10-30.pdf",
+  "project_no": "RDR-2024-142",
+  "project_name": "Lakeview Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 9,
+  "date": "2025-10-30",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 34.0,
+    "baseline_pct": 35,
+    "days_behind": 1,
+    "cumulative_change_pct": 1.5
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Cost escalation on remaining quantities",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor PM",
+      "evidence": "Potential cost exposure of approximately $100,300 if the 13% escalation is accepted on remaining quantities."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-12",
+      "description": "Update the project risk log.",
+      "owner": "N. Dubois (Ridgeline)",
+      "due": "2025-11-06",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-13",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "N. Dubois (Ridgeline)",
+      "due": "2025-11-06",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-10",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-11",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-12",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-01",
+      "amount": 100300,
+      "days": 0,
+      "status": "Under Review",
+      "risk_id": "R-02"
+    }
+  ],
+  "injected_inconsistencies": []
+}

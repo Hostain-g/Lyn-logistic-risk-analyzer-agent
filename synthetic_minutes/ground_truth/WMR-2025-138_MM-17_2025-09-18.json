@@ -1,0 +1,63 @@
+{
+  "file": "WMR-2025-138_MM-17_2025-09-18.pdf",
+  "project_no": "WMR-2025-138",
+  "project_name": "Harbour Water Main Replacement \u2014 Phase 2",
+  "meeting_no": 17,
+  "date": "2025-09-18",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 58.0,
+    "baseline_pct": 65,
+    "days_behind": 14,
+    "cumulative_change_pct": 0.28
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Material delivery delay",
+      "title_as_written": "Material delivery delay",
+      "category": "Supply Chain",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Second consecutive late shipment from Redstone Pipe and Fittings; work at Station 4+045 has been partially resequenced."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Delayed RFI responses",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Delayed RFI responses are now holding up work at Station 4+885."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-19",
+      "description": "Engineer to provide a response plan for the critical RFIs.",
+      "owner": "L. Sato (Clearwater)",
+      "due": "2025-09-23",
+      "carried": false,
+      "risk_id": "R-04"
+    },
+    {
+      "id": "AI-20",
+      "description": "Schedule a design coordination meeting.",
+      "owner": "L. Sato (Clearwater)",
+      "due": "2025-09-28",
+      "carried": false,
+      "risk_id": "R-04"
+    }
+  ],
+  "previous_actions": [],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

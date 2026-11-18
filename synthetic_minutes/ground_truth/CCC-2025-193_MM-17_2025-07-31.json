@@ -1,0 +1,104 @@
+{
+  "file": "CCC-2025-193_MM-17_2025-07-31.pdf",
+  "project_no": "CCC-2025-193",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 2",
+  "meeting_no": 17,
+  "date": "2025-07-31",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 60.0,
+    "baseline_pct": 65,
+    "days_behind": 11,
+    "cumulative_change_pct": 2.27
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Material price escalation",
+      "category": "Cost",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Contractor PM",
+      "evidence": "Price escalation resolved through approved change order. Risk closed."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Subcontractor performance concern",
+      "title_as_written": "Subcontractor financial instability",
+      "category": "Contractual",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 5,
+      "score": 20,
+      "rag": "Red",
+      "owner_role": "Contractor PM",
+      "evidence": "Subcontractor has demobilized; the contractor is assessing replacement options."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Property access restriction",
+      "title_as_written": "Property access restriction",
+      "category": "Stakeholder",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 1,
+      "score": 2,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Access agreement reached with the adjacent owner."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-21",
+      "description": "Issue a public notice update.",
+      "owner": "T. Dubois (City)",
+      "due": "2025-08-03",
+      "carried": true,
+      "risk_id": "R-05"
+    },
+    {
+      "id": "AI-24",
+      "description": "Report complaint log weekly.",
+      "owner": "T. Dubois (City)",
+      "due": "2025-08-07",
+      "carried": false,
+      "risk_id": "R-05"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-21",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-22",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-23",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-01",
+      "amount": 82700,
+      "days": 0,
+      "status": "Approved",
+      "risk_id": "R-03"
+    },
+    {
+      "id": "PCO-02",
+      "amount": 47800,
+      "days": 7,
+      "status": "Under Review",
+      "risk_id": "R-04"
+    }
+  ],
+  "injected_inconsistencies": []
+}

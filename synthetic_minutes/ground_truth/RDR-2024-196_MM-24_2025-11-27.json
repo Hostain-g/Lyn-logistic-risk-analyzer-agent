@@ -1,0 +1,113 @@
+{
+  "file": "RDR-2024-196_MM-24_2025-11-27.pdf",
+  "project_no": "RDR-2024-196",
+  "project_name": "Northgate Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 24,
+  "date": "2025-11-27",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 87.0,
+    "baseline_pct": 92,
+    "days_behind": 10,
+    "cumulative_change_pct": 1.24
+  },
+  "risks": [
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Quality nonconformance",
+      "category": "Quality",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Retest results are improving; final acceptance pending."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Permit approval delay",
+      "title_as_written": "Permit approval delay",
+      "category": "Regulatory",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Interim approval granted for limited work while the final permit is processed."
+    },
+    {
+      "risk_id": "R-07",
+      "canonical_title": "Subcontractor performance concern",
+      "title_as_written": "Subcontractor performance concern",
+      "category": "Contractual",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Owner PM",
+      "evidence": "Replacement subcontractor fully mobilized. Risk closed."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-23",
+      "description": "Provide a replacement subcontractor plan.",
+      "owner": "M. Fraser (City)",
+      "due": "2025-11-30",
+      "carried": true,
+      "risk_id": "R-07"
+    },
+    {
+      "id": "AI-28",
+      "description": "Provide revised traffic management plan.",
+      "owner": "E. Okonkwo (Clearwater)",
+      "due": "2025-12-02",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-29",
+      "description": "Confirm permit conditions are incorporated into the work plan.",
+      "owner": "E. Okonkwo (Clearwater)",
+      "due": "2025-12-07",
+      "carried": false,
+      "risk_id": "R-06"
+    },
+    {
+      "id": "AI-30",
+      "description": "Provide revised traffic management plan.",
+      "owner": "E. Morales (Keystone)",
+      "due": "2025-12-04",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-23",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-25",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-26",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-27",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-28",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

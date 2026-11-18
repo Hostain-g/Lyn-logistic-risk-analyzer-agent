@@ -1,0 +1,82 @@
+{
+  "file": "RDR-2024-142_MM-08_2025-10-23.pdf",
+  "project_no": "RDR-2024-142",
+  "project_name": "Lakeview Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 8,
+  "date": "2025-10-23",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 31.0,
+    "baseline_pct": 31,
+    "days_behind": 0,
+    "cumulative_change_pct": 1.5
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Material price escalation",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor PM",
+      "evidence": "Contractor formally requested a change order for the 13% escalation; exposure estimated at $100,300."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-10",
+      "description": "Submit formal change order package including cost breakdown.",
+      "owner": "S. Nguyen (Ridgeline)",
+      "due": "2025-10-30",
+      "carried": false,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-11",
+      "description": "Review cumulative change order exposure against original contract value.",
+      "owner": "S. Nguyen (Ridgeline)",
+      "due": "2025-10-28",
+      "carried": false,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-12",
+      "description": "Update the project risk log.",
+      "owner": "N. Dubois (Ridgeline)",
+      "due": "2025-11-06",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-04",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-09",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-01",
+      "amount": 100300,
+      "days": 0,
+      "status": "Pending Submission",
+      "risk_id": "R-02"
+    }
+  ],
+  "injected_inconsistencies": [
+    {
+      "kind": "material_qty",
+      "material": "Hot Mix Asphalt",
+      "stated": 7886,
+      "correct": 6679
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "file": "RSW-2026-168_MM-14_2026-02-12.pdf",
+  "project_no": "RSW-2026-168",
+  "project_name": "Riverside Storm Sewer Upgrade \u2014 Phase 3",
+  "meeting_no": 14,
+  "date": "2026-02-12",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 51.0,
+    "baseline_pct": 54,
+    "days_behind": 5,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Retest results are improving; final acceptance pending."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Environmental compliance issue",
+      "category": "Environmental",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Owner PM",
+      "evidence": "Contaminated material removed and clearance letter received. Risk closed."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-13",
+      "description": "Submit disposal manifests.",
+      "owner": "T. Nguyen (City)",
+      "due": "2026-02-15",
+      "carried": true,
+      "risk_id": "R-04"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-12",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-13",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

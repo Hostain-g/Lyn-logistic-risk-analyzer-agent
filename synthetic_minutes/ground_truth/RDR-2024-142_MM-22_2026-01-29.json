@@ -1,0 +1,76 @@
+{
+  "file": "RDR-2024-142_MM-22_2026-01-29.pdf",
+  "project_no": "RDR-2024-142",
+  "project_name": "Lakeview Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 22,
+  "date": "2026-01-29",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 82.0,
+    "baseline_pct": 85,
+    "days_behind": 6,
+    "cumulative_change_pct": 1.2
+  },
+  "risks": [
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Design change",
+      "title_as_written": "Revised design requirements",
+      "category": "Cost",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Pricing reviewed with the owner; a reduced scope option is being considered."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor PM",
+      "evidence": "Labour shortfall persists; subcontractor has not committed additional workers."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-30",
+      "description": "Finalize change order documentation.",
+      "owner": "M. Dubois (Clearwater)",
+      "due": "2026-02-03",
+      "carried": false,
+      "risk_id": "R-05"
+    },
+    {
+      "id": "AI-31",
+      "description": "Provide revised traffic management plan.",
+      "owner": "S. Nguyen (Ridgeline)",
+      "due": "2026-02-05",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-29",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "CO-03",
+      "amount": 52800,
+      "days": 2,
+      "status": "Under Review",
+      "risk_id": "R-05"
+    }
+  ],
+  "injected_inconsistencies": []
+}

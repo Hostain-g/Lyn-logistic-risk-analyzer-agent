@@ -1,0 +1,80 @@
+{
+  "file": "RSW-2026-036_MM-11_2025-09-04.pdf",
+  "project_no": "RSW-2026-036",
+  "project_name": "Northgate Storm Sewer Upgrade \u2014 Phase 1",
+  "meeting_no": 11,
+  "date": "2025-09-04",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 39.0,
+    "baseline_pct": 42,
+    "days_behind": 7,
+    "cumulative_change_pct": 0.58
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Crew availability shortfall",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Labour shortfall persists; subcontractor has not committed additional workers."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Resident Engineer",
+      "evidence": "Regulator notified of the discharge; additional controls required at Station 1+300."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-07",
+      "description": "Provide laboratory results for soil samples from Station 1+300.",
+      "owner": "L. Chen (Clearwater)",
+      "due": "2025-09-07",
+      "carried": true,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-08",
+      "description": "Provide cost estimate for contaminated soil disposal.",
+      "owner": "L. Chen (Clearwater)",
+      "due": "2025-09-14",
+      "carried": true,
+      "risk_id": "R-02"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-06",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-07",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-01",
+      "amount": 28200,
+      "days": 3,
+      "status": "Pending Submission",
+      "risk_id": "R-02"
+    }
+  ],
+  "injected_inconsistencies": []
+}

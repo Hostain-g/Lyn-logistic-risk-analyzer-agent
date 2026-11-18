@@ -1,0 +1,126 @@
+{
+  "file": "RSW-2026-036_MM-20_2025-11-06.pdf",
+  "project_no": "RSW-2026-036",
+  "project_name": "Northgate Storm Sewer Upgrade \u2014 Phase 1",
+  "meeting_no": 20,
+  "date": "2025-11-06",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 69.0,
+    "baseline_pct": 77,
+    "days_behind": 15,
+    "cumulative_change_pct": 1.28
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Crew productivity is about 8% below plan and is affecting output at Station 0+640."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Payment certification dispute",
+      "category": "Contractual",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Owner and contractor agreed on a settlement approach."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Unsuitable subgrade material",
+      "category": "Technical",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Unsuitable material extends beyond the initial extent; additional removal and replacement required."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Material price escalation",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Potential cost exposure of approximately $34,700 if the 7% escalation is accepted on remaining quantities."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Property access restriction",
+      "title_as_written": "Property access restriction",
+      "category": "Stakeholder",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Owner PM",
+      "evidence": "Access restored and complaints have stopped. Risk closed."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-14",
+      "description": "Obtain geotechnical recommendation for Station 1+980.",
+      "owner": "A. Lefebvre (Ironbridge)",
+      "due": "2025-11-11",
+      "carried": true,
+      "risk_id": "R-04"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-14",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-21",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-22",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-23",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "CO-02",
+      "amount": 142300,
+      "days": 9,
+      "status": "Rejected",
+      "risk_id": "R-04"
+    },
+    {
+      "id": "PCO-03",
+      "amount": 34700,
+      "days": 0,
+      "status": "Under Review",
+      "risk_id": "R-05"
+    }
+  ],
+  "injected_inconsistencies": []
+}

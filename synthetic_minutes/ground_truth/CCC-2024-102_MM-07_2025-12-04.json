@@ -1,0 +1,67 @@
+{
+  "file": "CCC-2024-102_MM-07_2025-12-04.pdf",
+  "project_no": "CCC-2024-102",
+  "project_name": "Northgate Community Centre Construction \u2014 Phase 3",
+  "meeting_no": 7,
+  "date": "2025-12-04",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 25.0,
+    "baseline_pct": 27,
+    "days_behind": 4,
+    "cumulative_change_pct": 2.97
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Adverse weather delays",
+      "category": "Schedule",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Contractor has resequenced work to interior and protected areas."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Design change",
+      "title_as_written": "Scope change from geotechnical recommendation",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "Revised drawings were issued; additional work is estimated at $62,200 and 1 working days."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-10",
+      "status": "OPEN"
+    },
+    {
+      "id": "AI-11",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-12",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "CO-02",
+      "amount": 62200,
+      "days": 2,
+      "status": "Under Review",
+      "risk_id": "R-03"
+    }
+  ],
+  "injected_inconsistencies": []
+}

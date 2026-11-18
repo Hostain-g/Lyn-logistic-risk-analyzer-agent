@@ -1,0 +1,86 @@
+{
+  "file": "RSW-2026-036_MM-22_2025-11-20.pdf",
+  "project_no": "RSW-2026-036",
+  "project_name": "Northgate Storm Sewer Upgrade \u2014 Phase 1",
+  "meeting_no": 22,
+  "date": "2025-11-20",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 78.0,
+    "baseline_pct": 85,
+    "days_behind": 14,
+    "cumulative_change_pct": 0.58
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Crew productivity is about 8% below plan and is affecting output at Station 0+640."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Disputed progress claim",
+      "category": "Contractual",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Owner PM",
+      "evidence": "Revised certificate issued and the contractor confirmed agreement. Risk closed."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Differing site conditions",
+      "category": "Technical",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Geotechnical review recommends deeper excavation at Station 1+980; estimated impact $142,300 and 7 working days."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Material price escalation",
+      "category": "Cost",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Price hold agreed with supplier for part of the remaining quantity; residual exposure reduced."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-25",
+      "description": "Confirm final negotiated unit price in writing.",
+      "owner": "A. Lefebvre (Ironbridge)",
+      "due": "2025-11-30",
+      "carried": true,
+      "risk_id": "R-05"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-24",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

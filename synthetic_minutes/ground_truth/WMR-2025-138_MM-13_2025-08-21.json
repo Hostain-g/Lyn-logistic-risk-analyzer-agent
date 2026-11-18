@@ -1,0 +1,98 @@
+{
+  "file": "WMR-2025-138_MM-13_2025-08-21.pdf",
+  "project_no": "WMR-2025-138",
+  "project_name": "Harbour Water Main Replacement \u2014 Phase 2",
+  "meeting_no": 13,
+  "date": "2025-08-21",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 46.0,
+    "baseline_pct": 50,
+    "days_behind": 8,
+    "cumulative_change_pct": 0.28
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "A disposal facility was secured and hauling has started."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Material delivery delay",
+      "title_as_written": "Material delivery delay",
+      "category": "Supply Chain",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Redstone Pipe and Fittings advised of a possible 8-10 working day delay on the next shipment due to plant maintenance."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-12",
+      "description": "Submit outstanding shop drawings for review.",
+      "owner": "G. Tran (Blue)",
+      "due": "2025-08-28",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-13",
+      "description": "Submit disposal manifests.",
+      "owner": "M. Dubois (City)",
+      "due": "2025-09-02",
+      "carried": true,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-14",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "E. Walker (Blue)",
+      "due": "2025-08-26",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-10",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-11",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-12",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-02",
+      "amount": 21500,
+      "days": 6,
+      "status": "Rejected",
+      "risk_id": "R-02"
+    }
+  ],
+  "injected_inconsistencies": [
+    {
+      "kind": "days_behind",
+      "stated": 10,
+      "correct": 8
+    }
+  ]
+}

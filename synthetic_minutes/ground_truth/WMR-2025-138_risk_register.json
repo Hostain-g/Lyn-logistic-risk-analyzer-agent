@@ -1,0 +1,198 @@
+{
+  "project_no": "WMR-2025-138",
+  "project_name": "Harbour Water Main Replacement \u2014 Phase 2",
+  "contract_value": 13650000,
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Utility conflict",
+      "category": "Technical",
+      "first_meeting": 1,
+      "closed_meeting": 5,
+      "history": [
+        {
+          "meeting": 1,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 2,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 3,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 4,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 5,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Contaminated soil",
+      "category": "Environmental",
+      "first_meeting": 8,
+      "closed_meeting": 15,
+      "history": [
+        {
+          "meeting": 8,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 9,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 10,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 11,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 12,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 13,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 14,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 15,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Material delivery delay",
+      "category": "Supply Chain",
+      "first_meeting": 11,
+      "closed_meeting": 22,
+      "history": [
+        {
+          "meeting": 11,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 12,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 13,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 14,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 15,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 16,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 17,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 18,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 19,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 20,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 21,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 22,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Delayed RFI responses",
+      "category": "Schedule",
+      "first_meeting": 14,
+      "closed_meeting": 19,
+      "history": [
+        {
+          "meeting": 14,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 15,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 16,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 17,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 18,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 19,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    }
+  ]
+}

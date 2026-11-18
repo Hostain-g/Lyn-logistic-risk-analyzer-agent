@@ -1,0 +1,80 @@
+{
+  "file": "RDR-2024-142_MM-14_2025-12-04.pdf",
+  "project_no": "RDR-2024-142",
+  "project_name": "Lakeview Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 14,
+  "date": "2025-12-04",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 50.0,
+    "baseline_pct": 54,
+    "days_behind": 7,
+    "cumulative_change_pct": 0.41
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Cost escalation on remaining quantities",
+      "category": "Cost",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor PM",
+      "evidence": "Owner is reviewing the supplier letter and original bid unit rates; negotiated reduction under discussion."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Subcontractor performance concern",
+      "title_as_written": "Subcontractor performance concern",
+      "category": "Contractual",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 5,
+      "score": 20,
+      "rag": "Red",
+      "owner_role": "Owner PM",
+      "evidence": "Subcontractor has missed two commitments; default notice under consideration."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-18",
+      "description": "Provide a replacement subcontractor plan.",
+      "owner": "K. Campbell (City)",
+      "due": "2025-12-07",
+      "carried": true,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-19",
+      "description": "Update the project risk log.",
+      "owner": "S. Nguyen (Ridgeline)",
+      "due": "2025-12-21",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-17",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-18",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-02",
+      "amount": 27700,
+      "days": 6,
+      "status": "Under Review",
+      "risk_id": "R-03"
+    }
+  ],
+  "injected_inconsistencies": []
+}

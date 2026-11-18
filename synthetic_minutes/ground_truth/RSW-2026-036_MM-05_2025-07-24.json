@@ -1,0 +1,42 @@
+{
+  "file": "RSW-2026-036_MM-05_2025-07-24.pdf",
+  "project_no": "RSW-2026-036",
+  "project_name": "Northgate Storm Sewer Upgrade \u2014 Phase 1",
+  "meeting_no": 5,
+  "date": "2025-07-24",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 17.0,
+    "baseline_pct": 19,
+    "days_behind": 4,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Crew productivity is about 8% below plan and is affecting output at Station 0+640."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-03",
+      "description": "Confirm availability of additional subcontract crews.",
+      "owner": "A. Lefebvre (Ironbridge)",
+      "due": "2025-07-27",
+      "carried": false,
+      "risk_id": "R-01"
+    }
+  ],
+  "previous_actions": [],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

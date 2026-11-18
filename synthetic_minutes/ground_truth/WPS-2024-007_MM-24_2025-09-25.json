@@ -1,0 +1,33 @@
+{
+  "file": "WPS-2024-007_MM-24_2025-09-25.pdf",
+  "project_no": "WPS-2024-007",
+  "project_name": "Elm Street Wastewater Pump Station Upgrade \u2014 Phase 1",
+  "meeting_no": 24,
+  "date": "2025-09-25",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 92.0,
+    "baseline_pct": 92,
+    "days_behind": 1,
+    "cumulative_change_pct": 0.21
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Cost escalation on remaining quantities",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Potential cost exposure of approximately $99,300 if the 9% escalation is accepted on remaining quantities."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

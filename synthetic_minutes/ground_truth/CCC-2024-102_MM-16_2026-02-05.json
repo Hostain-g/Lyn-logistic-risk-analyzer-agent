@@ -1,0 +1,63 @@
+{
+  "file": "CCC-2024-102_MM-16_2026-02-05.pdf",
+  "project_no": "CCC-2024-102",
+  "project_name": "Northgate Community Centre Construction \u2014 Phase 3",
+  "meeting_no": 16,
+  "date": "2026-02-05",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 58.0,
+    "baseline_pct": 62,
+    "days_behind": 7,
+    "cumulative_change_pct": 3.72
+  },
+  "risks": [
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Sediment discharge concern",
+      "category": "Environmental",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Resident Engineer",
+      "evidence": "Regulator notified of the discharge; additional controls required at Level 1, Grid A4."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "A nonconformance report was issued for out-of-tolerance work at Level 2, Grid D7."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-22",
+      "description": "Provide revised concrete mix design for the affected section.",
+      "owner": "M. Nguyen (Tri-County)",
+      "due": "2026-02-15",
+      "carried": false,
+      "risk_id": "R-06"
+    }
+  ],
+  "previous_actions": [],
+  "change_orders": [
+    {
+      "id": "PCO-03",
+      "amount": 31900,
+      "days": 5,
+      "status": "Under Review",
+      "risk_id": "R-05"
+    }
+  ],
+  "injected_inconsistencies": []
+}

@@ -1,0 +1,69 @@
+{
+  "file": "CCC-2024-011_MM-19_2025-06-19.pdf",
+  "project_no": "CCC-2024-011",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 2",
+  "meeting_no": 19,
+  "date": "2025-06-19",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 72.0,
+    "baseline_pct": 73,
+    "days_behind": 3,
+    "cumulative_change_pct": 1.68
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Adverse weather delays",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Saturated ground conditions have now cost 1 working days and are limiting access at Level 3, Grid E3."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Utility conflict",
+      "title_as_written": "Utility conflict",
+      "category": "Technical",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "A buried utility was exposed near Level 3, Grid E1 that conflicts with the design alignment."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-20",
+      "description": "Obtain utility owner location confirmation for Level 3, Grid E1.",
+      "owner": "S. Sato (Clearwater)",
+      "due": "2025-06-29",
+      "carried": true,
+      "risk_id": "R-04"
+    },
+    {
+      "id": "AI-21",
+      "description": "Provide revised traffic management plan.",
+      "owner": "O. Walker (Keystone)",
+      "due": "2025-07-01",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "cumulative_pct",
+      "stated": 3.5,
+      "correct": 1.7
+    }
+  ]
+}

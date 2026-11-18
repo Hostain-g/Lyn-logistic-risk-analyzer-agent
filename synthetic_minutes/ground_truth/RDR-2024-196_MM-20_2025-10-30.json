@@ -1,0 +1,123 @@
+{
+  "file": "RDR-2024-196_MM-20_2025-10-30.pdf",
+  "project_no": "RDR-2024-196",
+  "project_name": "Northgate Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 20,
+  "date": "2025-10-30",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 65.0,
+    "baseline_pct": 77,
+    "days_behind": 24,
+    "cumulative_change_pct": 0.83
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Differing site conditions",
+      "category": "Technical",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Revised foundation detail issued; contractor proceeding with removal and replacement."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Material delivery delay",
+      "title_as_written": "Material delivery delay",
+      "category": "Supply Chain",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Deliveries are now 8 working days late and are constraining crews at Station 1+635."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Rework at Station 4+655 is required; the area is closed to further work."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Permit approval delay",
+      "title_as_written": "Permit approval delay",
+      "category": "Regulatory",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Approval of the revised traffic plan is outstanding with the road authority."
+    },
+    {
+      "risk_id": "R-07",
+      "canonical_title": "Subcontractor performance concern",
+      "title_as_written": "Subcontractor financial instability",
+      "category": "Contractual",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 4,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "A lien notice was received relating to a subcontractor on the project."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-20",
+      "description": "Update the project risk log.",
+      "owner": "E. Morales (Keystone)",
+      "due": "2025-11-13",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-16",
+      "status": "OPEN"
+    },
+    {
+      "id": "AI-17",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-18",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-19",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-20",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "CO-01",
+      "amount": 104000,
+      "days": 9,
+      "status": "Approved",
+      "risk_id": "R-03"
+    }
+  ],
+  "injected_inconsistencies": []
+}

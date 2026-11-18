@@ -1,0 +1,253 @@
+{
+  "project_no": "CCC-2024-011",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 2",
+  "contract_value": 8700000,
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Differing site conditions",
+      "category": "Technical",
+      "first_meeting": 6,
+      "closed_meeting": 13,
+      "history": [
+        {
+          "meeting": 6,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 7,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 8,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 9,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 10,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 11,
+          "stage": "escalated",
+          "score": 16
+        },
+        {
+          "meeting": 12,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 13,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Adverse weather delays",
+      "category": "Schedule",
+      "first_meeting": 7,
+      "closed_meeting": null,
+      "history": [
+        {
+          "meeting": 7,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 8,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 9,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 10,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 11,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 12,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 13,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 14,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 15,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 16,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 17,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 18,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 19,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 20,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 21,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 22,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 23,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 24,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 25,
+          "stage": "escalated",
+          "score": 12
+        }
+      ]
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Equipment breakdown",
+      "category": "Resource",
+      "first_meeting": 7,
+      "closed_meeting": 17,
+      "history": [
+        {
+          "meeting": 7,
+          "stage": "raised",
+          "score": 3
+        },
+        {
+          "meeting": 8,
+          "stage": "raised",
+          "score": 3
+        },
+        {
+          "meeting": 9,
+          "stage": "escalated",
+          "score": 8
+        },
+        {
+          "meeting": 10,
+          "stage": "escalated",
+          "score": 8
+        },
+        {
+          "meeting": 11,
+          "stage": "escalated",
+          "score": 8
+        },
+        {
+          "meeting": 12,
+          "stage": "escalated",
+          "score": 8
+        },
+        {
+          "meeting": 13,
+          "stage": "mitigating",
+          "score": 2
+        },
+        {
+          "meeting": 14,
+          "stage": "mitigating",
+          "score": 2
+        },
+        {
+          "meeting": 15,
+          "stage": "mitigating",
+          "score": 2
+        },
+        {
+          "meeting": 16,
+          "stage": "mitigating",
+          "score": 2
+        },
+        {
+          "meeting": 17,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Utility conflict",
+      "category": "Technical",
+      "first_meeting": 19,
+      "closed_meeting": 22,
+      "history": [
+        {
+          "meeting": 19,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 20,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 21,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 22,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    }
+  ]
+}

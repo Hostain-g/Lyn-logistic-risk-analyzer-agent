@@ -1,0 +1,50 @@
+{
+  "file": "WMR-2024-179_MM-03_2025-05-22.pdf",
+  "project_no": "WMR-2024-179",
+  "project_name": "Riverside Water Main Replacement \u2014 Phase 3",
+  "meeting_no": 3,
+  "date": "2025-05-22",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 11.0,
+    "baseline_pct": 12,
+    "days_behind": 2,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Design change",
+      "title_as_written": "Design change",
+      "category": "Cost",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "The consultant issued a preliminary revision affecting quantities near Station 1+380."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-01",
+      "description": "Provide preliminary pricing for the anticipated design change.",
+      "owner": "N. Chen (Clearwater)",
+      "due": "2025-05-25",
+      "carried": false,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-02",
+      "description": "Issue revised drawings for Station 1+380.",
+      "owner": "N. Chen (Clearwater)",
+      "due": "2025-05-25",
+      "carried": false,
+      "risk_id": "R-01"
+    }
+  ],
+  "previous_actions": [],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

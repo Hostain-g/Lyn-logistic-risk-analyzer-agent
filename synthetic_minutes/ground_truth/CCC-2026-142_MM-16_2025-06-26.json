@@ -1,0 +1,121 @@
+{
+  "file": "CCC-2026-142_MM-16_2025-06-26.pdf",
+  "project_no": "CCC-2026-142",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 3",
+  "meeting_no": 16,
+  "date": "2025-06-26",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 57.0,
+    "baseline_pct": 62,
+    "days_behind": 10,
+    "cumulative_change_pct": 1.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Subcontractor performance concern",
+      "title_as_written": "Subcontractor default risk",
+      "category": "Contractual",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 4,
+      "score": 8,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "Replacement subcontractor identified and mobilizing."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Failed compaction and strength results",
+      "category": "Quality",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Retest results are improving; final acceptance pending."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Property access restriction",
+      "title_as_written": "Property access restriction",
+      "category": "Stakeholder",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Owner PM",
+      "evidence": "Access restored and complaints have stopped. Risk closed."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-13",
+      "description": "Hold a stakeholder meeting with affected residents.",
+      "owner": "J. Morales (City)",
+      "due": "2025-07-08",
+      "carried": true,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-15",
+      "description": "Confirm replacement subcontractor insurance and bonding.",
+      "owner": "J. Morales (City)",
+      "due": "2025-06-29",
+      "carried": true,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-19",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "K. Sato (Tri-County)",
+      "due": "2025-07-10",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-12",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-13",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-14",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-15",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-16",
+      "status": "OPEN"
+    },
+    {
+      "id": "AI-17",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-18",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-01",
+      "amount": 42900,
+      "days": 10,
+      "status": "Approved",
+      "risk_id": "R-01"
+    }
+  ],
+  "injected_inconsistencies": []
+}

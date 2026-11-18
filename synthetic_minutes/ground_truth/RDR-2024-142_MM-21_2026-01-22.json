@@ -1,0 +1,74 @@
+{
+  "file": "RDR-2024-142_MM-21_2026-01-22.pdf",
+  "project_no": "RDR-2024-142",
+  "project_name": "Lakeview Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 21,
+  "date": "2026-01-22",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 78.0,
+    "baseline_pct": 81,
+    "days_behind": 6,
+    "cumulative_change_pct": 1.2
+  },
+  "risks": [
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Design change",
+      "title_as_written": "Scope change from geotechnical recommendation",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Design change at Station 6+585 is confirmed; contractor to price the added scope (about $52,800)."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Crew availability shortfall",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor PM",
+      "evidence": "Crew productivity is about 6% below plan and is affecting output at Station 3+790."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-29",
+      "description": "Submit outstanding shop drawings for review.",
+      "owner": "S. Nguyen (Ridgeline)",
+      "due": "2026-01-29",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-28",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "CO-03",
+      "amount": 52800,
+      "days": 2,
+      "status": "Under Review",
+      "risk_id": "R-05"
+    }
+  ],
+  "injected_inconsistencies": [
+    {
+      "kind": "days_behind",
+      "stated": 8,
+      "correct": 6
+    }
+  ]
+}

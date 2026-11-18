@@ -1,0 +1,80 @@
+{
+  "file": "RDR-2024-142_MM-19_2026-01-08.pdf",
+  "project_no": "RDR-2024-142",
+  "project_name": "Lakeview Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 19,
+  "date": "2026-01-08",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 70.0,
+    "baseline_pct": 73,
+    "days_behind": 6,
+    "cumulative_change_pct": 0.41
+  },
+  "risks": [
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Design change",
+      "title_as_written": "Design change",
+      "category": "Cost",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "The consultant issued a preliminary revision affecting quantities near Station 6+585."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor PM",
+      "evidence": "Crew productivity is about 6% below plan and is affecting output at Station 3+790."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-26",
+      "description": "Confirm availability of additional subcontract crews.",
+      "owner": "S. Nguyen (Ridgeline)",
+      "due": "2026-01-13",
+      "carried": false,
+      "risk_id": "R-06"
+    },
+    {
+      "id": "AI-27",
+      "description": "Submit labour recovery plan.",
+      "owner": "S. Nguyen (Ridgeline)",
+      "due": "2026-01-11",
+      "carried": false,
+      "risk_id": "R-06"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-20",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-21",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-22",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-25",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

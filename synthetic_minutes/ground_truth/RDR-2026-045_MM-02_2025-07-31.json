@@ -1,0 +1,55 @@
+{
+  "file": "RDR-2026-045_MM-02_2025-07-31.pdf",
+  "project_no": "RDR-2026-045",
+  "project_name": "Northgate Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 2,
+  "date": "2025-07-31",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 7.0,
+    "baseline_pct": 8,
+    "days_behind": 1,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Material price escalation",
+      "category": "Cost",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor PM",
+      "evidence": "Price hold agreed with supplier for part of the remaining quantity; residual exposure reduced."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-01",
+      "description": "Provide detailed unit price breakdown for the escalation.",
+      "owner": "O. Walker (Tri-County)",
+      "due": "2025-08-12",
+      "carried": true,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-02",
+      "description": "Confirm final negotiated unit price in writing.",
+      "owner": "O. Walker (Tri-County)",
+      "due": "2025-08-14",
+      "carried": true,
+      "risk_id": "R-01"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-01",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

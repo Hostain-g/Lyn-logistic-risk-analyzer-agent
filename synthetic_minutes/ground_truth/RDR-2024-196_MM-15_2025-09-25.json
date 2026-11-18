@@ -1,0 +1,57 @@
+{
+  "file": "RDR-2024-196_MM-15_2025-09-25.pdf",
+  "project_no": "RDR-2024-196",
+  "project_name": "Northgate Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 15,
+  "date": "2025-09-25",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 56.0,
+    "baseline_pct": 58,
+    "days_behind": 4,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Resident Engineer",
+      "evidence": "Contaminated material removed and clearance letter received. Risk closed."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Differing site conditions",
+      "category": "Technical",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Groundwater levels at Station 5+860 are higher than shown in the geotechnical report."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-09",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "days_behind",
+      "stated": 6,
+      "correct": 4
+    }
+  ]
+}

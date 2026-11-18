@@ -1,0 +1,51 @@
+{
+  "file": "CCC-2024-011_MM-14_2025-05-15.pdf",
+  "project_no": "CCC-2024-011",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 2",
+  "meeting_no": 14,
+  "date": "2025-05-15",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 52.0,
+    "baseline_pct": 54,
+    "days_behind": 3,
+    "cumulative_change_pct": 1.68
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Adverse weather delays",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Repeated rain events are eroding the schedule float; weekend work is being considered."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Equipment breakdown",
+      "category": "Resource",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 1,
+      "score": 2,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Rental equipment delivered and production has resumed."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-16",
+      "status": "OPEN"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

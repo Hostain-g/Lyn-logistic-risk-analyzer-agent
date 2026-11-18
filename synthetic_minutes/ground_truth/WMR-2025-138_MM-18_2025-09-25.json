@@ -1,0 +1,72 @@
+{
+  "file": "WMR-2025-138_MM-18_2025-09-25.pdf",
+  "project_no": "WMR-2025-138",
+  "project_name": "Harbour Water Main Replacement \u2014 Phase 2",
+  "meeting_no": 18,
+  "date": "2025-09-25",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 65.0,
+    "baseline_pct": 69,
+    "days_behind": 8,
+    "cumulative_change_pct": 0.28
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Material delivery delay",
+      "title_as_written": "Material delivery delay",
+      "category": "Supply Chain",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Expedited deliveries arranged with Redstone Pipe and Fittings; recovery of 8 days is expected if supply stabilizes."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Outstanding RFIs",
+      "category": "Schedule",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "A dedicated reviewer was assigned and the backlog is reducing."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-21",
+      "description": "Provide weekly stockpile report until recovery is confirmed.",
+      "owner": "E. Walker (Blue)",
+      "due": "2025-09-30",
+      "carried": false,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-22",
+      "description": "Report open RFI count weekly.",
+      "owner": "L. Sato (Clearwater)",
+      "due": "2025-10-16",
+      "carried": true,
+      "risk_id": "R-04"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-19",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-20",
+      "status": "OPEN"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

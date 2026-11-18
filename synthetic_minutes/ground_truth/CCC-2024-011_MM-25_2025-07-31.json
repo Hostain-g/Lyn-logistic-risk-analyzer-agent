@@ -1,0 +1,33 @@
+{
+  "file": "CCC-2024-011_MM-25_2025-07-31.pdf",
+  "project_no": "CCC-2024-011",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 2",
+  "meeting_no": 25,
+  "date": "2025-07-31",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 94.0,
+    "baseline_pct": 96,
+    "days_behind": 3,
+    "cumulative_change_pct": 1.68
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Adverse weather delays",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Saturated ground conditions have now cost 1 working days and are limiting access at Level 3, Grid E3."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

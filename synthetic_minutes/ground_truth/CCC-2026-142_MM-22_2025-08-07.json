@@ -1,0 +1,38 @@
+{
+  "file": "CCC-2026-142_MM-22_2025-08-07.pdf",
+  "project_no": "CCC-2026-142",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 3",
+  "meeting_no": 22,
+  "date": "2025-08-07",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 83.0,
+    "baseline_pct": 85,
+    "days_behind": 4,
+    "cumulative_change_pct": 1.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Additional crew mobilized from another contractor site; output is improving."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-21",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

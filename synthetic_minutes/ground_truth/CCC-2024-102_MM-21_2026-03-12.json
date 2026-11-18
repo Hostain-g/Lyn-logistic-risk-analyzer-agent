@@ -1,0 +1,72 @@
+{
+  "file": "CCC-2024-102_MM-21_2026-03-12.pdf",
+  "project_no": "CCC-2024-102",
+  "project_name": "Northgate Community Centre Construction \u2014 Phase 3",
+  "meeting_no": 21,
+  "date": "2026-03-12",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 77.0,
+    "baseline_pct": 81,
+    "days_behind": 9,
+    "cumulative_change_pct": 3.72
+  },
+  "risks": [
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Resident Engineer",
+      "evidence": "Regulator notified of the discharge; additional controls required at Level 1, Grid A4."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Core testing confirms low strength in the affected section; remedial options are being evaluated."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-24",
+      "description": "Arrange independent core testing.",
+      "owner": "M. Nguyen (Tri-County)",
+      "due": "2026-03-17",
+      "carried": true,
+      "risk_id": "R-06"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-24",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-25",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-03",
+      "amount": 31900,
+      "days": 5,
+      "status": "Under Review",
+      "risk_id": "R-05"
+    }
+  ],
+  "injected_inconsistencies": []
+}

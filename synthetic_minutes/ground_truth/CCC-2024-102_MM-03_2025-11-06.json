@@ -1,0 +1,97 @@
+{
+  "file": "CCC-2024-102_MM-03_2025-11-06.pdf",
+  "project_no": "CCC-2024-102",
+  "project_name": "Northgate Community Centre Construction \u2014 Phase 3",
+  "meeting_no": 3,
+  "date": "2025-11-06",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 7.0,
+    "baseline_pct": 12,
+    "days_behind": 9,
+    "cumulative_change_pct": 1.51
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Rain and saturated ground conditions",
+      "category": "Schedule",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Forecast shows extended wet weather; some earthworks may be affected."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Subcontractor performance concern",
+      "title_as_written": "Subcontractor financial instability",
+      "category": "Contractual",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 5,
+      "score": 20,
+      "rag": "Red",
+      "owner_role": "Owner PM",
+      "evidence": "Subcontractor has missed two commitments; default notice under consideration."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Design change",
+      "title_as_written": "Revised design requirements",
+      "category": "Cost",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "The consultant issued a preliminary revision affecting quantities near Level 1, Grid C7."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-03",
+      "description": "Owner to review default provisions in the contract.",
+      "owner": "A. Kowalski (City)",
+      "due": "2025-11-25",
+      "carried": true,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-04",
+      "description": "Provide preliminary pricing for the anticipated design change.",
+      "owner": "A. Kowalski (City)",
+      "due": "2025-11-16",
+      "carried": false,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-05",
+      "description": "Issue revised drawings for Level 1, Grid C7.",
+      "owner": "A. Kowalski (City)",
+      "due": "2025-11-09",
+      "carried": false,
+      "risk_id": "R-03"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-01",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-01",
+      "amount": 64200,
+      "days": 8,
+      "status": "Pending Submission",
+      "risk_id": "R-02"
+    }
+  ],
+  "injected_inconsistencies": []
+}

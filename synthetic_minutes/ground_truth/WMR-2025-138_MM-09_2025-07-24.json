@@ -1,0 +1,51 @@
+{
+  "file": "WMR-2025-138_MM-09_2025-07-24.pdf",
+  "project_no": "WMR-2025-138",
+  "project_name": "Harbour Water Main Replacement \u2014 Phase 2",
+  "meeting_no": 9,
+  "date": "2025-07-24",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 33.0,
+    "baseline_pct": 35,
+    "days_behind": 3,
+    "cumulative_change_pct": 0.28
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "A sediment discharge was observed at the downstream outlet."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-08",
+      "description": "Inspect and repair sediment controls.",
+      "owner": "M. Dubois (City)",
+      "due": "2025-07-31",
+      "carried": true,
+      "risk_id": "R-02"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-07",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-08",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

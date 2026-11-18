@@ -1,0 +1,101 @@
+{
+  "file": "RSW-2026-168_MM-10_2026-01-15.pdf",
+  "project_no": "RSW-2026-168",
+  "project_name": "Riverside Storm Sewer Upgrade \u2014 Phase 3",
+  "meeting_no": 10,
+  "date": "2026-01-15",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 33.0,
+    "baseline_pct": 38,
+    "days_behind": 11,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Core testing confirms low strength in the affected section; remedial options are being evaluated."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Contractor PM",
+      "evidence": "Additional crew mobilized from another contractor site; output is improving."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "Staining and odour were noted in excavated soil near Station 0+815; samples sent for analysis."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-06",
+      "description": "Confirm permit conditions are incorporated into the work plan.",
+      "owner": "T. Nguyen (City)",
+      "due": "2026-01-29",
+      "carried": true,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-11",
+      "description": "Report weekly crew counts against plan.",
+      "owner": "A. Murphy (Ridgeline)",
+      "due": "2026-01-18",
+      "carried": false,
+      "risk_id": "R-03"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-04",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-06",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-07",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-08",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-09",
+      "status": "OPEN"
+    },
+    {
+      "id": "AI-10",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

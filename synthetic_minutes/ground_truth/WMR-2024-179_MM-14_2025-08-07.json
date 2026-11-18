@@ -1,0 +1,90 @@
+{
+  "file": "WMR-2024-179_MM-14_2025-08-07.pdf",
+  "project_no": "WMR-2024-179",
+  "project_name": "Riverside Water Main Replacement \u2014 Phase 3",
+  "meeting_no": 14,
+  "date": "2025-08-07",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 52.0,
+    "baseline_pct": 54,
+    "days_behind": 4,
+    "cumulative_change_pct": 1.09
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Design change",
+      "title_as_written": "Scope change from geotechnical recommendation",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Revised drawings were issued; additional work is estimated at $55,200 and 1 working days."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Unsuitable subgrade material",
+      "category": "Technical",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Subgrade remediation complete and accepted. Risk closed."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Payment certification dispute",
+      "category": "Contractual",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Owner PM",
+      "evidence": "Revised certificate issued and the contractor confirmed agreement. Risk closed."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Utility conflict",
+      "title_as_written": "Utility conflict",
+      "category": "Technical",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "A buried utility was exposed near Station 1+000 that conflicts with the design alignment."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-14",
+      "description": "Update the project risk log.",
+      "owner": "J. Adeyemi (Ridgeline)",
+      "due": "2025-08-14",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-12",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-13",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

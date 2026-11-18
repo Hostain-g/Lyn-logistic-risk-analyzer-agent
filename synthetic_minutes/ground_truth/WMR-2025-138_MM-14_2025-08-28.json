@@ -1,0 +1,119 @@
+{
+  "file": "WMR-2025-138_MM-14_2025-08-28.pdf",
+  "project_no": "WMR-2025-138",
+  "project_name": "Harbour Water Main Replacement \u2014 Phase 2",
+  "meeting_no": 14,
+  "date": "2025-08-28",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 46.0,
+    "baseline_pct": 54,
+    "days_behind": 16,
+    "cumulative_change_pct": 0.28
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Additional controls installed; follow-up sampling is within limits."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Material delivery delay",
+      "title_as_written": "Material delivery delay",
+      "category": "Supply Chain",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Deliveries are now 10 working days late and are constraining crews at Station 4+045."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Delayed RFI responses",
+      "category": "Schedule",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "A backlog of design clarifications is building up."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-13",
+      "description": "Submit disposal manifests.",
+      "owner": "M. Dubois (City)",
+      "due": "2025-09-02",
+      "carried": true,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-15",
+      "description": "Confirm alternative supply options (second source) to mitigate further delivery risk.",
+      "owner": "E. Walker (Blue)",
+      "due": "2025-08-31",
+      "carried": false,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-16",
+      "description": "Submit recovery schedule showing resequencing around late deliveries.",
+      "owner": "E. Walker (Blue)",
+      "due": "2025-09-07",
+      "carried": false,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-17",
+      "description": "Issue responses to overdue RFIs.",
+      "owner": "L. Sato (Clearwater)",
+      "due": "2025-08-31",
+      "carried": false,
+      "risk_id": "R-04"
+    },
+    {
+      "id": "AI-18",
+      "description": "Provide a priority list of outstanding RFIs.",
+      "owner": "L. Sato (Clearwater)",
+      "due": "2025-09-07",
+      "carried": false,
+      "risk_id": "R-04"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-12",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-13",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-14",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "cumulative_pct",
+      "stated": 1.2,
+      "correct": 0.3
+    }
+  ]
+}

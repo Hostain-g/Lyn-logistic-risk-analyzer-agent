@@ -1,0 +1,112 @@
+{
+  "file": "CCC-2024-102_MM-05_2025-11-20.pdf",
+  "project_no": "CCC-2024-102",
+  "project_name": "Northgate Community Centre Construction \u2014 Phase 3",
+  "meeting_no": 5,
+  "date": "2025-11-20",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 16.0,
+    "baseline_pct": 19,
+    "days_behind": 5,
+    "cumulative_change_pct": 1.51
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Adverse weather delays",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Saturated ground conditions have now cost 1 working days and are limiting access at Level 3, Grid B5."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Subcontractor performance concern",
+      "title_as_written": "Subcontractor performance concern",
+      "category": "Contractual",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Owner PM",
+      "evidence": "Replacement subcontractor fully mobilized. Risk closed."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Design change",
+      "title_as_written": "Design change",
+      "category": "Cost",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "A design revision is anticipated at Level 1, Grid C7 following the latest field review."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-03",
+      "description": "Owner to review default provisions in the contract.",
+      "owner": "A. Kowalski (City)",
+      "due": "2025-11-25",
+      "carried": true,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-09",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "P. Walker (Northbridge)",
+      "due": "2025-11-27",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-03",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-04",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-06",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-07",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-08",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-01",
+      "amount": 64200,
+      "days": 8,
+      "status": "Approved",
+      "risk_id": "R-02"
+    }
+  ],
+  "injected_inconsistencies": [
+    {
+      "kind": "material_qty",
+      "material": "Structural Steel",
+      "stated": 381,
+      "correct": 319
+    }
+  ]
+}

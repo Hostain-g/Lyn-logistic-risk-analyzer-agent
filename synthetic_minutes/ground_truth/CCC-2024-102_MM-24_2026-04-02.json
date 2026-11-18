@@ -1,0 +1,68 @@
+{
+  "file": "CCC-2024-102_MM-24_2026-04-02.pdf",
+  "project_no": "CCC-2024-102",
+  "project_name": "Northgate Community Centre Construction \u2014 Phase 3",
+  "meeting_no": 24,
+  "date": "2026-04-02",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 88.0,
+    "baseline_pct": 92,
+    "days_behind": 8,
+    "cumulative_change_pct": 3.72
+  },
+  "risks": [
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Resident Engineer",
+      "evidence": "Regulator notified of the discharge; additional controls required at Level 1, Grid A4."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Failed compaction and strength results",
+      "category": "Quality",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Remedial plan accepted by the engineer; rework is under way."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-26",
+      "description": "Provide revised traffic management plan.",
+      "owner": "P. Walker (Northbridge)",
+      "due": "2026-04-05",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-26",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-27",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-28",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

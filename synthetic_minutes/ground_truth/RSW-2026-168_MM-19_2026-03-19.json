@@ -1,0 +1,41 @@
+{
+  "file": "RSW-2026-168_MM-19_2026-03-19.pdf",
+  "project_no": "RSW-2026-168",
+  "project_name": "Riverside Storm Sewer Upgrade \u2014 Phase 3",
+  "meeting_no": 19,
+  "date": "2026-03-19",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 73.0,
+    "baseline_pct": 73,
+    "days_behind": 0,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [],
+  "action_items": [
+    {
+      "id": "AI-14",
+      "description": "Submit outstanding shop drawings for review.",
+      "owner": "A. Murphy (Ridgeline)",
+      "due": "2026-04-09",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-15",
+      "description": "Update the project risk log.",
+      "owner": "L. Nguyen (Ridgeline)",
+      "due": "2026-03-24",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-14",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

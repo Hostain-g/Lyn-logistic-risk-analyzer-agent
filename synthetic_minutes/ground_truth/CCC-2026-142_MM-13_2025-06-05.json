@@ -1,0 +1,101 @@
+{
+  "file": "CCC-2026-142_MM-13_2025-06-05.pdf",
+  "project_no": "CCC-2026-142",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 3",
+  "meeting_no": 13,
+  "date": "2025-06-05",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 44.0,
+    "baseline_pct": 50,
+    "days_behind": 16,
+    "cumulative_change_pct": 1.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Subcontractor performance concern",
+      "title_as_written": "Subcontractor default risk",
+      "category": "Contractual",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 5,
+      "score": 20,
+      "rag": "Red",
+      "owner_role": "Owner PM",
+      "evidence": "Subcontractor has missed two commitments; default notice under consideration."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Failed compaction and strength results",
+      "category": "Quality",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Core testing confirms low strength in the affected section; remedial options are being evaluated."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Property access restriction",
+      "title_as_written": "Adjacent owner complaint",
+      "category": "Stakeholder",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 1,
+      "score": 3,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Several resident complaints about noise and dust were received."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-09",
+      "description": "Provide a replacement subcontractor plan.",
+      "owner": "J. Morales (City)",
+      "due": "2025-06-15",
+      "carried": false,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-10",
+      "description": "Owner to review default provisions in the contract.",
+      "owner": "J. Morales (City)",
+      "due": "2025-06-17",
+      "carried": true,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-11",
+      "description": "Arrange independent core testing.",
+      "owner": "M. Nguyen (Tri-County)",
+      "due": "2025-06-15",
+      "carried": false,
+      "risk_id": "R-02"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-06",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-07",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-01",
+      "amount": 42900,
+      "days": 10,
+      "status": "Pending Submission",
+      "risk_id": "R-01"
+    }
+  ],
+  "injected_inconsistencies": []
+}

@@ -1,0 +1,45 @@
+{
+  "file": "RSW-2026-036_MM-09_2025-08-21.pdf",
+  "project_no": "RSW-2026-036",
+  "project_name": "Northgate Storm Sewer Upgrade \u2014 Phase 1",
+  "meeting_no": 9,
+  "date": "2025-08-21",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 32.0,
+    "baseline_pct": 35,
+    "days_behind": 5,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Labour shortfall persists; subcontractor has not committed additional workers."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-05",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "material_qty",
+      "material": "Portland Cement (Type GU)",
+      "stated": 1472,
+      "correct": 1243
+    }
+  ]
+}

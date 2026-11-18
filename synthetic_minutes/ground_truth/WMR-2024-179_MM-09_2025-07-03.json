@@ -1,0 +1,83 @@
+{
+  "file": "WMR-2024-179_MM-09_2025-07-03.pdf",
+  "project_no": "WMR-2024-179",
+  "project_name": "Riverside Water Main Replacement \u2014 Phase 3",
+  "meeting_no": 9,
+  "date": "2025-07-03",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 31.0,
+    "baseline_pct": 35,
+    "days_behind": 7,
+    "cumulative_change_pct": 1.09
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Design change",
+      "title_as_written": "Design change",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Revised drawings were issued; additional work is estimated at $55,200 and 1 working days."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Unforeseen subsurface conditions",
+      "category": "Technical",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Geotechnical review recommends deeper excavation at Station 0+465; estimated impact $92,500 and 3 working days."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Disputed progress claim",
+      "category": "Contractual",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Differences exist between claimed and verified quantities on the pay application."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-04",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-10",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "CO-01",
+      "amount": 55200,
+      "days": 2,
+      "status": "Under Review",
+      "risk_id": "R-01"
+    },
+    {
+      "id": "CO-02",
+      "amount": 92500,
+      "days": 5,
+      "status": "Approved",
+      "risk_id": "R-02"
+    }
+  ],
+  "injected_inconsistencies": []
+}

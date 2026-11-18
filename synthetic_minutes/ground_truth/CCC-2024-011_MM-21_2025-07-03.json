@@ -1,0 +1,75 @@
+{
+  "file": "CCC-2024-011_MM-21_2025-07-03.pdf",
+  "project_no": "CCC-2024-011",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 2",
+  "meeting_no": 21,
+  "date": "2025-07-03",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 79.0,
+    "baseline_pct": 81,
+    "days_behind": 4,
+    "cumulative_change_pct": 1.68
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Adverse weather delays",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Repeated rain events are eroding the schedule float; weekend work is being considered."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Utility conflict",
+      "title_as_written": "Utility conflict",
+      "category": "Technical",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Revised alignment issued by RFI response; work at Level 3, Grid E1 resuming."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-23",
+      "description": "Update the project risk log.",
+      "owner": "A. Campbell (Keystone)",
+      "due": "2025-07-08",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-20",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-21",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-22",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "material_qty",
+      "material": "Structural Steel",
+      "stated": 102,
+      "correct": 82
+    }
+  ]
+}

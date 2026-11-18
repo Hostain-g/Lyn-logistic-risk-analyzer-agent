@@ -1,0 +1,56 @@
+{
+  "file": "CCC-2025-193_MM-04_2025-05-01.pdf",
+  "project_no": "CCC-2025-193",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 2",
+  "meeting_no": 4,
+  "date": "2025-05-01",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 15.0,
+    "baseline_pct": 15,
+    "days_behind": 2,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor PM",
+      "evidence": "Contractor reported difficulty staffing the concrete finishing crew."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-03",
+      "description": "Provide updated manpower histogram.",
+      "owner": "K. Tran (Ironbridge)",
+      "due": "2025-05-13",
+      "carried": true,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-04",
+      "description": "Confirm replacement crew mobilization dates.",
+      "owner": "K. Tran (Ironbridge)",
+      "due": "2025-05-27",
+      "carried": true,
+      "risk_id": "R-01"
+    }
+  ],
+  "previous_actions": [],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "days_behind",
+      "stated": 4,
+      "correct": 2
+    }
+  ]
+}

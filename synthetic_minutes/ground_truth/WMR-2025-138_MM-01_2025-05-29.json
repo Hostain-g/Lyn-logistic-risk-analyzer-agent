@@ -1,0 +1,42 @@
+{
+  "file": "WMR-2025-138_MM-01_2025-05-29.pdf",
+  "project_no": "WMR-2025-138",
+  "project_name": "Harbour Water Main Replacement \u2014 Phase 2",
+  "meeting_no": 1,
+  "date": "2025-05-29",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 3.0,
+    "baseline_pct": 4,
+    "days_behind": 2,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Utility conflict",
+      "title_as_written": "Utility conflict",
+      "category": "Technical",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Locate results show an unmarked utility crossing at Station 1+675; design team to assess."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-01",
+      "description": "Issue RFI response for the utility conflict at Station 1+675.",
+      "owner": "L. Sato (Clearwater)",
+      "due": "2025-06-10",
+      "carried": true,
+      "risk_id": "R-01"
+    }
+  ],
+  "previous_actions": [],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

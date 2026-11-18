@@ -1,0 +1,38 @@
+{
+  "file": "WMR-2025-138_MM-22_2025-10-23.pdf",
+  "project_no": "WMR-2025-138",
+  "project_name": "Harbour Water Main Replacement \u2014 Phase 2",
+  "meeting_no": 22,
+  "date": "2025-10-23",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 83.0,
+    "baseline_pct": 85,
+    "days_behind": 2,
+    "cumulative_change_pct": 0.28
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Material delivery delay",
+      "title_as_written": "Material delivery delay",
+      "category": "Supply Chain",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Deliveries have been on schedule for two consecutive weeks. Risk closed."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-23",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

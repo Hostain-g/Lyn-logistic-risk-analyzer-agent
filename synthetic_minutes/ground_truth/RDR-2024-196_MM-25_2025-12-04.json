@@ -1,0 +1,72 @@
+{
+  "file": "RDR-2024-196_MM-25_2025-12-04.pdf",
+  "project_no": "RDR-2024-196",
+  "project_name": "Northgate Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 25,
+  "date": "2025-12-04",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 94.0,
+    "baseline_pct": 96,
+    "days_behind": 4,
+    "cumulative_change_pct": 1.24
+  },
+  "risks": [
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Resident Engineer",
+      "evidence": "Retest results meet the specification. Risk closed."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Permit approval delay",
+      "title_as_written": "Permit approval delay",
+      "category": "Regulatory",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Resident Engineer",
+      "evidence": "Permit issued and work proceeding. Risk closed."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-31",
+      "description": "Update the project risk log.",
+      "owner": "E. Okonkwo (Clearwater)",
+      "due": "2025-12-11",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-23",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-28",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-29",
+      "status": "OPEN"
+    },
+    {
+      "id": "AI-30",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

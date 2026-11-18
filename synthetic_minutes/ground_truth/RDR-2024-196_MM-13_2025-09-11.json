@@ -1,0 +1,60 @@
+{
+  "file": "RDR-2024-196_MM-13_2025-09-11.pdf",
+  "project_no": "RDR-2024-196",
+  "project_name": "Northgate Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 13,
+  "date": "2025-09-11",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 47.0,
+    "baseline_pct": 50,
+    "days_behind": 6,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "A disposal facility was secured and hauling has started."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Differing site conditions",
+      "category": "Technical",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Unexpected soft material was encountered near Station 5+860; geotechnical consultant notified."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-09",
+      "description": "Provide test pit records for Station 5+860.",
+      "owner": "M. Chen (Keystone)",
+      "due": "2025-09-21",
+      "carried": false,
+      "risk_id": "R-03"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-08",
+      "status": "OPEN"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

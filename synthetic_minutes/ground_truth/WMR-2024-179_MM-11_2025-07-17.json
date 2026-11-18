@@ -1,0 +1,73 @@
+{
+  "file": "WMR-2024-179_MM-11_2025-07-17.pdf",
+  "project_no": "WMR-2024-179",
+  "project_name": "Riverside Water Main Replacement \u2014 Phase 3",
+  "meeting_no": 11,
+  "date": "2025-07-17",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 40.0,
+    "baseline_pct": 42,
+    "days_behind": 5,
+    "cumulative_change_pct": 1.09
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Design change",
+      "title_as_written": "Design change",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Revised drawings were issued; additional work is estimated at $55,200 and 1 working days."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Unforeseen subsurface conditions",
+      "category": "Technical",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Revised foundation detail issued; contractor proceeding with removal and replacement."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Payment certification dispute",
+      "category": "Contractual",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Quantities were jointly verified on site; a revised certificate is being prepared."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-12",
+      "description": "Provide inspection records of remediated areas.",
+      "owner": "J. Campbell (Ridgeline)",
+      "due": "2025-08-03",
+      "carried": true,
+      "risk_id": "R-02"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-11",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

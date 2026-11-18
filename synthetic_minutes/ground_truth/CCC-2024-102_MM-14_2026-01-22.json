@@ -1,0 +1,59 @@
+{
+  "file": "CCC-2024-102_MM-14_2026-01-22.pdf",
+  "project_no": "CCC-2024-102",
+  "project_name": "Northgate Community Centre Construction \u2014 Phase 3",
+  "meeting_no": 14,
+  "date": "2026-01-22",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 51.0,
+    "baseline_pct": 54,
+    "days_behind": 6,
+    "cumulative_change_pct": 3.72
+  },
+  "risks": [
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Equipment breakdown",
+      "category": "Resource",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Equipment fully operational with standby available. Risk closed."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Environmental compliance issue",
+      "category": "Environmental",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Resident Engineer",
+      "evidence": "Regulator notified of the discharge; additional controls required at Level 1, Grid A4."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-21",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-03",
+      "amount": 31900,
+      "days": 5,
+      "status": "Under Review",
+      "risk_id": "R-05"
+    }
+  ],
+  "injected_inconsistencies": []
+}

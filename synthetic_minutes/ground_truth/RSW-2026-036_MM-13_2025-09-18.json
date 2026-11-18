@@ -1,0 +1,84 @@
+{
+  "file": "RSW-2026-036_MM-13_2025-09-18.pdf",
+  "project_no": "RSW-2026-036",
+  "project_name": "Northgate Storm Sewer Upgrade \u2014 Phase 1",
+  "meeting_no": 13,
+  "date": "2025-09-18",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 47.0,
+    "baseline_pct": 50,
+    "days_behind": 6,
+    "cumulative_change_pct": 0.58
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Crew productivity is about 8% below plan and is affecting output at Station 0+640."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Sediment discharge concern",
+      "category": "Environmental",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "A disposal facility was secured and hauling has started."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Payment certification dispute",
+      "category": "Contractual",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Differences exist between claimed and verified quantities on the pay application."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-08",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-09",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-10",
+      "status": "OPEN"
+    },
+    {
+      "id": "AI-11",
+      "status": "OPEN"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-01",
+      "amount": 28200,
+      "days": 3,
+      "status": "Approved",
+      "risk_id": "R-02"
+    }
+  ],
+  "injected_inconsistencies": []
+}

@@ -1,0 +1,38 @@
+{
+  "file": "RSW-2026-168_MM-15_2026-02-19.pdf",
+  "project_no": "RSW-2026-168",
+  "project_name": "Riverside Storm Sewer Upgrade \u2014 Phase 3",
+  "meeting_no": 15,
+  "date": "2026-02-19",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 56.0,
+    "baseline_pct": 58,
+    "days_behind": 4,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Remedial plan accepted by the engineer; rework is under way."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-13",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

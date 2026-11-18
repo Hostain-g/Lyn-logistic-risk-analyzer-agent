@@ -1,0 +1,83 @@
+{
+  "file": "RDR-2024-142_MM-16_2025-12-18.pdf",
+  "project_no": "RDR-2024-142",
+  "project_name": "Lakeview Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 16,
+  "date": "2025-12-18",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 58.0,
+    "baseline_pct": 62,
+    "days_behind": 7,
+    "cumulative_change_pct": 0.41
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Subcontractor performance concern",
+      "title_as_written": "Subcontractor performance concern",
+      "category": "Contractual",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 5,
+      "score": 20,
+      "rag": "Red",
+      "owner_role": "Owner PM",
+      "evidence": "Subcontractor has missed two commitments; default notice under consideration."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Delayed RFI responses",
+      "category": "Schedule",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "A backlog of design clarifications is building up."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-19",
+      "description": "Update the project risk log.",
+      "owner": "S. Nguyen (Ridgeline)",
+      "due": "2025-12-21",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-20",
+      "description": "Provide a priority list of outstanding RFIs.",
+      "owner": "K. Campbell (City)",
+      "due": "2026-01-04",
+      "carried": true,
+      "risk_id": "R-04"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-19",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-02",
+      "amount": 27700,
+      "days": 6,
+      "status": "Approved",
+      "risk_id": "R-03"
+    }
+  ],
+  "injected_inconsistencies": [
+    {
+      "kind": "material_qty",
+      "material": "Hot Mix Asphalt",
+      "stated": 4698,
+      "correct": 3977
+    }
+  ]
+}

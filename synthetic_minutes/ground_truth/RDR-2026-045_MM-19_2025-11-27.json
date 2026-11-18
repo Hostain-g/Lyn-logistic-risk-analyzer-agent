@@ -1,0 +1,51 @@
+{
+  "file": "RDR-2026-045_MM-19_2025-11-27.pdf",
+  "project_no": "RDR-2026-045",
+  "project_name": "Northgate Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 19,
+  "date": "2025-11-27",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 73.0,
+    "baseline_pct": 73,
+    "days_behind": 1,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Delayed RFI responses",
+      "category": "Schedule",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Resident Engineer",
+      "evidence": "RFI backlog cleared. Risk closed."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Equipment breakdown",
+      "category": "Resource",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Equipment fully operational with standby available. Risk closed."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-15",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

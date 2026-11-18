@@ -1,0 +1,42 @@
+{
+  "file": "RDR-2024-142_MM-01_2025-09-04.pdf",
+  "project_no": "RDR-2024-142",
+  "project_name": "Lakeview Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 1,
+  "date": "2025-09-04",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 3.0,
+    "baseline_pct": 4,
+    "days_behind": 1,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Site safety concern",
+      "title_as_written": "Site safety concern",
+      "category": "Safety",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 4,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "A near-miss involving excavation access was reported this week."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-01",
+      "description": "Provide updated hazard assessment.",
+      "owner": "M. Dubois (Clearwater)",
+      "due": "2025-09-14",
+      "carried": false,
+      "risk_id": "R-01"
+    }
+  ],
+  "previous_actions": [],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

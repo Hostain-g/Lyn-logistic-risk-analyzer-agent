@@ -1,0 +1,109 @@
+{
+  "file": "RSW-2026-036_MM-12_2025-09-11.pdf",
+  "project_no": "RSW-2026-036",
+  "project_name": "Northgate Storm Sewer Upgrade \u2014 Phase 1",
+  "meeting_no": 12,
+  "date": "2025-09-11",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 43.0,
+    "baseline_pct": 46,
+    "days_behind": 6,
+    "cumulative_change_pct": 0.58
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Labour shortfall persists; subcontractor has not committed additional workers."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "A disposal facility was secured and hauling has started."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Payment certification dispute",
+      "category": "Contractual",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Differences exist between claimed and verified quantities on the pay application."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-08",
+      "description": "Provide cost estimate for contaminated soil disposal.",
+      "owner": "L. Chen (Clearwater)",
+      "due": "2025-09-14",
+      "carried": true,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-09",
+      "description": "Submit disposal manifests.",
+      "owner": "L. Chen (Clearwater)",
+      "due": "2025-09-18",
+      "carried": false,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-10",
+      "description": "Provide quantity backup for the disputed claim.",
+      "owner": "T. Sato (City)",
+      "due": "2025-09-21",
+      "carried": false,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-11",
+      "description": "Joint site verification of disputed quantities.",
+      "owner": "T. Sato (City)",
+      "due": "2025-09-21",
+      "carried": false,
+      "risk_id": "R-03"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-07",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-08",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-01",
+      "amount": 28200,
+      "days": 3,
+      "status": "Under Review",
+      "risk_id": "R-02"
+    }
+  ],
+  "injected_inconsistencies": []
+}

@@ -1,0 +1,72 @@
+{
+  "file": "RDR-2024-142_MM-20_2026-01-15.pdf",
+  "project_no": "RDR-2024-142",
+  "project_name": "Lakeview Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 20,
+  "date": "2026-01-15",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 74.0,
+    "baseline_pct": 77,
+    "days_behind": 6,
+    "cumulative_change_pct": 1.2
+  },
+  "risks": [
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Design change",
+      "title_as_written": "Scope change from geotechnical recommendation",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Revised drawings were issued; additional work is estimated at $52,800 and 1 working days."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor PM",
+      "evidence": "Crew productivity is about 6% below plan and is affecting output at Station 3+790."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-28",
+      "description": "Review the schedule impact of the revised design.",
+      "owner": "M. Dubois (Clearwater)",
+      "due": "2026-01-18",
+      "carried": false,
+      "risk_id": "R-05"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-26",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-27",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "CO-03",
+      "amount": 52800,
+      "days": 2,
+      "status": "Pending Submission",
+      "risk_id": "R-05"
+    }
+  ],
+  "injected_inconsistencies": []
+}

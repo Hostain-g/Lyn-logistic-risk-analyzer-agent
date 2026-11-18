@@ -1,0 +1,50 @@
+{
+  "file": "WMR-2025-138_MM-03_2025-06-12.pdf",
+  "project_no": "WMR-2025-138",
+  "project_name": "Harbour Water Main Replacement \u2014 Phase 2",
+  "meeting_no": 3,
+  "date": "2025-06-12",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 10.0,
+    "baseline_pct": 12,
+    "days_behind": 4,
+    "cumulative_change_pct": 0.28
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Utility conflict",
+      "title_as_written": "Utility conflict",
+      "category": "Technical",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Conflict at Station 1+675 is delaying the critical path; relocation support is being scoped."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-01",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-02",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-01",
+      "amount": 38200,
+      "days": 4,
+      "status": "Under Review",
+      "risk_id": "R-01"
+    }
+  ],
+  "injected_inconsistencies": []
+}

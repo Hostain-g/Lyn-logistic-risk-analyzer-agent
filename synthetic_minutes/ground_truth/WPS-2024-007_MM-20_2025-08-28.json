@@ -1,0 +1,70 @@
+{
+  "file": "WPS-2024-007_MM-20_2025-08-28.pdf",
+  "project_no": "WPS-2024-007",
+  "project_name": "Elm Street Wastewater Pump Station Upgrade \u2014 Phase 1",
+  "meeting_no": 20,
+  "date": "2025-08-28",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 75.0,
+    "baseline_pct": 77,
+    "days_behind": 5,
+    "cumulative_change_pct": 0.21
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Material price escalation",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Potential cost exposure of approximately $99,300 if the 9% escalation is accepted on remaining quantities."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Utility conflict",
+      "title_as_written": "Utility conflict",
+      "category": "Technical",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Revised alignment issued by RFI response; work at Wet well, Elevation 2 resuming."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-23",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-25",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-02",
+      "amount": 33700,
+      "days": 6,
+      "status": "Approved",
+      "risk_id": "R-06"
+    }
+  ],
+  "injected_inconsistencies": [
+    {
+      "kind": "material_qty",
+      "material": "Structural Concrete 35 MPa",
+      "stated": 286,
+      "correct": 238
+    }
+  ]
+}

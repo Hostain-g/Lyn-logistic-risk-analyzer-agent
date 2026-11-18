@@ -1,0 +1,55 @@
+{
+  "file": "WMR-2025-138_MM-16_2025-09-11.pdf",
+  "project_no": "WMR-2025-138",
+  "project_name": "Harbour Water Main Replacement \u2014 Phase 2",
+  "meeting_no": 16,
+  "date": "2025-09-11",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 56.0,
+    "baseline_pct": 62,
+    "days_behind": 11,
+    "cumulative_change_pct": 0.28
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Material delivery delay",
+      "title_as_written": "Long-lead material shortfall",
+      "category": "Supply Chain",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Deliveries are now 10 working days late and are constraining crews at Station 4+045."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Delayed RFI responses",
+      "category": "Schedule",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Several RFIs have exceeded the five-day response target."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [
+    {
+      "id": "AI-16",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-18",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

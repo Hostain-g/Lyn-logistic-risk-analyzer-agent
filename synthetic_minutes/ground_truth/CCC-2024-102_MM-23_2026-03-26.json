@@ -1,0 +1,76 @@
+{
+  "file": "CCC-2024-102_MM-23_2026-03-26.pdf",
+  "project_no": "CCC-2024-102",
+  "project_name": "Northgate Community Centre Construction \u2014 Phase 3",
+  "meeting_no": 23,
+  "date": "2026-03-26",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 84.0,
+    "baseline_pct": 88,
+    "days_behind": 8,
+    "cumulative_change_pct": 3.72
+  },
+  "risks": [
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Resident Engineer",
+      "evidence": "Regulator notified of the discharge; additional controls required at Level 1, Grid A4."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Remedial plan accepted by the engineer; rework is under way."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-26",
+      "description": "Provide revised traffic management plan.",
+      "owner": "P. Walker (Northbridge)",
+      "due": "2026-04-05",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-27",
+      "description": "Provide retest results to the engineer.",
+      "owner": "M. Nguyen (Tri-County)",
+      "due": "2026-03-29",
+      "carried": false,
+      "risk_id": "R-06"
+    },
+    {
+      "id": "AI-28",
+      "description": "Submit updated three-week look-ahead schedule.",
+      "owner": "A. Okonkwo (Tri-County)",
+      "due": "2026-04-02",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-26",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

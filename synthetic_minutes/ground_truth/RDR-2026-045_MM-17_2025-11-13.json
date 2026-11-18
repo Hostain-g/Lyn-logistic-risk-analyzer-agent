@@ -1,0 +1,87 @@
+{
+  "file": "RDR-2026-045_MM-17_2025-11-13.pdf",
+  "project_no": "RDR-2026-045",
+  "project_name": "Northgate Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 17,
+  "date": "2025-11-13",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 63.0,
+    "baseline_pct": 65,
+    "days_behind": 4,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Delayed RFI responses",
+      "category": "Schedule",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Weekly RFI review call established with the design team."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Equipment breakdown",
+      "category": "Resource",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 1,
+      "score": 2,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Repair completed; the contractor added a standby unit."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-15",
+      "description": "Mobilize replacement equipment.",
+      "owner": "S. Sato (Tri-County)",
+      "due": "2025-11-23",
+      "carried": true,
+      "risk_id": "R-04"
+    },
+    {
+      "id": "AI-16",
+      "description": "Confirm standby equipment arrangements.",
+      "owner": "S. Sato (Tri-County)",
+      "due": "2025-11-18",
+      "carried": false,
+      "risk_id": "R-04"
+    },
+    {
+      "id": "AI-17",
+      "description": "Update the project risk log.",
+      "owner": "S. Sato (Tri-County)",
+      "due": "2025-11-20",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-14",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-15",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "material_qty",
+      "material": "Hot Mix Asphalt",
+      "stated": 4202,
+      "correct": 3557
+    }
+  ]
+}

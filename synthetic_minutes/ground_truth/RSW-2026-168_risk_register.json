@@ -1,0 +1,178 @@
+{
+  "project_no": "RSW-2026-168",
+  "project_name": "Riverside Storm Sewer Upgrade \u2014 Phase 3",
+  "contract_value": 17800000,
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Permit approval delay",
+      "category": "Regulatory",
+      "first_meeting": 5,
+      "closed_meeting": 8,
+      "history": [
+        {
+          "meeting": 5,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 6,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 7,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 8,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "category": "Quality",
+      "first_meeting": 6,
+      "closed_meeting": 16,
+      "history": [
+        {
+          "meeting": 6,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 7,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 8,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 9,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 10,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 11,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 12,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 13,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 14,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 15,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 16,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Skilled labour shortage",
+      "category": "Resource",
+      "first_meeting": 6,
+      "closed_meeting": 11,
+      "history": [
+        {
+          "meeting": 6,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 7,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 8,
+          "stage": "raised",
+          "score": 6
+        },
+        {
+          "meeting": 9,
+          "stage": "escalated",
+          "score": 12
+        },
+        {
+          "meeting": 10,
+          "stage": "mitigating",
+          "score": 4
+        },
+        {
+          "meeting": 11,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Contaminated soil",
+      "category": "Environmental",
+      "first_meeting": 9,
+      "closed_meeting": 14,
+      "history": [
+        {
+          "meeting": 9,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 10,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 11,
+          "stage": "raised",
+          "score": 9
+        },
+        {
+          "meeting": 12,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 13,
+          "stage": "mitigating",
+          "score": 6
+        },
+        {
+          "meeting": 14,
+          "stage": "closed",
+          "score": 1
+        }
+      ]
+    }
+  ]
+}

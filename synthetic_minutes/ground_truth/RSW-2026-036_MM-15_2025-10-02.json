@@ -1,0 +1,97 @@
+{
+  "file": "RSW-2026-036_MM-15_2025-10-02.pdf",
+  "project_no": "RSW-2026-036",
+  "project_name": "Northgate Storm Sewer Upgrade \u2014 Phase 1",
+  "meeting_no": 15,
+  "date": "2025-10-02",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 53.0,
+    "baseline_pct": 58,
+    "days_behind": 10,
+    "cumulative_change_pct": 0.58
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Crew productivity is about 8% below plan and is affecting output at Station 0+640."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Resident Engineer",
+      "evidence": "Contaminated material removed and clearance letter received. Risk closed."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Payment certification dispute",
+      "category": "Contractual",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "Contractor issued a notice regarding delayed payment."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Differing site conditions",
+      "category": "Technical",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Unexpected soft material was encountered near Station 1+980; geotechnical consultant notified."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-12",
+      "description": "Owner to respond in writing to the contractor's notice.",
+      "owner": "T. Sato (City)",
+      "due": "2025-10-07",
+      "carried": false,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-13",
+      "description": "Provide test pit records for Station 1+980.",
+      "owner": "A. Lefebvre (Ironbridge)",
+      "due": "2025-10-26",
+      "carried": true,
+      "risk_id": "R-04"
+    },
+    {
+      "id": "AI-14",
+      "description": "Obtain geotechnical recommendation for Station 1+980.",
+      "owner": "A. Lefebvre (Ironbridge)",
+      "due": "2025-11-11",
+      "carried": true,
+      "risk_id": "R-04"
+    }
+  ],
+  "previous_actions": [],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

@@ -1,0 +1,87 @@
+{
+  "file": "RSW-2026-168_MM-11_2026-01-22.pdf",
+  "project_no": "RSW-2026-168",
+  "project_name": "Riverside Storm Sewer Upgrade \u2014 Phase 3",
+  "meeting_no": 11,
+  "date": "2026-01-22",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 38.0,
+    "baseline_pct": 42,
+    "days_behind": 9,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Core testing confirms low strength in the affected section; remedial options are being evaluated."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Contractor PM",
+      "evidence": "Crew levels restored to plan. Risk closed."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Environmental compliance issue",
+      "category": "Environmental",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 3,
+      "score": 9,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "Staining and odour were noted in excavated soil near Station 0+815; samples sent for analysis."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-06",
+      "description": "Confirm permit conditions are incorporated into the work plan.",
+      "owner": "T. Nguyen (City)",
+      "due": "2026-01-29",
+      "carried": true,
+      "risk_id": "R-01"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-06",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-09",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-11",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "days_behind",
+      "stated": 12,
+      "correct": 9
+    }
+  ]
+}

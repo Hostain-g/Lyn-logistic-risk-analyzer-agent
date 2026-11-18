@@ -1,0 +1,40 @@
+{
+  "file": "RDR-2026-045_MM-25_2026-01-08.pdf",
+  "project_no": "RDR-2026-045",
+  "project_name": "Northgate Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 25,
+  "date": "2026-01-08",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 96.0,
+    "baseline_pct": 96,
+    "days_behind": 0,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [],
+  "action_items": [
+    {
+      "id": "AI-20",
+      "description": "Update the project risk log.",
+      "owner": "G. Haddad (Meridian)",
+      "due": "2026-01-15",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-20",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "material_qty",
+      "material": "Hot Mix Asphalt",
+      "stated": 232,
+      "correct": 192
+    }
+  ]
+}

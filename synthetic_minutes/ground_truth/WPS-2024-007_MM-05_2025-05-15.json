@@ -1,0 +1,80 @@
+{
+  "file": "WPS-2024-007_MM-05_2025-05-15.pdf",
+  "project_no": "WPS-2024-007",
+  "project_name": "Elm Street Wastewater Pump Station Upgrade \u2014 Phase 1",
+  "meeting_no": 5,
+  "date": "2025-05-15",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 17.0,
+    "baseline_pct": 19,
+    "days_behind": 4,
+    "cumulative_change_pct": 0.62
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Material price escalation",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Potential cost exposure of approximately $99,300 if the 9% escalation is accepted on remaining quantities."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Differing site conditions",
+      "category": "Technical",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Dewatering and stabilization measures are working; the impact area is now bounded."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-06",
+      "description": "Provide inspection records of remediated areas.",
+      "owner": "A. Adeyemi (Clearwater)",
+      "due": "2025-05-25",
+      "carried": false,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-07",
+      "description": "Update the project risk log.",
+      "owner": "A. Adeyemi (Clearwater)",
+      "due": "2025-05-25",
+      "carried": true,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-04",
+      "status": "OPEN"
+    },
+    {
+      "id": "AI-05",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-01",
+      "amount": 99300,
+      "days": 0,
+      "status": "Under Review",
+      "risk_id": "R-01"
+    }
+  ],
+  "injected_inconsistencies": []
+}

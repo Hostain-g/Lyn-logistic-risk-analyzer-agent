@@ -1,0 +1,80 @@
+{
+  "file": "CCC-2024-011_MM-20_2025-06-26.pdf",
+  "project_no": "CCC-2024-011",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 2",
+  "meeting_no": 20,
+  "date": "2025-06-26",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 75.0,
+    "baseline_pct": 77,
+    "days_behind": 5,
+    "cumulative_change_pct": 1.68
+  },
+  "risks": [
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Adverse weather delays",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Repeated rain events are eroding the schedule float; weekend work is being considered."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Utility conflict",
+      "title_as_written": "Utility conflict",
+      "category": "Technical",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Relocation agreed with the utility owner; contractor to provide support work at Level 3, Grid E1."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-20",
+      "description": "Obtain utility owner location confirmation for Level 3, Grid E1.",
+      "owner": "S. Sato (Clearwater)",
+      "due": "2025-06-29",
+      "carried": true,
+      "risk_id": "R-04"
+    },
+    {
+      "id": "AI-21",
+      "description": "Provide revised traffic management plan.",
+      "owner": "O. Walker (Keystone)",
+      "due": "2025-07-01",
+      "carried": true,
+      "risk_id": null
+    },
+    {
+      "id": "AI-22",
+      "description": "Submit as-built records of the relocated utility.",
+      "owner": "S. Sato (Clearwater)",
+      "due": "2025-07-03",
+      "carried": false,
+      "risk_id": "R-04"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-20",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-21",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

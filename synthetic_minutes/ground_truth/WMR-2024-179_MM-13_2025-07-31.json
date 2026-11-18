@@ -1,0 +1,94 @@
+{
+  "file": "WMR-2024-179_MM-13_2025-07-31.pdf",
+  "project_no": "WMR-2024-179",
+  "project_name": "Riverside Water Main Replacement \u2014 Phase 3",
+  "meeting_no": 13,
+  "date": "2025-07-31",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 47.0,
+    "baseline_pct": 50,
+    "days_behind": 6,
+    "cumulative_change_pct": 1.09
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Design change",
+      "title_as_written": "Scope change from geotechnical recommendation",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Revised drawings were issued; additional work is estimated at $55,200 and 1 working days."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Differing site conditions",
+      "category": "Technical",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Revised foundation detail issued; contractor proceeding with removal and replacement."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Payment certification dispute",
+      "title_as_written": "Payment certification dispute",
+      "category": "Contractual",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Owner and contractor agreed on a settlement approach."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Utility conflict",
+      "title_as_written": "Buried utility interference",
+      "category": "Technical",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Locate results show an unmarked utility crossing at Station 1+000; design team to assess."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-12",
+      "description": "Provide inspection records of remediated areas.",
+      "owner": "J. Campbell (Ridgeline)",
+      "due": "2025-08-03",
+      "carried": true,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-13",
+      "description": "Obtain utility owner location confirmation for Station 1+000.",
+      "owner": "J. Campbell (Ridgeline)",
+      "due": "2025-08-07",
+      "carried": false,
+      "risk_id": "R-04"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-12",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

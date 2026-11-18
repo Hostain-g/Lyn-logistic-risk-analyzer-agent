@@ -1,0 +1,60 @@
+{
+  "file": "WMR-2024-179_MM-21_2025-09-25.pdf",
+  "project_no": "WMR-2024-179",
+  "project_name": "Riverside Water Main Replacement \u2014 Phase 3",
+  "meeting_no": 21,
+  "date": "2025-09-25",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 79.0,
+    "baseline_pct": 81,
+    "days_behind": 2,
+    "cumulative_change_pct": 1.27
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Design change",
+      "title_as_written": "Design change",
+      "category": "Cost",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Resident Engineer",
+      "evidence": "Revised drawings were issued; additional work is estimated at $55,200 and 1 working days."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Material price escalation",
+      "title_as_written": "Cost escalation on remaining quantities",
+      "category": "Cost",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Price escalation resolved through approved change order. Risk closed."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-21",
+      "description": "Confirm final negotiated unit price in writing.",
+      "owner": "J. Campbell (Ridgeline)",
+      "due": "2025-10-02",
+      "carried": true,
+      "risk_id": "R-05"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-21",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

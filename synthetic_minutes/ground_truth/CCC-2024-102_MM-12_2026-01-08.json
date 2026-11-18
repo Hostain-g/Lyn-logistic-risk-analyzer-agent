@@ -1,0 +1,101 @@
+{
+  "file": "CCC-2024-102_MM-12_2026-01-08.pdf",
+  "project_no": "CCC-2024-102",
+  "project_name": "Northgate Community Centre Construction \u2014 Phase 3",
+  "meeting_no": 12,
+  "date": "2026-01-08",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 42.0,
+    "baseline_pct": 46,
+    "days_behind": 8,
+    "cumulative_change_pct": 3.72
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Design change",
+      "title_as_written": "Design change",
+      "category": "Cost",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Pricing reviewed with the owner; a reduced scope option is being considered."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Equipment breakdown",
+      "category": "Resource",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 1,
+      "score": 2,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Repair completed; the contractor added a standby unit."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Resident Engineer",
+      "evidence": "Regulator notified of the discharge; additional controls required at Level 1, Grid A4."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-14",
+      "description": "Finalize change order documentation.",
+      "owner": "A. Kowalski (City)",
+      "due": "2026-01-13",
+      "carried": true,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-20",
+      "description": "Provide cost estimate for contaminated soil disposal.",
+      "owner": "P. Walker (Northbridge)",
+      "due": "2026-01-15",
+      "carried": false,
+      "risk_id": "R-05"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-14",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-16",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-18",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-19",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-03",
+      "amount": 31900,
+      "days": 5,
+      "status": "Pending Submission",
+      "risk_id": "R-05"
+    }
+  ],
+  "injected_inconsistencies": []
+}

@@ -1,0 +1,91 @@
+{
+  "file": "CCC-2024-011_MM-13_2025-05-08.pdf",
+  "project_no": "CCC-2024-011",
+  "project_name": "Mill Creek Community Centre Construction \u2014 Phase 2",
+  "meeting_no": 13,
+  "date": "2025-05-08",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 48.0,
+    "baseline_pct": 50,
+    "days_behind": 4,
+    "cumulative_change_pct": 1.68
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Differing site conditions",
+      "title_as_written": "Differing site conditions",
+      "category": "Technical",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Subgrade remediation complete and accepted. Risk closed."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Adverse weather delays",
+      "title_as_written": "Adverse weather delays",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Repeated rain events are eroding the schedule float; weekend work is being considered."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Equipment breakdown",
+      "category": "Resource",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 1,
+      "score": 2,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Rental equipment delivered and production has resumed."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-16",
+      "description": "Confirm standby equipment arrangements.",
+      "owner": "A. Campbell (Keystone)",
+      "due": "2025-05-18",
+      "carried": false,
+      "risk_id": "R-03"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-14",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-15",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "CO-01",
+      "amount": 146300,
+      "days": 6,
+      "status": "Approved",
+      "risk_id": "R-01"
+    }
+  ],
+  "injected_inconsistencies": [
+    {
+      "kind": "cumulative_pct",
+      "stated": 3.5,
+      "correct": 1.7
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "file": "CCC-2024-102_MM-13_2026-01-15.pdf",
+  "project_no": "CCC-2024-102",
+  "project_name": "Northgate Community Centre Construction \u2014 Phase 3",
+  "meeting_no": 13,
+  "date": "2026-01-15",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 46.0,
+    "baseline_pct": 50,
+    "days_behind": 8,
+    "cumulative_change_pct": 3.72
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Design change",
+      "title_as_written": "Design change",
+      "category": "Cost",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Owner PM",
+      "evidence": "Design change incorporated through an approved change order. Risk closed."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Equipment breakdown",
+      "title_as_written": "Equipment breakdown",
+      "category": "Resource",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 1,
+      "score": 2,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Rental equipment delivered and production has resumed."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Contaminated soil",
+      "title_as_written": "Contaminated soil",
+      "category": "Environmental",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 4,
+      "score": 16,
+      "rag": "Red",
+      "owner_role": "Resident Engineer",
+      "evidence": "Lab results confirm contamination above the disposal threshold; special handling is required (estimated $31,900)."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-21",
+      "description": "Submit outstanding shop drawings for review.",
+      "owner": "M. Nguyen (Tri-County)",
+      "due": "2026-01-22",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-14",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-20",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [
+    {
+      "id": "PCO-03",
+      "amount": 31900,
+      "days": 5,
+      "status": "Under Review",
+      "risk_id": "R-05"
+    }
+  ],
+  "injected_inconsistencies": []
+}

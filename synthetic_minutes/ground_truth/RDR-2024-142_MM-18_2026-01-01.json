@@ -1,0 +1,126 @@
+{
+  "file": "RDR-2024-142_MM-18_2026-01-01.pdf",
+  "project_no": "RDR-2024-142",
+  "project_name": "Lakeview Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 18,
+  "date": "2026-01-01",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 67.0,
+    "baseline_pct": 69,
+    "days_behind": 4,
+    "cumulative_change_pct": 0.41
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Subcontractor performance concern",
+      "title_as_written": "Subcontractor performance concern",
+      "category": "Contractual",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Owner PM",
+      "evidence": "Replacement subcontractor fully mobilized. Risk closed."
+    },
+    {
+      "risk_id": "R-04",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Design clarification backlog",
+      "category": "Schedule",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Owner PM",
+      "evidence": "RFI backlog cleared. Risk closed."
+    },
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Design change",
+      "title_as_written": "Design change",
+      "category": "Cost",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "The consultant issued a preliminary revision affecting quantities near Station 6+585."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Crew availability shortfall",
+      "category": "Resource",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor PM",
+      "evidence": "Two experienced operators left the project; replacements are being sourced."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-20",
+      "description": "Provide a priority list of outstanding RFIs.",
+      "owner": "K. Campbell (City)",
+      "due": "2026-01-04",
+      "carried": true,
+      "risk_id": "R-04"
+    },
+    {
+      "id": "AI-21",
+      "description": "Confirm replacement subcontractor insurance and bonding.",
+      "owner": "K. Campbell (City)",
+      "due": "2026-01-04",
+      "carried": true,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-22",
+      "description": "Report open RFI count weekly.",
+      "owner": "K. Campbell (City)",
+      "due": "2026-01-04",
+      "carried": true,
+      "risk_id": "R-04"
+    },
+    {
+      "id": "AI-25",
+      "description": "Provide updated manpower histogram.",
+      "owner": "S. Nguyen (Ridgeline)",
+      "due": "2026-01-04",
+      "carried": false,
+      "risk_id": "R-06"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-20",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-21",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-22",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-23",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-24",
+      "status": "CLOSED"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

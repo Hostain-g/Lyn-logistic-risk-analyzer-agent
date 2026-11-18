@@ -1,0 +1,53 @@
+{
+  "file": "WMR-2025-138_MM-20_2025-10-09.pdf",
+  "project_no": "WMR-2025-138",
+  "project_name": "Harbour Water Main Replacement \u2014 Phase 2",
+  "meeting_no": 20,
+  "date": "2025-10-09",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 74.0,
+    "baseline_pct": 77,
+    "days_behind": 6,
+    "cumulative_change_pct": 0.28
+  },
+  "risks": [
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Material delivery delay",
+      "title_as_written": "Material delivery delay",
+      "category": "Supply Chain",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor Superintendent",
+      "evidence": "Expedited deliveries arranged with Redstone Pipe and Fittings; recovery of 8 days is expected if supply stabilizes."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-22",
+      "description": "Report open RFI count weekly.",
+      "owner": "L. Sato (Clearwater)",
+      "due": "2025-10-16",
+      "carried": true,
+      "risk_id": "R-04"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-22",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": [
+    {
+      "kind": "days_behind",
+      "stated": 8,
+      "correct": 6
+    }
+  ]
+}

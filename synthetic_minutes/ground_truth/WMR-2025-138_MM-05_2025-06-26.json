@@ -1,0 +1,55 @@
+{
+  "file": "WMR-2025-138_MM-05_2025-06-26.pdf",
+  "project_no": "WMR-2025-138",
+  "project_name": "Harbour Water Main Replacement \u2014 Phase 2",
+  "meeting_no": 5,
+  "date": "2025-06-26",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 18.0,
+    "baseline_pct": 19,
+    "days_behind": 2,
+    "cumulative_change_pct": 0.28
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Utility conflict",
+      "title_as_written": "Utility conflict",
+      "category": "Technical",
+      "stage": "closed",
+      "likelihood": 1,
+      "impact": 1,
+      "score": 1,
+      "rag": "Closed",
+      "owner_role": "Resident Engineer",
+      "evidence": "Utility relocation complete and work at Station 1+675 resumed. Risk closed."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-03",
+      "description": "Submit as-built records of the relocated utility.",
+      "owner": "L. Sato (Clearwater)",
+      "due": "2025-06-29",
+      "carried": true,
+      "risk_id": "R-01"
+    },
+    {
+      "id": "AI-04",
+      "description": "Update the project risk log.",
+      "owner": "G. Tran (Blue)",
+      "due": "2025-07-03",
+      "carried": false,
+      "risk_id": null
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-03",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

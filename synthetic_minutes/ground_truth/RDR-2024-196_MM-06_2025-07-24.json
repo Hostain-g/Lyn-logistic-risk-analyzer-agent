@@ -1,0 +1,33 @@
+{
+  "file": "RDR-2024-196_MM-06_2025-07-24.pdf",
+  "project_no": "RDR-2024-196",
+  "project_name": "Northgate Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 6,
+  "date": "2025-07-24",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 21.0,
+    "baseline_pct": 23,
+    "days_behind": 4,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Delayed RFI responses",
+      "title_as_written": "Delayed RFI responses",
+      "category": "Schedule",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Owner PM",
+      "evidence": "Delayed RFI responses are now holding up work at Station 6+950."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}

@@ -1,0 +1,54 @@
+{
+  "file": "RDR-2024-142_MM-25_2026-02-19.pdf",
+  "project_no": "RDR-2024-142",
+  "project_name": "Lakeview Road Reconstruction \u2014 Phase 2",
+  "meeting_no": 25,
+  "date": "2026-02-19",
+  "scanned": true,
+  "metrics": {
+    "pct_complete": 93.0,
+    "baseline_pct": 96,
+    "days_behind": 6,
+    "cumulative_change_pct": 0.41
+  },
+  "risks": [
+    {
+      "risk_id": "R-05",
+      "canonical_title": "Design change",
+      "title_as_written": "Scope change from geotechnical recommendation",
+      "category": "Cost",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 2,
+      "score": 4,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Pricing reviewed with the owner; a reduced scope option is being considered."
+    },
+    {
+      "risk_id": "R-06",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "escalated",
+      "likelihood": 4,
+      "impact": 3,
+      "score": 12,
+      "rag": "Amber",
+      "owner_role": "Contractor PM",
+      "evidence": "Labour shortfall persists; subcontractor has not committed additional workers."
+    }
+  ],
+  "action_items": [],
+  "previous_actions": [],
+  "change_orders": [
+    {
+      "id": "CO-03",
+      "amount": 52800,
+      "days": 2,
+      "status": "Rejected",
+      "risk_id": "R-05"
+    }
+  ],
+  "injected_inconsistencies": []
+}

@@ -1,0 +1,101 @@
+{
+  "file": "RSW-2026-168_MM-07_2025-12-25.pdf",
+  "project_no": "RSW-2026-168",
+  "project_name": "Riverside Storm Sewer Upgrade \u2014 Phase 3",
+  "meeting_no": 7,
+  "date": "2025-12-25",
+  "scanned": false,
+  "metrics": {
+    "pct_complete": 24.0,
+    "baseline_pct": 27,
+    "days_behind": 7,
+    "cumulative_change_pct": 0.0
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "canonical_title": "Permit approval delay",
+      "title_as_written": "Regulatory approval pending",
+      "category": "Regulatory",
+      "stage": "mitigating",
+      "likelihood": 2,
+      "impact": 3,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Owner PM",
+      "evidence": "Additional information submitted; the authority has committed to a decision within one week."
+    },
+    {
+      "risk_id": "R-02",
+      "canonical_title": "Concrete strength nonconformance",
+      "title_as_written": "Concrete strength nonconformance",
+      "category": "Quality",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Resident Engineer",
+      "evidence": "Two 28-day cylinder results were below the specified strength; investigation started."
+    },
+    {
+      "risk_id": "R-03",
+      "canonical_title": "Skilled labour shortage",
+      "title_as_written": "Skilled labour shortage",
+      "category": "Resource",
+      "stage": "raised",
+      "likelihood": 3,
+      "impact": 2,
+      "score": 6,
+      "rag": "Green",
+      "owner_role": "Contractor PM",
+      "evidence": "Two experienced operators left the project; replacements are being sourced."
+    }
+  ],
+  "action_items": [
+    {
+      "id": "AI-04",
+      "description": "Provide revised concrete mix design for the affected section.",
+      "owner": "N. Singh (Halden)",
+      "due": "2026-01-11",
+      "carried": true,
+      "risk_id": "R-02"
+    },
+    {
+      "id": "AI-05",
+      "description": "Provide updated manpower histogram.",
+      "owner": "A. Murphy (Ridgeline)",
+      "due": "2026-01-01",
+      "carried": true,
+      "risk_id": "R-03"
+    },
+    {
+      "id": "AI-06",
+      "description": "Confirm permit conditions are incorporated into the work plan.",
+      "owner": "T. Nguyen (City)",
+      "due": "2026-01-29",
+      "carried": true,
+      "risk_id": "R-01"
+    }
+  ],
+  "previous_actions": [
+    {
+      "id": "AI-02",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-03",
+      "status": "CLOSED"
+    },
+    {
+      "id": "AI-04",
+      "status": "OPEN - Overdue"
+    },
+    {
+      "id": "AI-05",
+      "status": "OPEN - Overdue"
+    }
+  ],
+  "change_orders": [],
+  "injected_inconsistencies": []
+}
