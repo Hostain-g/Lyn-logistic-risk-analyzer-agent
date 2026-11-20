@@ -1,0 +1,8 @@
+project_no,reg_id,title,category,first_meeting,first_date,last_meeting,last_date,status,score,n_mentions
+CCC-2024-011,CCC-2024-011-R01,127) Technical Risk (Amber): Differing site conditions,Technical,6,2025-03-20,13,2025-05-08,closed,1,8
+CCC-2024-011,CCC-2024-011-R02,Adverse weather delays,Schedule,7,2025-03-27,25,2025-07-31,escalated,12,19
+CCC-2024-011,CCC-2024-011-R03,Equipment breakdown,Resource,7,2025-03-27,17,2025-06-05,closed,1,11
+CCC-2024-011,CCC-2024-011-R04,127) Technical Risk (Green): Utility conflict,Technical,19,2025-06-19,22,2025-07-10,closed,1,4
+CCC-2024-102,CCC-2024-102-R01,Rain and saturated ground conditions,Schedule,1,2025-10-23,5,2025-11-20,escalated,12,5
+CCC-2024-102,CCC-2024-102-R02,Subcontractor performance concern,Contractual,1,2025-10-23,5,2025-11-20,closed,1,5
+CCC-2024-102,CCC-2024-102-R03,127) Cost Risk (Green): Revised design requirements,Cost,3,2025-11-06,5,2025-11-20,raised,12,3

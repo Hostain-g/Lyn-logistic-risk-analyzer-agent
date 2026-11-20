@@ -1,0 +1,599 @@
+{
+ "CCC-2024-011": [
+  {
+   "reg_id": "CCC-2024-011-R01",
+   "title": "127) Technical Risk (Amber): Differing site conditions",
+   "category": "Technical",
+   "first_meeting": 6,
+   "first_date": "2025-03-20",
+   "last_meeting": 13,
+   "last_date": "2025-05-08",
+   "status": "closed",
+   "score": 1,
+   "text": "ng site conditions Geotechnical review recommends deeper excavation at Level 3, Grid A8; estimated impact $146,300 and 4 working days. 127) Technical Risk (Red): Differing site conditions. Geotechnical review recommends deeper excavation at Level 3, Grid A8; estimated impact $146,300 and 4 working days. Technical 127) Technical Risk (Red): Differing site conditions Geotechnical review recommends deeper excavation at Level 3, Grid A8; estimated impact $146,300 and 4 working days. 127) Technical Risk (Red): Differing site conditions. Geotechnical review recommends deeper excavation at Level 3, Grid A8; estimated impact $146,300 and 4 working days. Technical 127) Technical Risk (Red): Differing site conditions Unsuitable material extends beyond the initial extent; additional removal and replacement required. 127) Technical Risk (Red): Differing site conditions. Unsuitable material extends beyond the initial extent; additional removal and replacement required. Technical 127) Technical Risk (Green): Differing site conditions Revised foundation detail issued; contractor proceeding with removal and replacement. 127) Technical Risk (Green): Differing site conditions. Revised foundation detail issued; contractor proceeding with removal and replacement. Technical 127) Technical Risk (Closed): Differing site conditions Subgrade remediation complete and accepted. Risk closed. 127) Technical Risk (Closed): Differing site conditions. Subgrade remediation complete and accepted. Risk closed.",
+   "history": [
+    {
+     "doc_id": "CCC-2024-011_MM-06_2025-03-20",
+     "meeting_no": 6,
+     "date": "2025-03-20",
+     "stage": "raised",
+     "score": 12,
+     "rag": "Amber",
+     "title_as_written": "127) Technical Risk (Amber): Differing site conditions"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-07_2025-03-27",
+     "meeting_no": 7,
+     "date": "2025-03-27",
+     "stage": "raised",
+     "score": 12,
+     "rag": "Amber",
+     "title_as_written": "Unsuitable subgrade material"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-08_2025-04-03",
+     "meeting_no": 8,
+     "date": "2025-04-03",
+     "stage": "escalated",
+     "score": 16,
+     "rag": "Red",
+     "title_as_written": "127) Technical Risk (Red): Differing site conditions"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-09_2025-04-10",
+     "meeting_no": 9,
+     "date": "2025-04-10",
+     "stage": "raised",
+     "score": 12,
+     "rag": "Amber",
+     "title_as_written": "127) Technical Risk (Red): Differing site conditions"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-10_2025-04-17",
+     "meeting_no": 10,
+     "date": "2025-04-17",
+     "stage": "raised",
+     "score": 12,
+     "rag": "Amber",
+     "title_as_written": "127) Technical Risk (Red): Differing site conditions"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-11_2025-04-24",
+     "meeting_no": 11,
+     "date": "2025-04-24",
+     "stage": "escalated",
+     "score": 16,
+     "rag": "Red",
+     "title_as_written": "127) Technical Risk (Red): Differing site conditions"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-12_2025-05-01",
+     "meeting_no": 12,
+     "date": "2025-05-01",
+     "stage": "raised",
+     "score": 12,
+     "rag": "Amber",
+     "title_as_written": "127) Technical Risk (Green): Differing site conditions"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-13_2025-05-08",
+     "meeting_no": 13,
+     "date": "2025-05-08",
+     "stage": "closed",
+     "score": 1,
+     "rag": "Closed",
+     "title_as_written": "127) Technical Risk (Closed): Differing site conditions"
+    }
+   ]
+  },
+  {
+   "reg_id": "CCC-2024-011-R02",
+   "title": "Adverse weather delays",
+   "category": "Schedule",
+   "first_meeting": 7,
+   "first_date": "2025-03-27",
+   "last_meeting": 25,
+   "last_date": "2025-07-31",
+   "status": "escalated",
+   "score": 12,
+   "text": "at; weekend work is being considered. Adverse weather delays. Repeated rain events are eroding the schedule float; weekend work is being considered. Schedule Adverse weather delays Repeated rain events are eroding the schedule float; weekend work is being considered. Adverse weather delays. Repeated rain events are eroding the schedule float; weekend work is being considered. Schedule 127) Schedule Risk (Amber): Adverse weather delays Saturated ground conditions have now cost 1 working days and are limiting access at Level 3, Grid E3. 127) Schedule Risk (Amber): Adverse weather delays. Saturated ground conditions have now cost 1 working days and are limiting access at Level 3, Grid E3. Schedule Adverse weather delays Repeated rain events are eroding the schedule float; weekend work is being considered. Adverse weather delays. Repeated rain events are eroding the schedule float; weekend work is being considered. Schedule 127) Schedule Risk (Amber): Adverse weather delays Saturated ground conditions have now cost 1 working days and are limiting access at Level 3, Grid E3. 127) Schedule Risk (Amber): Adverse weather delays. Saturated ground conditions have now cost 1 working days and are limiting access at Level 3, Grid E3. Schedule Adverse weather delays Saturated ground conditions have now cost 1 working days and are limiting access at Level 3, Grid E3. Adverse weather delays. Saturated ground conditions have now cost 1 working days and are limiting access at Level 3, Grid E3.",
+   "history": [
+    {
+     "doc_id": "CCC-2024-011_MM-07_2025-03-27",
+     "meeting_no": 7,
+     "date": "2025-03-27",
+     "stage": "raised",
+     "score": 9,
+     "rag": "Amber",
+     "title_as_written": "Adverse weather delays"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-08_2025-04-03",
+     "meeting_no": 8,
+     "date": "2025-04-03",
+     "stage": "raised",
+     "score": 9,
+     "rag": "Amber",
+     "title_as_written": "127) Schedule Risk (Green): Adverse weather delays"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-09_2025-04-10",
+     "meeting_no": 9,
+     "date": "2025-04-10",
+     "stage": "raised",
+     "score": 9,
+     "rag": "Amber",
+     "title_as_written": "127) Schedule Risk (Green): Adverse weather delays"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-10_2025-04-17",
+     "meeting_no": 10,
+     "date": "2025-04-17",
+     "stage": "raised",
+     "score": 9,
+     "rag": "Amber",
+     "title_as_written": "127) Schedule Risk (Amber): Adverse weather delays"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-11_2025-04-24",
+     "meeting_no": 11,
+     "date": "2025-04-24",
+     "stage": "raised",
+     "score": 9,
+     "rag": "Amber",
+     "title_as_written": "127) Schedule Risk (Amber): Weather-related lost days"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-12_2025-05-01",
+     "meeting_no": 12,
+     "date": "2025-05-01",
+     "stage": "raised",
+     "score": 9,
+     "rag": "Amber",
+     "title_as_written": "127) Schedule Risk (Amber): Rain and saturated ground conditions"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-13_2025-05-08",
+     "meeting_no": 13,
+     "date": "2025-05-08",
+     "stage": "raised",
+     "score": 9,
+     "rag": "Amber",
+     "title_as_written": "127) Schedule Risk (Amber): Adverse weather delays"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-14_2025-05-15",
+     "meeting_no": 14,
+     "date": "2025-05-15",
+     "stage": "raised",
+     "score": 9,
+     "rag": "Amber",
+     "title_as_written": "Adverse weather delays"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-15_2025-05-22",
+     "meeting_no": 15,
+     "date": "2025-05-22",
+     "stage": "raised",
+     "score": 9,
+     "rag": "Amber",
+     "title_as_written": "127) Schedule Risk (Amber): Weather-related lost days"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-16_2025-05-29",
+     "meeting_no": 16,
+     "date": "2025-05-29",
+     "stage": "raised",
+     "score": 9,
+     "rag": "Amber",
+     "title_as_written": "127) Schedule Risk (Amber): Weather-related lost days"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-17_2025-06-05",
+     "meeting_no": 17,
+     "date": "2025-06-05",
+     "stage": "raised",
+     "score": 9,
+     "rag": "Amber",
+     "title_as_written": "127) Schedule Risk (Amber): Weather-related lost days"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-18_2025-06-12",
+     "meeting_no": 18,
+     "date": "2025-06-12",
+     "stage": "escalated",
+     "score": 12,
+     "rag": "Amber",
+     "title_as_written": "127) Schedule Risk (Amber): Adverse weather delays"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-19_2025-06-19",
+     "meeting_no": 19,
+     "date": "2025-06-19",
+     "stage": "escalated",
+     "score": 12,
+     "rag": "Amber",
+     "title_as_written": "127) Schedule Risk (Amber): Adverse weather delays"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-20_2025-06-26",
+     "meeting_no": 20,
+     "date": "2025-06-26",
+     "stage": "raised",
+     "score": 9,
+     "rag": "Amber",
+     "title_as_written": "Adverse weather delays"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-21_2025-07-03",
+     "meeting_no": 21,
+     "date": "2025-07-03",
+     "stage": "raised",
+     "score": 9,
+     "rag": "Amber",
+     "title_as_written": "Adverse weather delays"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-22_2025-07-10",
+     "meeting_no": 22,
+     "date": "2025-07-10",
+     "stage": "escalated",
+     "score": 12,
+     "rag": "Amber",
+     "title_as_written": "127) Schedule Risk (Amber): Adverse weather delays"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-23_2025-07-17",
+     "meeting_no": 23,
+     "date": "2025-07-17",
+     "stage": "raised",
+     "score": 9,
+     "rag": "Amber",
+     "title_as_written": "Adverse weather delays"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-24_2025-07-24",
+     "meeting_no": 24,
+     "date": "2025-07-24",
+     "stage": "escalated",
+     "score": 12,
+     "rag": "Amber",
+     "title_as_written": "127) Schedule Risk (Amber): Adverse weather delays"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-25_2025-07-31",
+     "meeting_no": 25,
+     "date": "2025-07-31",
+     "stage": "escalated",
+     "score": 12,
+     "rag": "Amber",
+     "title_as_written": "Adverse weather delays"
+    }
+   ]
+  },
+  {
+   "reg_id": "CCC-2024-011-R03",
+   "title": "Equipment breakdown",
+   "category": "Resource",
+   "first_meeting": 7,
+   "first_date": "2025-03-27",
+   "last_meeting": 17,
+   "last_date": "2025-06-05",
+   "status": "closed",
+   "score": 1,
+   "text": "ure Repairs are taking longer than expected; a rental unit is being sourced. 127) Resource Risk (Amber): Plant failure. Repairs are taking longer than expected; a rental unit is being sourced. Resource 127) Resource Risk (Amber): Equipment breakdown Second breakdown on the same unit; production at Level 2, Grid E3 is reduced. 127) Resource Risk (Amber): Equipment breakdown. Second breakdown on the same unit; production at Level 2, Grid E3 is reduced. Resource 127) Resource Risk (Green): Equipment breakdown Rental equipment delivered and production has resumed. 127) Resource Risk (Green): Equipment breakdown. Rental equipment delivered and production has resumed. Resource Equipment breakdown Rental equipment delivered and production has resumed. Equipment breakdown. Rental equipment delivered and production has resumed. Resource 127) Resource Risk (Green): Equipment breakdown Repair completed; the contractor added a standby unit. 127) Resource Risk (Green): Equipment breakdown. Repair completed; the contractor added a standby unit. Resource 127) Resource Risk (Green): Equipment breakdown Rental equipment delivered and production has resumed. 127) Resource Risk (Green): Equipment breakdown. Rental equipment delivered and production has resumed. Resource 127) Resource Risk (Closed): Equipment breakdown Equipment fully operational with standby available. Risk closed. 127) Resource Risk (Closed): Equipment breakdown. Equipment fully operational with standby available. Risk closed.",
+   "history": [
+    {
+     "doc_id": "CCC-2024-011_MM-07_2025-03-27",
+     "meeting_no": 7,
+     "date": "2025-03-27",
+     "stage": "raised",
+     "score": 9,
+     "rag": "Amber",
+     "title_as_written": "Equipment breakdown"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-08_2025-04-03",
+     "meeting_no": 8,
+     "date": "2025-04-03",
+     "stage": "raised",
+     "score": 9,
+     "rag": "Amber",
+     "title_as_written": "127) Resource Risk (Green): Equipment breakdown"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-09_2025-04-10",
+     "meeting_no": 9,
+     "date": "2025-04-10",
+     "stage": "mitigating",
+     "score": 4,
+     "rag": "Green",
+     "title_as_written": "127) Resource Risk (Amber): Plant failure"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-10_2025-04-17",
+     "meeting_no": 10,
+     "date": "2025-04-17",
+     "stage": "mitigating",
+     "score": 4,
+     "rag": "Green",
+     "title_as_written": "127) Resource Risk (Amber): Equipment breakdown"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-11_2025-04-24",
+     "meeting_no": 11,
+     "date": "2025-04-24",
+     "stage": "raised",
+     "score": 9,
+     "rag": "Amber",
+     "title_as_written": "127) Resource Risk (Amber): Plant failure"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-12_2025-05-01",
+     "meeting_no": 12,
+     "date": "2025-05-01",
+     "stage": "mitigating",
+     "score": 4,
+     "rag": "Green",
+     "title_as_written": "127) Resource Risk (Amber): Equipment breakdown"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-13_2025-05-08",
+     "meeting_no": 13,
+     "date": "2025-05-08",
+     "stage": "mitigating",
+     "score": 4,
+     "rag": "Green",
+     "title_as_written": "127) Resource Risk (Green): Equipment breakdown"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-14_2025-05-15",
+     "meeting_no": 14,
+     "date": "2025-05-15",
+     "stage": "mitigating",
+     "score": 4,
+     "rag": "Green",
+     "title_as_written": "Equipment breakdown"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-15_2025-05-22",
+     "meeting_no": 15,
+     "date": "2025-05-22",
+     "stage": "mitigating",
+     "score": 4,
+     "rag": "Green",
+     "title_as_written": "127) Resource Risk (Green): Equipment breakdown"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-16_2025-05-29",
+     "meeting_no": 16,
+     "date": "2025-05-29",
+     "stage": "mitigating",
+     "score": 4,
+     "rag": "Green",
+     "title_as_written": "127) Resource Risk (Green): Equipment breakdown"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-17_2025-06-05",
+     "meeting_no": 17,
+     "date": "2025-06-05",
+     "stage": "closed",
+     "score": 1,
+     "rag": "Closed",
+     "title_as_written": "127) Resource Risk (Closed): Equipment breakdown"
+    }
+   ]
+  },
+  {
+   "reg_id": "CCC-2024-011-R04",
+   "title": "127) Technical Risk (Green): Utility conflict",
+   "category": "Technical",
+   "first_meeting": 19,
+   "first_date": "2025-06-19",
+   "last_meeting": 22,
+   "last_date": "2025-07-10",
+   "status": "closed",
+   "score": 1,
+   "text": "Technical 127) Technical Risk (Green): Utility conflict A buried utility was exposed near Level 3, Grid E1 that conflicts with the design alignment. 127) Technical Risk (Green): Utility conflict. A buried utility was exposed near Level 3, Grid E1 that conflicts with the design alignment. Technical 127) Technical Risk (Green): Utility conflict A buried utility was exposed near Level 3, Grid E1 that conflicts with the design alignment. 127) Technical Risk (Green): Utility conflict. A buried utility was exposed near Level 3, Grid E1 that conflicts with the design alignment. Technical Utility conflict Relocation agreed with the utility owner; contractor to provide support work at Level 3, Grid E1. Utility conflict. Relocation agreed with the utility owner; contractor to provide support work at Level 3, Grid E1. Technical Utility conflict Revised alignment issued by RFI response; work at Level 3, Grid E1 resuming. Utility conflict. Revised alignment issued by RFI response; work at Level 3, Grid E1 resuming. Technical 127) Technical Risk (Closed): Utility conflict Utility relocation complete and work at Level 3, Grid E1 resumed. Risk closed. 127) Technical Risk (Closed): Utility conflict. Utility relocation complete and work at Level 3, Grid E1 resumed. Risk closed.",
+   "history": [
+    {
+     "doc_id": "CCC-2024-011_MM-19_2025-06-19",
+     "meeting_no": 19,
+     "date": "2025-06-19",
+     "stage": "raised",
+     "score": 12,
+     "rag": "Amber",
+     "title_as_written": "127) Technical Risk (Green): Utility conflict"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-20_2025-06-26",
+     "meeting_no": 20,
+     "date": "2025-06-26",
+     "stage": "mitigating",
+     "score": 6,
+     "rag": "Green",
+     "title_as_written": "Utility conflict"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-21_2025-07-03",
+     "meeting_no": 21,
+     "date": "2025-07-03",
+     "stage": "mitigating",
+     "score": 6,
+     "rag": "Green",
+     "title_as_written": "Utility conflict"
+    },
+    {
+     "doc_id": "CCC-2024-011_MM-22_2025-07-10",
+     "meeting_no": 22,
+     "date": "2025-07-10",
+     "stage": "closed",
+     "score": 1,
+     "rag": "Closed",
+     "title_as_written": "127) Technical Risk (Closed): Utility conflict"
+    }
+   ]
+  }
+ ],
+ "CCC-2024-102": [
+  {
+   "reg_id": "CCC-2024-102-R01",
+   "title": "Rain and saturated ground conditions",
+   "category": "Schedule",
+   "first_meeting": 1,
+   "first_date": "2025-10-23",
+   "last_meeting": 5,
+   "last_date": "2025-11-20",
+   "status": "escalated",
+   "score": 12,
+   "text": "ule Rain and saturated ground conditions Forecast shows extended wet weather; some earthworks may be affected. Rain and saturated ground conditions. Forecast shows extended wet weather; some earthworks may be affected. Schedule Rain and saturated ground conditions Forecast shows extended wet weather; some earthworks may be affected. Rain and saturated ground conditions. Forecast shows extended wet weather; some earthworks may be affected. Schedule 127) Schedule Risk (Green): Weather-related lost days Forecast shows extended wet weather; some earthworks may be affected. 127) Schedule Risk (Green): Weather-related lost days. Forecast shows extended wet weather; some earthworks may be affected. Schedule 127) Schedule Risk (Green): Rain and saturated ground conditions Forecast shows extended wet weather; some earthworks may be affected. 127) Schedule Risk (Green): Rain and saturated ground conditions. Forecast shows extended wet weather; some earthworks may be affected. Schedule Adverse weather delays Saturated ground conditions have now cost 1 working days and are limiting access at Level 3, Grid B5. Adverse weather delays. Saturated ground conditions have now cost 1 working days and are limiting access at Level 3, Grid B5. Schedule Adverse weather delays Saturated ground conditions have now cost 1 working days and are limiting access at Level 3, Grid B5. Adverse weather delays. Saturated ground conditions have now cost 1 working days and are limiting access at Level 3, Grid B5.",
+   "history": [
+    {
+     "doc_id": "CCC-2024-102_MM-01_2025-10-23",
+     "meeting_no": 1,
+     "date": "2025-10-23",
+     "stage": "raised",
+     "score": 9,
+     "rag": "Amber",
+     "title_as_written": "Rain and saturated ground conditions"
+    },
+    {
+     "doc_id": "CCC-2024-102_MM-02_2025-10-30",
+     "meeting_no": 2,
+     "date": "2025-10-30",
+     "stage": "raised",
+     "score": 9,
+     "rag": "Amber",
+     "title_as_written": "127) Schedule Risk (Green): Weather-related lost days"
+    },
+    {
+     "doc_id": "CCC-2024-102_MM-03_2025-11-06",
+     "meeting_no": 3,
+     "date": "2025-11-06",
+     "stage": "raised",
+     "score": 9,
+     "rag": "Amber",
+     "title_as_written": "127) Schedule Risk (Green): Rain and saturated ground conditions"
+    },
+    {
+     "doc_id": "CCC-2024-102_MM-04_2025-11-13",
+     "meeting_no": 4,
+     "date": "2025-11-13",
+     "stage": "escalated",
+     "score": 12,
+     "rag": "Amber",
+     "title_as_written": "Adverse weather delays"
+    },
+    {
+     "doc_id": "CCC-2024-102_MM-05_2025-11-20",
+     "meeting_no": 5,
+     "date": "2025-11-20",
+     "stage": "escalated",
+     "score": 12,
+     "rag": "Amber",
+     "title_as_written": "Adverse weather delays"
+    }
+   ]
+  },
+  {
+   "reg_id": "CCC-2024-102-R02",
+   "title": "Subcontractor performance concern",
+   "category": "Contractual",
+   "first_meeting": 1,
+   "first_date": "2025-10-23",
+   "last_meeting": 5,
+   "last_date": "2025-11-20",
+   "status": "closed",
+   "score": 1,
+   "text": "Contractual Subcontractor performance concern Owner raised concerns about the subcontractor\u2019s slow mobilization and unpaid supplier notices. Subcontractor performance concern. Owner raised concerns about the subcontractor\u2019s slow mobilization and unpaid supplier notices. Contractual Subcontractor performance concern Owner raised concerns about the subcontractor\u2019s slow mobilization and unpaid supplier notices. Subcontractor performance concern. Owner raised concerns about the subcontractor\u2019s slow mobilization and unpaid supplier notices. Contractual 127) Contractual Risk (Amber): Subcontractor performance concern A lien notice was received relating to a subcontractor on the project. 127) Contractual Risk (Amber): Subcontractor performance concern. A lien notice was received relating to a subcontractor on the project. Contractual 127) Contractual Risk (Red): Subcontractor financial instability Subcontractor has missed two commitments; default notice under consideration. 127) Contractual Risk (Red): Subcontractor financial instability. Subcontractor has missed two commitments; default notice under consideration. Contractual Subcontractor default risk Replacement subcontractor identified and mobilizing. Subcontractor default risk. Replacement subcontractor identified and mobilizing. Contractual Subcontractor performance concern Replacement subcontractor fully mobilized. Risk closed. Subcontractor performance concern. Replacement subcontractor fully mobilized. Risk closed.",
+   "history": [
+    {
+     "doc_id": "CCC-2024-102_MM-01_2025-10-23",
+     "meeting_no": 1,
+     "date": "2025-10-23",
+     "stage": "mitigating",
+     "score": 6,
+     "rag": "Green",
+     "title_as_written": "Subcontractor performance concern"
+    },
+    {
+     "doc_id": "CCC-2024-102_MM-02_2025-10-30",
+     "meeting_no": 2,
+     "date": "2025-10-30",
+     "stage": "raised",
+     "score": 12,
+     "rag": "Amber",
+     "title_as_written": "127) Contractual Risk (Amber): Subcontractor performance concern"
+    },
+    {
+     "doc_id": "CCC-2024-102_MM-03_2025-11-06",
+     "meeting_no": 3,
+     "date": "2025-11-06",
+     "stage": "escalated",
+     "score": 16,
+     "rag": "Red",
+     "title_as_written": "127) Contractual Risk (Red): Subcontractor financial instability"
+    },
+    {
+     "doc_id": "CCC-2024-102_MM-04_2025-11-13",
+     "meeting_no": 4,
+     "date": "2025-11-13",
+     "stage": "mitigating",
+     "score": 6,
+     "rag": "Green",
+     "title_as_written": "Subcontractor default risk"
+    },
+    {
+     "doc_id": "CCC-2024-102_MM-05_2025-11-20",
+     "meeting_no": 5,
+     "date": "2025-11-20",
+     "stage": "closed",
+     "score": 1,
+     "rag": "Closed",
+     "title_as_written": "Subcontractor performance concern"
+    }
+   ]
+  },
+  {
+   "reg_id": "CCC-2024-102-R03",
+   "title": "127) Cost Risk (Green): Revised design requirements",
+   "category": "Cost",
+   "first_meeting": 3,
+   "first_date": "2025-11-06",
+   "last_meeting": 5,
+   "last_date": "2025-11-20",
+   "status": "raised",
+   "score": 12,
+   "text": "Cost 127) Cost Risk (Green): Revised design requirements The consultant issued a preliminary revision affecting quantities near Level 1, Grid C7. 127) Cost Risk (Green): Revised design requirements. The consultant issued a preliminary revision affecting quantities near Level 1, Grid C7. Cost 127) Cost Risk (Green): Revised design requirements The consultant issued a preliminary revision affecting quantities near Level 1, Grid C7. 127) Cost Risk (Green): Revised design requirements. The consultant issued a preliminary revision affecting quantities near Level 1, Grid C7. Cost Design change A design revision is anticipated at Level 1, Grid C7 following the latest field review. Design change. A design revision is anticipated at Level 1, Grid C7 following the latest field review. Cost Design change A design revision is anticipated at Level 1, Grid C7 following the latest field review. Design change. A design revision is anticipated at Level 1, Grid C7 following the latest field review.",
+   "history": [
+    {
+     "doc_id": "CCC-2024-102_MM-03_2025-11-06",
+     "meeting_no": 3,
+     "date": "2025-11-06",
+     "stage": "raised",
+     "score": 12,
+     "rag": "Amber",
+     "title_as_written": "127) Cost Risk (Green): Revised design requirements"
+    },
+    {
+     "doc_id": "CCC-2024-102_MM-04_2025-11-13",
+     "meeting_no": 4,
+     "date": "2025-11-13",
+     "stage": "raised",
+     "score": 12,
+     "rag": "Amber",
+     "title_as_written": "Design change"
+    },
+    {
+     "doc_id": "CCC-2024-102_MM-05_2025-11-20",
+     "meeting_no": 5,
+     "date": "2025-11-20",
+     "stage": "raised",
+     "score": 12,
+     "rag": "Amber",
+     "title_as_written": "Design change"
+    }
+   ]
+  }
+ ]
+}
